@@ -1,0 +1,13 @@
+{
+  "doc_id": "fta_assessment_report_958a6dccd9ee590e",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "technical",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "data/fta_assessment_report.pdf",
+    "filename": "fta_assessment_report.pdf"
+  }
+}

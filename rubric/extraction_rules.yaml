@@ -1,0 +1,46 @@
+# Extraction rules and thresholds for DocRefinery
+# Externalized so new document types can be onboarded by editing this file, not code.
+
+extraction:
+  # Strategy A (Fast Text) confidence gates
+  fast_text:
+    min_chars_per_page: 100
+    max_image_area_ratio: 0.5
+    min_confidence_to_accept: 0.6
+    # Below this, escalation to Layout (Strategy B) is triggered
+
+  # Escalation guard
+  escalation:
+    confidence_threshold: 0.6
+    # Escalation order: fast_text -> layout -> vision
+
+  # Strategy B (Layout) — when to prefer over fast_text
+  layout:
+    # Use when profile has: multi_column, table_heavy, figure_heavy, or mixed
+    prefer_for_layouts: [multi_column, table_heavy, figure_heavy, mixed]
+    prefer_for_origin: [mixed]
+
+  # Strategy C (Vision) — when required
+  vision:
+    required_for_origin: [scanned_image]
+    budget_usd_per_doc: 0.50
+    max_pages_per_doc: 20  # Cap pages sent to VLM for cost
+
+# Chunking constitution (Semantic Chunking Engine — Phase 3)
+# Rules enforced by ChunkValidator
+chunking:
+  # A table cell is never split from its header row
+  table_keep_header_with_cells: true
+  # A figure caption is always stored as metadata of its parent figure chunk
+  figure_caption_as_metadata: true
+  # A numbered list is always kept as a single LDU unless it exceeds max_tokens
+  list_max_tokens: 512
+  list_keep_together: true
+  # Section headers are stored as parent metadata on all child chunks within that section
+  section_header_as_parent_metadata: true
+  # Cross-references (e.g. "see Table 3") are resolved and stored as chunk relationships
+  resolve_cross_references: true
+
+  # Defaults for LDU emission
+  max_tokens_per_chunk: 512
+  overlap_tokens: 32

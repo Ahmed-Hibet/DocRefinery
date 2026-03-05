@@ -1,0 +1,13 @@
+{
+  "doc_id": "fta_performance_survey_final_r_f7e4819df1231786",
+  "origin_type": "mixed",
+  "layout_complexity": "mixed",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "technical",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "data/fta_performance_survey_final_report_2022.pdf",
+    "filename": "fta_performance_survey_final_report_2022.pdf"
+  }
+}

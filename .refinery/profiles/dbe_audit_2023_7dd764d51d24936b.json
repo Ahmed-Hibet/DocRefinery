@@ -1,0 +1,13 @@
+{
+  "doc_id": "dbe_audit_2023_7dd764d51d24936b",
+  "origin_type": "scanned_image",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "legal",
+  "estimated_extraction_cost": "needs_vision_model",
+  "metadata": {
+    "source_path": "data/dbe_audit_2023.pdf",
+    "filename": "dbe_audit_2023.pdf"
+  }
+}

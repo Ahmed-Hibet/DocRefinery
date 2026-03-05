@@ -1,0 +1,13 @@
+{
+  "doc_id": "cbe_annual_report_2023_24_v2_0998c6817d1e48f9",
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "data/cbe_annual_report_2023_24_v2.pdf",
+    "filename": "cbe_annual_report_2023_24_v2.pdf"
+  }
+}

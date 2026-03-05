@@ -1,0 +1,13 @@
+{
+  "doc_id": "Audit Report - 2023_d14261548e791be8",
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_vision_model",
+  "metadata": {
+    "source_path": "data/Audit Report - 2023.pdf",
+    "filename": "Audit Report - 2023.pdf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "annual_report_sample_888842e32fb6db1e",
+  "origin_type": "native_digital",
+  "layout_complexity": "single_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "fast_text_sufficient",
+  "metadata": {
+    "source_path": "data/annual_report_sample.pdf",
+    "filename": "annual_report_sample.pdf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "doc_id": "import_tax_expenditure_fy_c4bca0a7e741ec64",
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "data/import_tax_expenditure_fy.pdf",
+    "filename": "import_tax_expenditure_fy.pdf"
+  }
+}
