@@ -35,6 +35,7 @@ def _vision_extract_via_openrouter(
     path: Path,
     profile: DocumentProfile,
     budget_usd: float = 0.50,
+    max_pages_per_doc: int = 20,
 ) -> tuple[ExtractedDocument, float]:
     """Call OpenRouter VLM; enforce budget_usd cap (tracking can be added)."""
     """
@@ -57,7 +58,7 @@ def _vision_extract_via_openrouter(
     try:
         import fitz
         doc_fitz = fitz.open(path)
-        pages = list(range(1, min(len(doc_fitz) + 1, 6)))  # Cap pages for cost
+        pages = list(range(1, min(len(doc_fitz) + 1, max_pages_per_doc + 1)))  # Cap pages from config
         doc_fitz.close()
     except Exception:
         pages = [1]
@@ -159,15 +160,20 @@ def _vision_extract_via_openrouter(
 
 
 class VisionExtractor:
-    """Strategy C: VLM-based extraction with budget guard."""
+    """Strategy C: VLM-based extraction with budget guard. Config from extraction_rules.yaml."""
 
     strategy_name = "vision"
 
-    def __init__(self, budget_usd_per_doc: float = 0.50):
+    def __init__(self, budget_usd_per_doc: float = 0.50, max_pages_per_doc: int = 20):
         self.budget_usd_per_doc = budget_usd_per_doc
+        self.max_pages_per_doc = max_pages_per_doc
 
     def can_handle(self, profile: DocumentProfile) -> bool:
         return True
 
     def extract(self, path: Path, profile: DocumentProfile) -> tuple[ExtractedDocument, float]:
-        return _vision_extract_via_openrouter(path, profile, budget_usd=self.budget_usd_per_doc)
+        return _vision_extract_via_openrouter(
+            path, profile,
+            budget_usd=self.budget_usd_per_doc,
+            max_pages_per_doc=self.max_pages_per_doc,
+        )

@@ -1,13 +1,16 @@
 """
 ExtractionRouter: strategy pattern with confidence-gated escalation.
 Selects Fast Text / Layout / Vision from DocumentProfile and escalates when confidence is low.
+Thresholds and budgets are loaded from config (rubric/extraction_rules.yaml).
 """
 
 from __future__ import annotations
 
 import time
 from pathlib import Path
+from typing import Any
 
+from src.config import get_extraction_config, load_config
 from src.models import DocumentProfile, EstimatedCost, ExtractedDocument
 from src.models.ledger import ExtractionLedgerEntry
 from src.strategies.fast_text import FastTextExtractor
@@ -15,26 +18,39 @@ from src.strategies.layout import LayoutExtractor
 from src.strategies.vision import VisionExtractor
 
 
-# Default confidence threshold below which we escalate (Strategy A -> B, or B -> C)
-DEFAULT_ESCALATION_THRESHOLD = 0.6
-
-
 class ExtractionRouter:
     """
     Routes to the appropriate extractor based on DocumentProfile.
     Implements escalation guard: if Strategy A returns low confidence, retry with B (then C if needed).
+    When final confidence remains below threshold after all strategies, sets review_required for audit.
     """
 
     def __init__(
         self,
-        escalation_threshold: float = DEFAULT_ESCALATION_THRESHOLD,
+        escalation_threshold: float | None = None,
         ledger_path: Path | None = None,
+        config: dict[str, Any] | None = None,
     ):
-        self.escalation_threshold = escalation_threshold
+        self._config = config if config is not None else load_config()
+        ex = get_extraction_config(self._config)
+        self.escalation_threshold = (
+            float(escalation_threshold)
+            if escalation_threshold is not None
+            else float(ex.get("escalation", {}).get("confidence_threshold", 0.6))
+        )
         self.ledger_path = Path(ledger_path) if ledger_path else Path(".refinery/extraction_ledger.jsonl")
-        self.fast_text = FastTextExtractor()
+        ft = ex.get("fast_text", {})
+        v = ex.get("vision", {})
+        self.fast_text = FastTextExtractor(
+            min_chars_per_page=int(ft.get("min_chars_per_page", 100)),
+            max_image_area_ratio=float(ft.get("max_image_area_ratio", 0.5)),
+            min_confidence=float(ft.get("min_confidence_to_accept", 0.6)),
+        )
         self.layout = LayoutExtractor()
-        self.vision = VisionExtractor()
+        self.vision = VisionExtractor(
+            budget_usd_per_doc=float(v.get("budget_usd_per_doc", 0.50)),
+            max_pages_per_doc=int(v.get("max_pages_per_doc", 20)),
+        )
 
     def _strategy_for_profile(self, profile: DocumentProfile) -> str:
         """Decide which strategy to try first from profile."""
@@ -111,6 +127,7 @@ class ExtractionRouter:
             cost_estimate = 0.05
 
         page_count = len(doc.pages) if doc.pages else 0
+        review_required = confidence < self.escalation_threshold
         entry = ExtractionLedgerEntry(
             doc_id=profile.doc_id,
             strategy_used=strategy,
@@ -119,6 +136,7 @@ class ExtractionRouter:
             processing_time_seconds=round(total_time, 2),
             page_count=page_count,
             escalated_from=escalated_from,
+            review_required=review_required,
         )
         self._append_ledger(entry)
 

@@ -25,24 +25,29 @@ from src.utils.pdf_analysis import (
 )
 
 
-# Thresholds from extraction_rules (loaded at runtime or use defaults)
+# Defaults when config is not provided (should match rubric/extraction_rules.yaml)
 DEFAULT_MIN_CHARS_PER_PAGE = 100
 DEFAULT_MAX_IMAGE_AREA_RATIO = 0.5
 DEFAULT_MIN_CONFIDENCE = 0.6
 
 
-def _confidence_from_page_stats(page_stats_list: list[PageStats]) -> float:
+def _confidence_from_page_stats(
+    page_stats_list: list[PageStats],
+    min_chars_per_page: int = DEFAULT_MIN_CHARS_PER_PAGE,
+    max_image_area_ratio: float = DEFAULT_MAX_IMAGE_AREA_RATIO,
+) -> float:
     """
     Multi-signal confidence: character count, density, image ratio, font presence.
     Returns value in [0, 1]. Low => escalate to Layout or Vision.
+    Thresholds come from config (extraction_rules.yaml) when wired via ExtractionRouter.
     """
     if not page_stats_list:
         return 0.0
 
     scores = []
     for s in page_stats_list:
-        char_ok = 1.0 if s.char_count >= DEFAULT_MIN_CHARS_PER_PAGE else s.char_count / DEFAULT_MIN_CHARS_PER_PAGE
-        image_ok = 1.0 - s.image_area_ratio if s.image_area_ratio <= DEFAULT_MAX_IMAGE_AREA_RATIO else 0.2
+        char_ok = 1.0 if s.char_count >= min_chars_per_page else s.char_count / max(1, min_chars_per_page)
+        image_ok = 1.0 - s.image_area_ratio if s.image_area_ratio <= max_image_area_ratio else 0.2
         font_ok = 1.0 if s.has_font_metadata else 0.7
         density_ok = min(1.0, s.char_density / 2.0) if s.page_area else 0.0
         scores.append((char_ok * 0.4 + image_ok * 0.3 + font_ok * 0.15 + density_ok * 0.15))
@@ -75,7 +80,11 @@ class FastTextExtractor:
 
         path = Path(path)
         page_stats_list = get_document_page_stats(path)
-        confidence = _confidence_from_page_stats(page_stats_list)
+        confidence = _confidence_from_page_stats(
+            page_stats_list,
+            min_chars_per_page=self.min_chars_per_page,
+            max_image_area_ratio=self.max_image_area_ratio,
+        )
 
         text_blocks: list[TextBlock] = []
         tables: list[ExtractedTable] = []

@@ -13,3 +13,7 @@ class ExtractionLedgerEntry(BaseModel):
     processing_time_seconds: float = Field(default=0.0, ge=0)
     page_count: int = Field(default=0, ge=0)
     escalated_from: str | None = Field(default=None, description="Previous strategy if escalation occurred")
+    review_required: bool = Field(
+        default=False,
+        description="True when final confidence remained below threshold after all strategies; output should be flagged for human review.",
+    )

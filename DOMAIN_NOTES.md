@@ -40,16 +40,18 @@ Document ingested
 
 ---
 
-## 2. Failure Modes Observed Across Document Types
+## 2. Failure Modes by Document Class (Corpus-Aligned)
 
-| Failure mode | Cause | Document types most affected | Mitigation in Refinery |
-|--------------|--------|------------------------------|-------------------------|
-| **Structure collapse** | OCR / flat text extraction flattens columns, breaks tables, drops headers | All; worst on multi-column and table-heavy | Strategy B (layout-aware) or C (vision); normalized `ExtractedDocument` with tables as structured JSON and text blocks with bbox. |
-| **Context poverty** | Chunking severs tables, figure–caption links, section continuity | Table-heavy, technical, financial | Chunking constitution: table cells never split from header; figure caption as metadata; section header as parent metadata (Phase 3). |
-| **Provenance blindness** | No page/bbox for extracted facts | All | Every fact/chunk carries `page_refs`, `bounding_box`, and `content_hash`; `ProvenanceChain` on every answer. |
-| **Scanned-as-digital** | Heuristic wrongly classifies scanned PDF as native (e.g. embedded text layer from OCR) | Scanned gov/legal (Class B) | Triage uses character density + image area ratio + font metadata; low char count + high image area → scanned → Strategy C. |
-| **Over-use of VLM** | Sending every doc to vision model | Cost/speed | Triage + escalation: use fast text when safe; only escalate to vision when confidence is low or origin is scanned. |
-| **Table as plain text** | Tables extracted as run-on strings | Class A, C, D | Strategy B and pdfplumber `find_tables()`; output `ExtractedTable` with headers + rows + optional bbox. |
+**Why failures occur (technical):** PDF content is a display list (glyphs + positions); naive extraction uses stream order, not reading order, so columns and tables collapse. Chunking by token count splits logical units (tables, figure–caption pairs). Extractors that do not attach (page, bbox) leave no provenance. Scanned PDFs may have a weak OCR text layer, so triage can misclassify them as native. Thresholds for triage and escalation are loaded from **rubric/extraction_rules.yaml** (no hardcoding).
+
+| Failure mode | Cause (technical) | Class A (Annual) | Class B (Scanned) | Class C (Technical) | Class D (Tax tables) | Mitigation |
+|--------------|-------------------|------------------|-------------------|----------------------|----------------------|------------|
+| **Structure collapse** | Stream-order extraction; no layout model → columns/tables flattened. | Multi-column + tables become run-on text. | N/A (no native stream). | Mixed layout; tables flattened. | Numeric tables lose alignment. | Strategy B/C; `ExtractedDocument` with tables as JSON and bbox. |
+| **Context poverty** | Fixed-size chunking splits mid-table / mid-section. | Table rows split from headers. | Figures and captions split. | Section “Findings” split from list. | Multi-year table split. | Chunking rules: table+header; figure caption as metadata; section as parent (Phase 3). |
+| **Provenance blindness** | No (page, bbox) attached to extracted text. | Figures not traceable to page. | Auditor refs need page attribution. | Findings must cite section/page. | Fiscal figures must cite source. | `page_refs`, `bbox`, `content_hash`; `ProvenanceChain`. |
+| **Scanned-as-digital** | OCR text layer present but poor; triage sees chars and classifies as native. | Rare. | DBE Audit: possible if OCR layer exists. | Possible for scanned annexes. | Possible for appendices. | Triage: char density + image ratio from config → Strategy C. |
+| **Over-use of VLM** | Using vision for every doc multiplies cost/latency. | CBE report fine with fast text. | Required (no stream). | Layout often enough. | Layout first, VLM on low confidence. | Triage + escalation; `review_required` when still low. |
+| **Table as plain text** | `extract_text()` only; no table detection. | Income/balance sheet unparseable. | N/A. | Assessment tables unstructured. | Fiscal tables lose semantics. | Strategy B: `find_tables()`; `ExtractedTable` with headers + rows. |
 
 ---
 
@@ -119,10 +121,10 @@ flowchart LR
 
 ## 4. Thresholds and Justification
 
-Defined in **rubric/extraction_rules.yaml** and used by the Fast Text strategy and router:
+All thresholds are **loaded from rubric/extraction_rules.yaml** via `src.config.load_config()` and used by the Triage Agent, Fast Text strategy, ExtractionRouter, and Vision strategy. No values are hardcoded; new document types can be onboarded by editing the YAML.
 
-- **min_chars_per_page: 100** — Below this, the page likely has no meaningful text stream (e.g. image-only); contributes to low confidence and escalation.
-- **max_image_area_ratio: 0.5** — If images cover more than half the page, we assume layout/vision may be needed; reduces confidence.
-- **min_confidence_to_accept: 0.6** — Below this, we do not accept Strategy A output and escalate to B (then C if needed).
+- **extraction.fast_text.min_chars_per_page** (default 100) — Below this, the page likely has no meaningful text stream (image-only); used for origin detection in triage and for confidence scoring in Fast Text; contributes to escalation.
+- **extraction.fast_text.max_image_area_ratio** (default 0.5) — If images cover more than half the page, layout/vision may be needed; used in triage and confidence.
+- **extraction.escalation.confidence_threshold** (default 0.6) — Below this, we do not accept Strategy A output and escalate to B (then C if needed). When final confidence remains below this after all strategies, the ledger entry is written with **review_required: true** for human review.
 
 These values are conservative so that we prefer escalating to layout/vision over passing low-quality text into RAG.

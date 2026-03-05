@@ -6,9 +6,10 @@ Governs which extraction strategy downstream stages use.
 from __future__ import annotations
 
 import hashlib
-import re
 from pathlib import Path
+from typing import Any
 
+from src.config import get_extraction_config, load_config
 from src.models import (
     DocumentProfile,
     DomainHint,
@@ -26,10 +27,15 @@ def _doc_id_from_path(path: Path) -> str:
     return f"{path.stem}_{h}"
 
 
-def _classify_origin_type(page_stats_list: list[PageStats]) -> OriginType:
+def _classify_origin_type(
+    page_stats_list: list[PageStats],
+    min_chars_for_digital: int = 100,
+    max_image_ratio_for_digital: float = 0.5,
+) -> OriginType:
     """
     Classify origin: native_digital vs scanned_image vs mixed.
     Uses character density, image area ratio, and font metadata.
+    Thresholds from config (extraction.fast_text) when run_triage receives config.
     """
     if not page_stats_list:
         return OriginType.SCANNED_IMAGE
@@ -40,8 +46,8 @@ def _classify_origin_type(page_stats_list: list[PageStats]) -> OriginType:
 
     for s in page_stats_list:
         # Native digital: meaningful char stream, fonts, low image area
-        has_chars = s.char_count > 100
-        low_image = s.image_area_ratio < 0.5
+        has_chars = s.char_count > min_chars_for_digital
+        low_image = s.image_area_ratio < max_image_ratio_for_digital
         has_fonts = s.has_font_metadata
 
         if has_chars and (low_image or has_fonts):
@@ -147,16 +153,25 @@ def _estimate_extraction_cost(
     return EstimatedCost.FAST_TEXT_SUFFICIENT
 
 
-def run_triage(path: Path) -> DocumentProfile:
+def run_triage(path: Path, config: dict[str, Any] | None = None) -> DocumentProfile:
     """
     Run the Triage Agent on a document path.
     Returns a DocumentProfile that governs extraction strategy selection.
+    When config is provided (e.g. from load_config()), origin-detection thresholds
+    use extraction.fast_text.min_chars_per_page and max_image_area_ratio.
     """
     path = Path(path)
     doc_id = _doc_id_from_path(path)
     page_stats_list = get_document_page_stats(path)
 
-    origin_type = _classify_origin_type(page_stats_list)
+    ft = get_extraction_config(config or load_config()).get("fast_text", {})
+    min_chars = int(ft.get("min_chars_per_page", 100))
+    max_image = float(ft.get("max_image_area_ratio", 0.5))
+    origin_type = _classify_origin_type(
+        page_stats_list,
+        min_chars_for_digital=min_chars,
+        max_image_ratio_for_digital=max_image,
+    )
     layout_complexity = _classify_layout_complexity(page_stats_list)
 
     # Sample text from first few pages for domain hint (optional: could use fast text extract)

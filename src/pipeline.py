@@ -5,31 +5,35 @@ Refinery pipeline: run Triage -> save profile -> run Extraction -> log to ledger
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Any
 
 from src.agents.extractor import ExtractionRouter
 from src.agents.triage import run_triage
+from src.config import load_config
 
 
 REFINERY_DIR = Path(".refinery")
 PROFILES_DIR = REFINERY_DIR / "profiles"
 
 
-def run_refinery_on_document(path: Path) -> tuple[dict, str, float]:
+def run_refinery_on_document(path: Path, config: dict[str, Any] | None = None) -> tuple[dict, str, float]:
     """
     Run full pipeline on one document: triage -> save profile -> extract -> ledger.
     Returns (profile_dict, strategy_used, confidence).
+    Uses rubric/extraction_rules.yaml when config is not provided.
     """
     path = Path(path)
     if not path.exists():
         raise FileNotFoundError(path)
 
-    profile = run_triage(path)
+    cfg = config if config is not None else load_config()
+    profile = run_triage(path, config=cfg)
     PROFILES_DIR.mkdir(parents=True, exist_ok=True)
     profile_path = PROFILES_DIR / f"{profile.doc_id}.json"
     with open(profile_path, "w", encoding="utf-8") as f:
         f.write(profile.model_dump_json(indent=2))
 
-    router = ExtractionRouter(ledger_path=REFINERY_DIR / "extraction_ledger.jsonl")
+    router = ExtractionRouter(config=cfg, ledger_path=REFINERY_DIR / "extraction_ledger.jsonl")
     doc, strategy, confidence, cost = router.extract(path, profile)
     return profile.model_dump(), strategy, confidence
 
