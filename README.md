@@ -12,7 +12,8 @@ Document Intelligence Refinery — a production-grade, multi-stage agentic pipel
   - **config/** – Configuration
 - **rubric/** – Extraction rules and thresholds (`extraction_rules.yaml`)
 - **tests/** – Unit tests (Triage, extraction confidence)
-- **data/** – Input PDFs (place corpus here)
+- **data/** – Input documents (see [data/README.md](data/README.md))
+  - **documents/** – PDFs by category: `annual_reports/`, `audits_financial/`, `technical/`, `economic_indices/`
 - **.refinery/** – Runtime artifacts
   - **profiles/** – DocumentProfile JSON per document
   - **extraction_ledger.jsonl** – Extraction log (strategy, confidence, cost)
@@ -41,7 +42,7 @@ profile_dict, strategy, confidence = run_refinery_on_document(Path("data/your_do
 # Ledger entry appended to .refinery/extraction_ledger.jsonl
 ```
 
-### Run on all PDFs in `data/`
+### Run on all PDFs in `data/` or `data/documents/`
 
 ```python
 from pathlib import Path

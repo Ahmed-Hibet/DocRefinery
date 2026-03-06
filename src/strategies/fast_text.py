@@ -120,13 +120,15 @@ class FastTextExtractor:
                     data = tbl.extract()
                     if data:
                         headers = [str(c) if c is not None else "" for c in data[0]]
-                        rows = [row for row in data[1:] if any(c is not None for c in row)]
+                        rows_raw = [row for row in data[1:] if any(c is not None for c in row)]
+                        # Normalize cells: None -> "" so ExtractedTable.rows validates (TableCell | str | int | float only)
+                        rows = [[(c if isinstance(c, (str, int, float)) else ("" if c is None else str(c))) for c in row] for row in rows_raw]
                         bbox = tbl.bbox
                         if bbox and len(bbox) >= 4:
                             tables.append(
                                 ExtractedTable(
                                     headers=headers,
-                                    rows=[[c for c in row] for row in rows],
+                                    rows=rows,
                                     bbox=BoundingBox(
                                         x0=float(bbox[0]), top=float(bbox[1]), x1=float(bbox[2]), bottom=float(bbox[3]), page=pnum
                                     ),
@@ -134,7 +136,7 @@ class FastTextExtractor:
                             )
                         else:
                             tables.append(
-                                ExtractedTable(headers=headers, rows=[[c for c in row] for row in rows])
+                                ExtractedTable(headers=headers, rows=rows)
                             )
 
         raw_text = "\n\n".join(raw_parts)

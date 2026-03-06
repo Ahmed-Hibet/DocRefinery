@@ -17,6 +17,14 @@ from src.models import (
     TextBlock,
 )
 
+def _normalize_cell(c: object) -> str | int | float:
+    """Coerce cell value for ExtractedTable.rows; None -> ''."""
+    if c is None:
+        return ""
+    if isinstance(c, (str, int, float)):
+        return c
+    return str(c)
+
 
 def _try_docling_extract(path: Path, profile: DocumentProfile) -> ExtractedDocument | None:
     """Use Docling if available; return None otherwise."""
@@ -48,8 +56,8 @@ def _try_docling_extract(path: Path, profile: DocumentProfile) -> ExtractedDocum
                 if hasattr(tbl, "data") and tbl.data:
                     data = tbl.data
                     if isinstance(data, list) and data:
-                        headers = [str(c) for c in data[0]]
-                        rows = [list(row) for row in data[1:]] if len(data) > 1 else []
+                        headers = [str(c) if c is not None else "" for c in data[0]]
+                        rows = [[_normalize_cell(c) for c in row] for row in data[1:]] if len(data) > 1 else []
                         bbox = None
                         if hasattr(tbl, "prov") and tbl.prov:
                             prov = tbl.prov[0] if isinstance(tbl.prov, list) else tbl.prov
@@ -106,7 +114,7 @@ def _fallback_pdfplumber_layout(path: Path, profile: DocumentProfile) -> Extract
                 data = tbl.extract()
                 if data:
                     headers = [str(c) if c is not None else "" for c in data[0]]
-                    rows = [list(row) for row in data[1:]]
+                    rows = [[_normalize_cell(c) for c in row] for row in data[1:]]
                     bbox = tbl.bbox
                     b = BoundingBox(x0=float(bbox[0]), top=float(bbox[1]), x1=float(bbox[2]), bottom=float(bbox[3]), page=pnum) if bbox and len(bbox) >= 4 else None
                     tables.append(ExtractedTable(headers=headers, rows=rows, bbox=b))

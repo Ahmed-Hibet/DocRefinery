@@ -1,0 +1,14 @@
+{
+  "doc_id": "2013-E.C-Assigned-regular-budget-and-expense_5273e7777b5b3863",
+  "origin_type": "scanned_image",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "general",
+  "estimated_extraction_cost": "needs_vision_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\data\\2013-E.C-Assigned-regular-budget-and-expense.pdf",
+    "page_count": 3,
+    "filename": "2013-E.C-Assigned-regular-budget-and-expense.pdf"
+  }
+}
