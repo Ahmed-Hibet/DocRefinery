@@ -1,0 +1,14 @@
+{
+  "doc_id": "Consumer Price Index March 2025_a53a18cc26dcd7cb",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "medical",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\economic_indices\\Consumer Price Index March 2025.pdf",
+    "page_count": 12,
+    "filename": "Consumer Price Index March 2025.pdf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "CBE Annual Report 2012-13_85a1691a684245c3",
+  "origin_type": "native_digital",
+  "layout_complexity": "single_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "fast_text_sufficient",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\CBE Annual Report 2012-13.pdf",
+    "page_count": 20,
+    "filename": "CBE Annual Report 2012-13.pdf"
+  }
+}

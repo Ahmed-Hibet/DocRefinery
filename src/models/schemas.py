@@ -226,3 +226,21 @@ class ProvenanceChain(BaseModel):
                 excerpt=excerpt,
             )
         )
+
+
+# --- Query Agent (Stage 5) ---
+
+
+class QueryAnswer(BaseModel):
+    """Answer from the Query Interface Agent; every answer carries full provenance."""
+
+    answer: str = Field(..., description="Natural language or structured answer")
+    provenance: ProvenanceChain = Field(default_factory=ProvenanceChain)
+
+
+class AuditResult(BaseModel):
+    """Result of Audit Mode: claim verification with source or unverifiable."""
+
+    verified: bool = False
+    citation: ProvenanceCitation | None = None
+    message: str = Field(default="", description="e.g. 'Verified' or 'Not found / unverifiable'")

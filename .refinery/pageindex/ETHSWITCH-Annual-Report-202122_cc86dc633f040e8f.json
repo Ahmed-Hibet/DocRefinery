@@ -1,0 +1,26 @@
+{
+  "doc_id": "ETHSWITCH-Annual-Report-202122_cc86dc633f040e8f",
+  "root": {
+    "title": "Document",
+    "page_start": 1,
+    "page_end": 84,
+    "child_sections": [
+      {
+        "title": "Document",
+        "page_start": 1,
+        "page_end": 84,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "Banks Payment POS ATM Switch Payment\nBanks InPsatyrummeennt t OpPeOraStors OpAeTraMtors OpSweriatcthors GPaaytmeweanyt\nInsIstsruumeresnt Operators Operators Operators OGpaeterawtoayrs\nIssuers Operators\nSwitched Services Hosted Services Platforms\nInteroperability Shared Infrustructure Shared Platforms\nTransaction Routing Card Personalization...",
+        "data_types_present": [
+          "tables",
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "Banks Payment POS ATM Switch Payment\nBanks InPsatyrummeennt t OpPeOraStors OpAeTraMtors OpSweriatcthors GPaaytmeweanyt\nInsIstsruumeresnt Operators Operators Operators OGpaeterawtoayrs\nIssuers Operators\nSwitched Services Hosted Services Platforms\nInteroperability Shared Infrustructure Shared Platforms\nTransaction Routing Card Personalization...",
+    "data_types_present": []
+  },
+  "total_pages": 84
+}

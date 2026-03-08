@@ -3,9 +3,15 @@ pyproject.toml
 src/__init__.py
 src/pipeline.py
 src/agents/__init__.py
+src/agents/chunker.py
 src/agents/extractor.py
+src/agents/fact_table.py
+src/agents/indexer.py
+src/agents/query_agent.py
 src/agents/triage.py
+src/agents/vector_store.py
 src/config/__init__.py
+src/config/loader.py
 src/docrefinery.egg-info/PKG-INFO
 src/docrefinery.egg-info/SOURCES.txt
 src/docrefinery.egg-info/dependency_links.txt
@@ -21,5 +27,9 @@ src/strategies/layout.py
 src/strategies/vision.py
 src/utils/__init__.py
 src/utils/pdf_analysis.py
+tests/test_chunker.py
 tests/test_extraction_confidence.py
+tests/test_fact_table.py
+tests/test_indexer.py
+tests/test_query_agent.py
 tests/test_triage.py

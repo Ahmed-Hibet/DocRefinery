@@ -1,0 +1,14 @@
+{
+  "doc_id": "2013-E.C-Procurement-information_a0dc23f0e46f1101",
+  "origin_type": "scanned_image",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "general",
+  "estimated_extraction_cost": "needs_vision_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\audits_financial\\2013-E.C-Procurement-information.pdf",
+    "page_count": 3,
+    "filename": "2013-E.C-Procurement-information.pdf"
+  }
+}

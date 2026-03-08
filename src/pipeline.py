@@ -18,6 +18,7 @@ from src.config import load_config
 REFINERY_DIR = Path(".refinery")
 PROFILES_DIR = REFINERY_DIR / "profiles"
 PAGEINDEX_DIR = REFINERY_DIR / "pageindex"
+LDUS_CACHE_DIR = REFINERY_DIR / "ldus"
 
 
 def run_chunk_and_index(
@@ -27,10 +28,11 @@ def run_chunk_and_index(
     *,
     save_index: bool = True,
     ingest_vector_store: bool = True,
+    extract_facts: bool = True,
 ) -> tuple[list[Any], Any]:
     """
-    Stage 3 + 4: Chunk ExtractedDocument to LDUs, build PageIndex, optionally ingest to ChromaDB.
-    Returns (list of LDUs, PageIndex). Writes PageIndex to .refinery/pageindex/{doc_id}.json when save_index=True.
+    Stage 3 + 4: Chunk ExtractedDocument to LDUs, build PageIndex, optionally ingest to ChromaDB,
+    extract facts to SQLite (Stage 5). Returns (list of LDUs, PageIndex).
     """
     from src.models import ExtractedDocument
 
@@ -50,6 +52,26 @@ def run_chunk_and_index(
             ingest_ldus(ldus, doc_id, persist_directory=REFINERY_DIR / "chromadb")
         except ImportError:
             pass  # ChromaDB optional
+
+    if extract_facts and ldus:
+        try:
+            from src.agents.fact_table import FactTableExtractor
+            ext = FactTableExtractor(db_path=REFINERY_DIR / "facts.db")
+            ext.extract_from_ldus(doc_id, ldus)
+        except Exception:
+            pass
+
+    # Cache LDUs for Query Agent when ChromaDB not used
+    if ldus:
+        try:
+            import json
+            from src.models import LDU
+            LDUS_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+            cache_path = LDUS_CACHE_DIR / f"{doc_id}.json"
+            with open(cache_path, "w", encoding="utf-8") as f:
+                json.dump([u.model_dump(mode="json") for u in ldus], f, indent=0)
+        except Exception:
+            pass
 
     return ldus, page_index
 

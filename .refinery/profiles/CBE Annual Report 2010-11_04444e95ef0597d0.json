@@ -1,0 +1,14 @@
+{
+  "doc_id": "CBE Annual Report 2010-11_04444e95ef0597d0",
+  "origin_type": "scanned_image",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_vision_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\CBE Annual Report 2010-11.pdf",
+    "page_count": 62,
+    "filename": "CBE Annual Report 2010-11.pdf"
+  }
+}

@@ -8,8 +8,11 @@ Requires-Dist: pydantic>=2.0
 Requires-Dist: pdfplumber>=0.10
 Requires-Dist: pymupdf>=1.23
 Requires-Dist: pyyaml>=6.0
+Requires-Dist: pytest>=7.0
 Provides-Extra: docling
 Requires-Dist: docling>=2.0; extra == "docling"
+Provides-Extra: chroma
+Requires-Dist: chromadb>=0.4.0; extra == "chroma"
 
 # DocRefinery
 
@@ -19,17 +22,64 @@ Document Intelligence Refinery — a production-grade, multi-stage agentic pipel
 
 - **src/** – Source code
   - **models/** – Pydantic schemas: `DocumentProfile`, `ExtractedDocument`, `LDU`, `PageIndex`, `ProvenanceChain`
-  - **agents/** – Triage Agent (`triage.py`), ExtractionRouter (`extractor.py`)
+  - **agents/** – Triage (`triage.py`), ExtractionRouter (`extractor.py`), ChunkingEngine (`chunker.py`), PageIndex builder (`indexer.py`), optional vector store (`vector_store.py`)
   - **strategies/** – Extraction strategies: `FastTextExtractor`, `LayoutExtractor`, `VisionExtractor`
   - **utils/** – PDF analysis (e.g. `pdf_analysis.py` for triage/confidence)
   - **config/** – Configuration
 - **rubric/** – Extraction rules and thresholds (`extraction_rules.yaml`)
 - **tests/** – Unit tests (Triage, extraction confidence)
-- **data/** – Input PDFs (place corpus here)
+- **data/** – Input documents (see [data/README.md](data/README.md))
+  - **documents/** – PDFs by category: `annual_reports/`, `audits_financial/`, `technical/`, `economic_indices/`
 - **.refinery/** – Runtime artifacts
   - **profiles/** – DocumentProfile JSON per document
   - **extraction_ledger.jsonl** – Extraction log (strategy, confidence, cost)
-  - **pageindex/** – PageIndex trees (Phase 3+)
+  - **pageindex/** – PageIndex trees (Stage 3+4)
+  - **ldus/** – Cached LDUs for Query Agent (optional)
+  - **facts.db** – SQLite fact table for structured_query (Stage 5)
+
+## How to run and see results (check against PDFs in data/)
+
+1. **Install dependencies (required first time)**
+   ```bash
+   cd /path/to/DocRefinery
+   pip install -e .
+   ```
+   This installs `pdfplumber`, `pydantic`, `pyyaml`, etc. Without it, the pipeline will fail with `No module named 'pdfplumber'`.
+
+2. **Run the pipeline on your PDFs**
+   ```bash
+   # Process all PDFs under data/ (finds data/documents/**/*.pdf)
+   python main.py data/
+   ```
+   Or process a single file:
+   ```bash
+   python main.py "data/documents/audits_financial/Audit Report - 2023.pdf"
+   ```
+
+3. **Run the full demo (pipeline + query + audit)**
+   ```bash
+   python scripts/demo_refinery.py
+   # or on a specific path:
+   python scripts/demo_refinery.py data/
+   python scripts/demo_refinery.py "data/documents/audits_financial/Audit Report - 2023.pdf"
+   ```
+   This runs Triage → Extraction → Chunking → PageIndex → Fact extraction, then loads the Query Agent and runs a sample question and audit claim, printing the answer and provenance.
+
+4. **Inspect results**
+   - **Profiles:** `.refinery/profiles/{doc_id}.json` — document classification (origin_type, layout_complexity, etc.).
+   - **Ledger:** `.refinery/extraction_ledger.jsonl` — one line per document (strategy_used, confidence_score).
+   - **PageIndex:** `.refinery/pageindex/{doc_id}.json` — section tree for navigation.
+   - **LDUs:** `.refinery/ldus/{doc_id}.json` — cached chunks for the Query Agent.
+   - **Facts:** `.refinery/facts.db` — SQLite table of extracted key-value facts.
+
+5. **Query and audit in code**
+   ```python
+   from src.agents.query_agent import load_refinery_context, RefineryQueryAgent
+   ctx = load_refinery_context("your_doc_id", document_name="Report.pdf")
+   agent = RefineryQueryAgent(ctx)
+   print(agent.ask("What was the revenue?").answer)
+   print(agent.audit_claim("Revenue was $10M.").verified)
+   ```
 
 ## Setup
 
@@ -39,6 +89,9 @@ pip install -e .
 
 # Optional: layout-aware extraction with Docling
 pip install -e ".[docling]"
+
+# Optional: vector store ingestion (ChromaDB) for semantic search over LDUs
+pip install -e ".[chroma]"
 ```
 
 ## Usage
@@ -50,11 +103,12 @@ from pathlib import Path
 from src.pipeline import run_refinery_on_document
 
 profile_dict, strategy, confidence = run_refinery_on_document(Path("data/your_doc.pdf"))
-# Profile is saved to .refinery/profiles/{doc_id}.json
-# Ledger entry appended to .refinery/extraction_ledger.jsonl
+# Profile → .refinery/profiles/{doc_id}.json
+# Ledger → .refinery/extraction_ledger.jsonl
+# LDUs + PageIndex → .refinery/pageindex/{doc_id}.json (Stage 3+4); optional ChromaDB ingestion
 ```
 
-### Run on all PDFs in `data/`
+### Run on all PDFs in `data/` or `data/documents/`
 
 ```python
 from pathlib import Path
@@ -70,6 +124,49 @@ If you don't have the corpus yet, generate placeholder profiles and ledger entri
 ```bash
 python scripts/generate_interim_artifacts.py
 ```
+
+### Stage 3 & 4: Chunking and PageIndex (after extraction)
+
+```python
+from src.agents.chunker import run_chunker
+from src.agents.indexer import build_page_index, save_page_index, pageindex_query
+from pathlib import Path
+
+# After you have an ExtractedDocument (e.g. from ExtractionRouter):
+ldus = run_chunker(extracted_doc)
+page_index = build_page_index(profile.doc_id, ldus, total_pages=len(extracted_doc.pages))
+save_page_index(page_index, Path(".refinery/pageindex"))
+
+# Topic-based section lookup (before vector search)
+top_sections = pageindex_query(page_index, "financial revenue", top_k=3)
+```
+
+### Stage 5: Query Agent and Audit Mode
+
+After running the pipeline on a document, query it with full provenance and verify claims:
+
+```python
+from pathlib import Path
+from src.agents.query_agent import load_refinery_context, RefineryQueryAgent
+
+# Load context from .refinery (PageIndex, LDUs, fact table)
+ctx = load_refinery_context("your_doc_id", document_name="Report 2024.pdf")
+if ctx:
+    agent = RefineryQueryAgent(ctx)
+    # Every answer includes ProvenanceChain (document_name, page_number, bbox, content_hash)
+    result = agent.ask("What was the revenue in Q3?")
+    print(result.answer)
+    for c in result.provenance.citations:
+        print(f"  → {c.document_name} p.{c.page_number} {c.excerpt[:80]}...")
+
+    # Audit Mode: verify a claim or flag as unverifiable
+    audit = agent.audit_claim("The report states revenue was $4.2B in Q3.")
+    print(audit.verified, audit.message)
+    if audit.citation:
+        print(f"  Source: p.{audit.citation.page_number} {audit.citation.excerpt[:100]}")
+```
+
+The agent uses three tools: **pageindex_navigate** (tree traversal), **semantic_search** (vector or keyword search over LDUs), and **structured_query** (SQL over the fact table). Facts are extracted automatically during pipeline run (Stage 3+4) into `.refinery/facts.db`.
 
 ### Triage only
 

@@ -1,0 +1,572 @@
+[
+{
+"content": "Particulars |  |  | 2012/13 | 2011/12 |  | percent | \n |  |  |  |  |  | Change | \n | Interest Income: |  | 9,539.17 | 6,703.45 | 42.3 |  | \n | Loans and advances |  | 5,330.44 | 3,607.81 | 47.7 |  | \n | Government bonds |  | 39.12 | 27.68 | 41.3 |  | \n | Coupon and corporate bonds |  | 4,102.71 | 3,053.13 | 34.4 |  | \n | Correspondents banks |  | 66.90 | 14.83 | 351.1 |  | \n | Interest expense: |  | 2,379.73 | 1,676.40 | 42.0 |  | \nCustomers\u2019 deposits | Customers\u2019 deposits |  | 2,357.14 | 1,662.61 | 41.8 |  | \nNon Transferable Savings acct |  |  | 22.36 | 13.64 | 63.9 |  | \n | Interest on fund received(correspondents) |  | 0.23 | 0.15 | 60.2 |  | \n | Net interest income |  | 7,159.43 | 5,027.05 | 42.4 |  | \n | Net interest margin (percent) |  | 4.7 | 4.6 |  |  | ",
+"chunk_type": "table",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 45.47999899999999,
+"top": 212.96399519999994,
+"x1": 522.2879880400003,
+"bottom": 408.43199100000004,
+"page": 12
+},
+"parent_section": null,
+"token_count": 193,
+"content_hash": "fa45d079d8990e57f9be0947",
+"chunk_id": "80c86da6-052",
+"metadata": {}
+},
+{
+"content": "\nAt the end of the fiscal year, the total outstanding loans and advances of the Bank rose by\n21.1 percent, reaching 149.0 billion Birr. Outstanding loans to customers grew by about 20.6\npercent.\n",
+"chunk_type": "table",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 45.28975509756097,
+"top": 199.79999499999997,
+"x1": 548.519988,
+"bottom": 304.079993,
+"page": 15
+},
+"parent_section": null,
+"token_count": 48,
+"content_hash": "10a85500d6bfd792d2332b08",
+"chunk_id": "ecdca641-93e",
+"metadata": {}
+},
+{
+"content": "Particulars |  |  | 2012/13 | 2011/12 | percent Change\n | Loans to customers (Net of impairment losses) |  | 67,856.38 | 56,465.40 | 20.17\n | Agriculture |  | 11,941.39 | 13,551.80 | -11.88\n | Manufacturing |  | 30,514.89 | 18,673.70 | 63.41\n | Domestic trade & services |  | 4,038.64 | 5,310.30 | -23.95\n | Foreign trade |  | 15,479.22 | 14,949.20 | 3.55\n | Building and Construction |  | 4,389.41 | 4,635.50 | -5.31\n | Personal Loan |  | 3,362.63 | 719.10 | 367.61\n | Loans to banks (Financial Institutions) |  | 508.5 | 487.70 | 4.27\n | Receivables-EGTE |  | 1,309.9 | 3,987.10 | -67.15\n | Bonds (Coupon &Corporate) |  | 79,331.72 | 62,052.40 | 27.85\n | Total outstanding loans |  | 149,006.50 | 122,992.60 | 21.15",
+"chunk_type": "table",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 45.28975509756097,
+"top": 323.7299925000001,
+"x1": 558.6383879999998,
+"bottom": 488.891989,
+"page": 15
+},
+"parent_section": null,
+"token_count": 179,
+"content_hash": "54fdb2f1d5184e6d1f05a650",
+"chunk_id": "61bc7011-478",
+"metadata": {}
+},
+{
+"content": "Particulars |  | 2012/13 | 2011/12 |  | percent | \n |  |  |  |  | Change | \n | Loans and Bonds Disbursement | 56,506.64 | 55,441.00 | 1.9 |  | \n | Loans | 34,631.64 | 31,940.00 | 8.42 |  | \n | Bonds | 21,875.00 | 23,501.00 | (6.5) |  | \n | Pre-shipments(Net Increase) | - | 2,170.00 |  |  | \n | Receivable-EGTE | - | 3,263.00 |  |  | \n | Total disbursements | 56,506.64 | 60,874.00 | -7.2 |  | ",
+"chunk_type": "table",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 67.31999866666668,
+"top": 634.6499857499999,
+"x1": 525.2639879999999,
+"bottom": 749.8079830000001,
+"page": 15
+},
+"parent_section": null,
+"token_count": 98,
+"content_hash": "1fc2f9197f2c4afee98d3132",
+"chunk_id": "acd99b62-599",
+"metadata": {}
+},
+{
+"content": "Particulars |  |  | 2012/13 | 2011/12 |  | percent | \n |  |  |  |  |  | Change | \n | Term loan collection |  | 27,597.20 | 14,643 | 88.5 |  | \n | Bonds collection |  | 8,855.50 | 4,822 | 83.6 |  | \n | DBE and Housing |  | 5,165.80 | 2,855 | 80.9 |  | \n | EEPCO |  | 3,600.80 | 1,682 | 114 |  | \n | Government Bonds |  | 88.90 | 285 | (69.0) |  | \n | Sub-total |  | 36,452.70 | 19,465 | 79.2 |  | \n | Receivables-EGTE |  | 2,372.80 | 1040 | 128.2 |  | \n | Total loans collection |  | 38,825.50 | 20,505 | 89.3 |  | ",
+"chunk_type": "table",
+"page_refs": [
+16
+],
+"bounding_box": {
+"x0": 64.839999,
+"top": 190.70999575000002,
+"x1": 527.6841985263159,
+"bottom": 334.319993,
+"page": 16
+},
+"parent_section": null,
+"token_count": 128,
+"content_hash": "ede335cee43d1f0330957f60",
+"chunk_id": "cd2871ea-be9",
+"metadata": {}
+},
+{
+"content": "Particular |  |  | 2012/13 | 2011/12 |  | Growth | \n |  |  |  |  |  | (percent) | \n | Demand Deposit |  | 92,240.90 | 70,618.75 | 30.6 |  | \n | Savings Deposit |  | 53,407.10 | 42,087.00 | 26.9 |  | \n | Fixed Time Deposit |  | 8,790.27 | 7,409.76 | 18.6 |  | \n | Total Deposit |  | 154,438.28 | 120,115.52 | 28.6 |  | ",
+"chunk_type": "table",
+"page_refs": [
+17
+],
+"bounding_box": {
+"x0": 63.279999000000004,
+"top": 180.689996,
+"x1": 529.2327152727273,
+"bottom": 266.51999399999994,
+"page": 17
+},
+"parent_section": null,
+"token_count": 79,
+"content_hash": "0a8da3cd58c8a5ca9a7212c0",
+"chunk_id": "67367f3b-439",
+"metadata": {}
+},
+{
+"content": "Particulars |  |  |  |  |  | 2011/12 |  |  |  |  | \n |  |  |  | 2012/13 |  |  |  |  |  | Change | \n |  |  |  |  |  |  |  |  |  | (percent) | \n1.Exports |  |  | 1,071.0 |  |  | 1,274.0 |  |  | -16.0 |  | \n2.Remittances |  |  | 3,740.9 |  |  | 3,627.4 |  |  | 3.0 |  | \nFCY Purchases |  |  | 318.1 |  |  | 462.9 |  |  | -31.3 |  | \nService Receipts |  |  | 1,323.2 |  |  | 1,364.5 |  |  | -3.02 |  | \nPrivate Transfers |  |  | 1,600.1 |  |  | 1,183.4 |  |  | 35.2 |  | \nOfficial Transfers |  |  | 499.5 |  |  | 616.6 |  |  | -19.0 |  | \n | Total Inflows |  |  | 4,811.9 |  |  | 4,901.4 |  |  | -1.8 | ",
+"chunk_type": "table",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 97.12420852631583,
+"top": 485.1530659230769,
+"x1": 495.42946268421053,
+"bottom": 618.1199859999999,
+"page": 18
+},
+"parent_section": null,
+"token_count": 149,
+"content_hash": "2e2efa0adbfc1a28a3aea05d",
+"chunk_id": "22048374-ef3",
+"metadata": {}
+},
+{
+"content": "Apart from increased accessibility, impressive progress was also registered during the fiscal\nyear with respect to the IT projects such as card banking and integrated core banking\nsolutions, and the installation of infrastructures. The T-24 CORE banking solution which\nwent live in May 2012 is rolled out to 305 branches (200 in the reporting year) and 4 head\noffice organs as of June 30, 2013. Mobile alerts, mobile and internet banking modules have\nbeen finalized and started operation; procurement of 400 routers for roll-out of additional\nbranches had been finalized; GX report module finalized and implemented; T-24 system\nmanagement and mobile and internet banking are transferred to IS and E-payment sub\nprocesses.",
+"chunk_type": "table",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 43.919999000000004,
+"top": 49.679997999999955,
+"x1": 548.519988,
+"bottom": 240.71999500000004,
+"page": 20
+},
+"parent_section": null,
+"token_count": 180,
+"content_hash": "1e001e4d3e7a6446258bbead",
+"chunk_id": "81ac47ba-c00",
+"metadata": {}
+},
+{
+"content": "Annual Report 2012/13 i",
+"chunk_type": "paragraph",
+"page_refs": [
+1
+],
+"bounding_box": {
+"x0": 154.319992,
+"top": 186.43202000000008,
+"x1": 539.9696964825599,
+"bottom": 741.803982,
+"page": 1
+},
+"parent_section": null,
+"token_count": 5,
+"content_hash": "4e12d11911b979a4074a14eb",
+"chunk_id": "51f59cd0-c27",
+"metadata": {}
+},
+{
+"content": "Working towards a World-Class Commercial Bank ii",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 178.199997,
+"top": 547.787982,
+"x1": 539.9632855081601,
+"bottom": 741.803982,
+"page": 2
+},
+"parent_section": null,
+"token_count": 12,
+"content_hash": "1adc9b2d330be68ede7e0c28",
+"chunk_id": "085d2991-9e7",
+"metadata": {}
+},
+{
+"content": "Contents Key figures (in Millions of Birr)........................................................................6 Message of the President...............................................................................8 1. Macroeconomic Highlights ...................................................................... 10 1.1. Global Economy\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...10 1.2 The Ethiopian Economy\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..10 2. Highlights of the CBE............................................................................. 11 2.1. Financial Position................................................................................ 11 2.1.1 Net Interest Income\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.11 2.1.2 Net Interest Margin\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..12 2.1.3. Non\u2013Interest Income\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..12 2.1.4 Total Expenses\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..13 2.1.5 Operating Profit\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202613 2.1.6 Earning Capacity\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...14 2.2. Balance Sheet Analysis.......................................................................... 15 2.2.1 Asset Structure\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..15 2.2.2 Loan Portfolio\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202615 2.2.3 Liabilities\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...16 2.2.4 Capital Adequacy\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.17 2.3. International Banking ........................................................................... 17 2.3.1 Foreign currency earnings.................................................................... 18 2.4. Human Resources................................................................................ 19 2.5. Business Development .......................................................................... 19",
+"chunk_type": "paragraph",
+"page_refs": [
+3
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 76.1585,
+"x1": 547.17728352,
+"bottom": 509.86798400000004,
+"page": 3
+},
+"parent_section": null,
+"token_count": 429,
+"content_hash": "c6b4c74e1b0a7a1afb78cd44",
+"chunk_id": "05a383b7-c2c",
+"metadata": {}
+},
+{
+"content": "Profile \uf076 Established in 1942. \uf076 The first bank to introduce Automated Teller Machine (ATM) to Ethiopia. \uf076 Introduced Western Union Money Transfer Services to Ethiopia. \uf076 Has 695 branches across the country as at June 30, 2013. \uf076 Plays a pivotal role in the economic progress and development of the country. \uf076 Combines wide capital base with 15,007 talented and committed employees. \uf076 Has about 6.2 million accounts as at June 30, 2013. \uf076 Strong correspondent relationship with 40 renowned foreign banks and a SWIFT bilateral key arrangement with 712 others. Vision To Become a World-Class Commercial Bank by the year 2025 Mission We are committed to realizing the needs of stakeholders through enhanced financial intermediation globally, and supporting national development priorities by deploying highly motivated, skilled and disciplined employees as well as state-of-the-art technology. We strongly believe that winning the public confidence is the basis of our success. Values 4",
+"chunk_type": "paragraph",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 76.1585,
+"x1": 547.18864776,
+"bottom": 774.203983,
+"page": 4
+},
+"parent_section": null,
+"token_count": 245,
+"content_hash": "0dc7074b30ea8c9fdf0d3df8",
+"chunk_id": "7fe4c893-8ca",
+"metadata": {}
+},
+{
+"content": "1. Corporate Citizenship \uf0ae We value the importance of our role in national development endeavors and step-up the commitment. \uf0ae We abide by the laws of Ethiopia and other countries we do business with. \uf0ae We care about the welfare of the society and the environment. 2. Customer Satisfaction \uf0ae We strive to excel in our business and satisfy customers. 3. Quality Service \uf0ae We are committed to offering quality service to customers and aspire to be branded as quality service providers in the minds of our customers and the general public. 4. Innovation \uf0ae We encourage new ideas that can improve customers\u2019 experiences and the performance of the Bank. 5. Teamwork \uf0ae We recognize and value the importance of teamwork for our success. \uf0ae We respect diversity of viewpoints. 6. Integrity \uf0ae We are committed to the highest ideals of honor and integrity. 7. Employees \uf0ae We recognize our employees as valuable assets of the Bank. 8. Public Confidence \uf0ae We understand that the sustainability of our business depends on our ability to maintain and build up public confidence. 5",
+"chunk_type": "list",
+"page_refs": [
+5
+],
+"bounding_box": {
+"x0": 63.359997,
+"top": 51.32978400000002,
+"x1": 547.2230539578368,
+"bottom": 774.203983,
+"page": 5
+},
+"parent_section": null,
+"token_count": 266,
+"content_hash": "0355c9bae6db8a14c22ec7e8",
+"chunk_id": "13cebc76-8d4",
+"metadata": {}
+},
+{
+"content": "Key figures (in Millions of Birr) 6",
+"chunk_type": "paragraph",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 78.360001,
+"top": 51.587985,
+"x1": 547.18864776,
+"bottom": 774.203983,
+"page": 6
+},
+"parent_section": null,
+"token_count": 8,
+"content_hash": "eb8313a0f5c1e9271acc3cbf",
+"chunk_id": "28e984f8-de1",
+"metadata": {}
+},
+{
+"content": "7",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": 541.200012,
+"top": 762.203983,
+"x1": 547.18864776,
+"bottom": 774.203983,
+"page": 7
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "45fa12cf3d5ac02505a02686",
+"chunk_id": "00649b94-776",
+"metadata": {}
+},
+{
+"content": "Message of the President The 2012/13 fiscal year has been the year the Commercial Bank of Ethiopia had maintained its continued excellence in its business growth and profitability, which I am greatly pleased to announce to all stakeholders and the general public. As a result, the gross profit of the Bank reached 8.6 billion Birr, up by 7.9 percent over the preceding fiscal year. This unprecedented level of profit is registered owing to the robust macroeconomic performance of the Ethiopian economy and seizing the opportunity it provided. Accordingly, the total income of the Bank reached Birr 13.7 billion, up by Birr 2.2 billion (18.6%) compared with the performance of the previous year. At the end of the fiscal year, the total assets of the Bank stood at Birr 195.4 billion, while total deposit reached 154.4 billion Birr, thus reflecting a 28.7 percent growth over the preceding year. On the other hand, the overall expense of the Bank has reached Birr 5.2 billion, showing an increase of 41.8 percent mainly due to the substantial increase in interest expense (42.0%) followed by general expense (32.9%). The latter\u2019s increase is attributable to branch expansion. The Bank\u2019s commitment to promote financial inclusion is unparalleled by any other bank in the industry which has been demonstrated by reaching out to large potential customers and the public through opening 148 additional branches across the country during 2012/13 FY. This brought the total branch network across the nation to 695, as of June 2013. The opening of these branches enabled the bank to widen its customer base, which brought the total number of accounts to about 6.2 million and scale up its deposit mobilization efforts. Achieving service excellence and high business growth remained to be the key objectives of the CBE in the year under review. To this end, the CBE has continued to implement two major projects crucial for transforming its service delivery and overall performance. These are Information Technology (IT) and Human Resources Development (HRD) projects.",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 52.17326700000001,
+"x1": 547.25783461056,
+"bottom": 774.203983,
+"page": 8
+},
+"parent_section": null,
+"token_count": 508,
+"content_hash": "fe926d52f383d9084734d235",
+"chunk_id": "2855adf0-a45",
+"metadata": {}
+},
+{
+"content": "With regard to the IT projects, card banking and CORE banking solutions components have successfully been implemented and transferred to the relevant IS and E-payment sub processes. Additional 200 branches and 4 head office organs have gone live with the T-24 CORE banking system, making the total branches and head office organs interfaced with the 8",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 52.17326700000001,
+"x1": 547.25783461056,
+"bottom": 774.203983,
+"page": 8
+},
+"parent_section": null,
+"token_count": 87,
+"content_hash": "15987971641563a4c9ffdcc7",
+"chunk_id": "3e4d61a3-b32",
+"metadata": {}
+},
+{
+"content": "system to 309. In the 2013/14 fiscal year, more branches and head office organs will go live and other projects such as implementation of ERP, customizing the T-24 to provide interest free banking, and instituting customer contact center will be undertaken. Implementation of the Human Resource Development Strategy is underway. The recommendations are being implemented under five action areas: provision of technical assistance to implement the strategy; putting succession planning system in place; improving engagement and retention; introducing performance management system; and training and system development. While some of the recommendations have been finalized which include restructuring HRM; provision of developmental training for top management and Board of Directors(BOD); and engagement and retention survey, others such as staffing; succession planning scheme; and employee performance management system are underway. In the 2013/14 fiscal year, implementation of the HRD activities that are underway will be hastened and finalized. On the whole, 2012/13 FY was a very successful year for the CBE. The key drivers of this success were, as always have been, our customers who preferred to banking with us. I would, therefore, like to extend my deepest appreciation and gratitude to our esteemed customers. I would also like to take this opportunity to sincerely thank the BOD of the CBE for the visionary leadership they provided and the employees of the Bank for their continued commitment and dedication. I have no doubt, with continued loyalty of our esteemed customers, visionary leadership from BOD and staff commitment to achieve far better results, we continue to be people\u2019s chosen bank in the forthcoming years and realize our vision of becoming a world-class commercial bank by year 2025. Bekalu Zeleke 9",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.50398500000006,
+"x1": 547.31972970848,
+"bottom": 774.203983,
+"page": 9
+},
+"parent_section": null,
+"token_count": 457,
+"content_hash": "618ee269ecbc952d04d17c1d",
+"chunk_id": "bc6da478-072",
+"metadata": {}
+},
+{
+"content": "1. Macroeconomic Highlights 1.1. Global Economy The world economic growth moves with a slow shift, averaging only 2.5 percent during the first half of 2013, which is about the same pace as in the second half of 2012. Advanced economies are gradually growing and strengthening while emerging market economies face the dual challenges of slow growth and tighter financial conditions. Growth rates of these emerging economies are projected to remain much above those of the advanced economies but below the elevated levels seen in recent years (WEO, October 2013). The October 2013 report of IMF\u2019s WEO shows that the world output growth has further decreased by 0.3 percent compared with July 2013 WEO update. Output in advanced economies is expected to expand by 2 percent in 2014, which is about \u00be percentage points more than in 2013. Growth in the euro area will be held back by the very weak economies in the periphery. Emerging market and developing economies are projected to expand by 5 percent in 2014, as fiscal policy is forecasted to stay broadly neutral and real interest rates to remain relatively low. It is possible to conclude that the recovery from the world economic crisis continues even if the rate is too slow. The focus at this time is on emerging market economies which are on the challenge of slower growth and tighter financial conditions triggered by U.S. monetary policy. 1.2 The Ethiopian Economy The Ethiopian economy grew by 8.5% in 2012/13 FY. This growth is respectable in many ways; particularly viewed in the context of faltering global economic conditions discussed above. This fact is clear when compared with a much lower growth rate (5.3%) registered in SSA countries and the minimum growth rate (7%) set for achieving MDG targets.1 An important aspect of this sustained growth is its trickling down effect on the life of the public in alleviating poverty through improved access to education, health facility, and 1MoFED, Budget speech to the House of Representatives for the 2012/13 fiscal year. 10",
+"chunk_type": "list",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 52.17326700000001,
+"x1": 547.2605102052801,
+"bottom": 774.203983,
+"page": 10
+},
+"parent_section": null,
+"token_count": 508,
+"content_hash": "20e94b58fe45618c01236d8e",
+"chunk_id": "4aca68c4-718",
+"metadata": {}
+},
+{
+"content": "infrastructural development, etc. This improvement is discernible from the decline in the proportion of the people who were below poverty line from 38.7 percent in 2005 to 29.6 percent in 2011 and estimated to have dropped to 27.6 percent in 2012 (MoFED, June 2013). Inflation has dropped to single digit (7.4%), year on year, in June 2013 compared to 20.8 percent recorded in June 2012 (CSA)2. This deceleration in price level was attributed to tight monetary policy and cautious execution of the government budget (IMF, MoFED)3. Despite some challenges, the Ethiopian economy has performed well which had positively impacted the financial sector in the year under review. The CBE could manage to exploit the opportunity thereof and had registered good performance as well. 2. Highlights of the CBE 2.1. Financial Position The CBE\u2019s financial position kept strengthening over the years as a result of steady increase in its income. The total income of the Bank for the year under review has jumped by 18.6 percent from Birr 11.6 billion to Birr 13.7 billion as of June 2012/13. 2.1.1 Net Interest Income The net-interest income of the Bank rose to Birr 7.2 billion in 2012/13, up by 42.4 percent from the 5.03 billion Birr in 2011/12. The aggregate interest income grew by the same rate as net-interest income (42.3%) to Birr 9.5 billion in 2012/13. This high growth was largely attributed to increase in the overall disbursement of loans and advances. Interest expense also increased by birr 703.3 million owing to the large expansion in the deposit base of the bank, including interest bearing deposits. 2CSA, June 2013 country and regional level consumer price indices. 3 Statement by an IMF Staff Mission on the 2013 Article IV Consultation with Ethiopia 11",
+"chunk_type": "paragraph",
+"page_refs": [
+11
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.50398500000006,
+"x1": 547.33816460016,
+"bottom": 774.203983,
+"page": 11
+},
+"parent_section": null,
+"token_count": 440,
+"content_hash": "010b1c4295b9921f1bf24b18",
+"chunk_id": "048267ef-7b9",
+"metadata": {}
+},
+{
+"content": "2.1.2 Net Interest Margin Net interest margin shows how successful a firm\u2019s investment decision is in relation to its debt situation. A positive net interest margin implies that a firm\u2019s investment decision is good. Accordingly, a positive net interest margin of 4.7 percent is registered for the 2012/13 fiscal year. Net Interest Income (Mn. Birr) Particulars 2012/13 2011/12 percent Change Interest Income: 9,539.17 6,703.45 42.3 Loans and advances 5,330.44 3,607.81 47.7 Government bonds 39.12 27.68 41.3 Coupon and corporate bonds 4,102.71 3,053.13 34.4 Correspondents banks 66.90 14.83 351.1 Interest expense: 2,379.73 1,676.40 42.0 Customers\u2019 deposits 2,357.14 1,662.61 41.8 Non Transferable Savings acct 22.36 13.64 63.9 Interest on fund received(correspondents) 0.23 0.15 60.2 Net interest income 7,159.43 5,027.05 42.4 Net interest margin (percent) 4.7 4.6 2.1.3. Non\u2013Interest Income Non-interest income had accounted for about 30.5 percent of the total income. During the year under review, total non-interest income was Birr 4.2 billion, compared with the previous year (4.9 billion); it showed a 14.0 percent decline. This may be attributable to the increase in the coverage of T-24 CORE banking solution to more branches and the subsequent decline in the commission income from LMTS and a reduction in service charge from outward remittance. Nevertheless, non-interest income continued to contribute considerably to the total income of the Bank; implying the bank\u2019s effort in diversifying its income source. 12",
+"chunk_type": "paragraph",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.96624200000008,
+"x1": 547.21285322016,
+"bottom": 774.203983,
+"page": 12
+},
+"parent_section": null,
+"token_count": 380,
+"content_hash": "287be4febd88031e77c91406",
+"chunk_id": "2e395cd6-d68",
+"metadata": {}
+},
+{
+"content": "2.1.4 Total Expenses The total expenses of the Bank reached Birr 5.2 billion, surged by 41.8 percent compared with the level in the preceding fiscal year. Interest expense accounted for the major share of the increase in total expense (42.0%). This may be attributable to the increase in interest bearing deposit. 2.1.5 Operating Profit The total income of the Bank for 2012/13 stood at Birr 13.7 billion, registering a growth of 18.6 percent compared with Birr 11.6 billion in the preceding year. This growth in total income is attributable to a 42.3 percent growth in interest income. However, it has grown by a lesser margin than it was in the preceding year. On the other hand, total expenses have surged by 41.8 percent to reach 5.2 billion from 3.6 billion in 2011/12, largely due to the 42.0 percent increase in interest expense. The operating profit of the Bank has maintained its upward trajectory successively over the past several years to reach Birr 8.6 billion in 2012/13. While this is a jump by a whooping margin from trend, it has increased only by 7.9 percent from the preceding year. The net profit of the Bank stood at about Birr 5.9 billion, showing an increase by 7.9 percent against the previous fiscal year. 13",
+"chunk_type": "paragraph",
+"page_refs": [
+13
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.96624200000008,
+"x1": 547.35610727648,
+"bottom": 774.203983,
+"page": 13
+},
+"parent_section": null,
+"token_count": 308,
+"content_hash": "f52bd02c12e27c3f828d0c9f",
+"chunk_id": "2b916673-184",
+"metadata": {}
+},
+{
+"content": "2.1.6 Earning Capacity Despite a slight decline compared with the preceding year a performance levels of 4.8 percent and 101.2 percent for RoA and RoE, respectively in the 2012/13 fiscal year are high from the standard. This implies the continued robust profitability of the Bank. 14",
+"chunk_type": "paragraph",
+"page_refs": [
+14
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 333.035526,
+"x1": 547.2418470355201,
+"bottom": 774.203983,
+"page": 14
+},
+"parent_section": null,
+"token_count": 70,
+"content_hash": "bf66fdf7529f8ac84aefa7e5",
+"chunk_id": "b6c094e4-4ab",
+"metadata": {}
+},
+{
+"content": "2.2. Balance Sheet Analysis 2.2.1 Asset Structure The total asset of the Bank grew by 23.0 percent, and reached Birr 195.4 billion during the fiscal year under review. The major account categories that pushed the asset balance up were loans and advances to customers, investments as well as property and equipment. 2.2.2 Loan Portfolio At the end of the fiscal year, the total outstanding loans and advances of the Bank rose by 21.1 percent, reaching 149.0 billion Birr. Outstanding loans to customers grew by about 20.6 percent. Outstanding Loans and Advances by Sector (Mn. Birr) Particulars 2012/13 2011/12 percent Change Loans to customers (Net of impairment losses) 67,856.38 56,465.40 20.17 Agriculture 11,941.39 13,551.80 -11.88 Manufacturing 30,514.89 18,673.70 63.41 Domestic trade & services 4,038.64 5,310.30 -23.95 Foreign trade 15,479.22 14,949.20 3.55 Building and Construction 4,389.41 4,635.50 -5.31 Personal Loan 3,362.63 719.10 367.61 Loans to banks (Financial Institutions) 508.5 487.70 4.27 Receivables-EGTE 1,309.9 3,987.10 -67.15 Bonds (Coupon &Corporate) 79,331.72 62,052.40 27.85 Total outstanding loans 149,006.50 122,992.60 21.15 The amount of fresh loans disbursed to the various economic sectors during the reporting year was Birr 56.5 billion. This amount represents a 7.2 percent decrease compared with the level in the preceding year. This shortfall is attributable to underutilization or non utilization of disbursement commitment from some corporate entities and pre-shipment. Trends in Loans Disbursement (Mn. Birr) Particulars 2012/13 2011/12 percent Change Loans and Bonds Disbursement 56,506.64 55,441.00 1.9 Loans 34,631.64 31,940.00 8.42 Bonds 21,875.00 23,501.00 (6.5) Pre-shipments(Net Increase) - 2,170.00 Receivable-EGTE - 3,263.00 Total disbursements 56,506.64 60,874.00 -7.2 15",
+"chunk_type": "paragraph",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.798452999999995,
+"x1": 553.3678498924545,
+"bottom": 774.203983,
+"page": 15
+},
+"parent_section": null,
+"token_count": 455,
+"content_hash": "d46a53e901f9c6cbb35ebac2",
+"chunk_id": "8f82d930-914",
+"metadata": {}
+},
+{
+"content": "The total loan collection, on the other hand, reached Birr 38.8 billion, showing an increase of 89.3 percent over the preceding fiscal year. Despite a slight increase compared with the preceding year, the Bank managed to contain its NPL level below 5 percent (standard) at 2.2 percent. Trends in Loans Collection b (Mn. Birr) Particulars 2012/13 2011/12 percent Change Term loan collection 27,597.20 14,643 88.5 Bonds collection 8,855.50 4,822 83.6 DBE and Housing 5,165.80 2,855 80.9 EEPCO 3,600.80 1,682 114 Government Bonds 88.90 285 (69.0) Sub-total 36,452.70 19,465 79.2 Receivables-EGTE 2,372.80 1040 128.2 Total loans collection 38,825.50 20,505 89.3 2.2.3 Liabilities The reviewing year saw a 23.2 percent rise in liabilities compared to the level in the preceding year, which has reached Birr 186.2 billion. This increase is accounted by 32.1 percent increment in customers\u2019 deposit and 8.8 percent increase in tax liability. The opening of 148 additional branches, which helped to broaden the Bank\u2019s outreach, is the driving force behind the increase in deposit level coupled with the favorable business environment in helping the Bank to command on a large deposit base. As a result, the Bank\u2019s total deposit reached Birr 154.4 billion in 2012/13 fiscal year, registering a growth of 28.7 percent compared with that of the preceding year. This level of deposit was not only the highest in the Bank\u2019s history, but it was instrumental in sustaining its lion\u2019s market share in the industry. Demand deposit has increased by 30.6 percent compared with the level in the preceding fiscal year. Similarly, savings deposit grew by 26.9 percent to reach Birr 53.4 billion, and fixed time deposit by 18.6 percent to reach Birr 8.8 billion. The ratio of demand deposits to total deposit stood at 60 percent, slightly larger than the level in the preceding year of 58.8 percent. On the other hand, the share of savings and fixed time deposit were 34.6 percent and 5.7 percent, respectively. 16",
+"chunk_type": "paragraph",
+"page_refs": [
+16
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 77.66402000000005,
+"x1": 547.3479706627201,
+"bottom": 774.203983,
+"page": 16
+},
+"parent_section": null,
+"token_count": 497,
+"content_hash": "22e268b1890167097db52a6d",
+"chunk_id": "94507780-6e7",
+"metadata": {}
+},
+{
+"content": "Ownership wise disaggregation of deposit indicates that the bulk of the total deposit is accounted by the private sector (53.1%), which is the main driver in sustaining the Bank\u2019s liquidity base. Deposit at Year-end (Mn. Birr) Particular 2012/13 2011/12 Growth (percent) Demand Deposit 92,240.90 70,618.75 30.6 Savings Deposit 53,407.10 42,087.00 26.9 Fixed Time Deposit 8,790.27 7,409.76 18.6 Total Deposit 154,438.28 120,115.52 28.6 2.2.4 Capital Adequacy CBE\u2019s capital and reserve increased from Birr 7.6 billion in 2011/12 to Birr 9.0 billion in 2012/13. The risk weighted capital adequacy ratio stood at 13.3 percent, showing improvement over the preceding fiscal year level of 9.68 percent. The growth in capital and reserve further reflects the Bank\u2019s continued financial strength. 2.3. International Banking International Banking operation is one of the core business areas where the CBE earns its significant income and profit. This is so because the CBE had forged healthy business relationship with many prominent banks around the world. The overall income earned from foreign banking operations stood at Birr 4.0 billion, an improvement (5.5%) from the preceding year of Birr 3.8 billion. 17",
+"chunk_type": "paragraph",
+"page_refs": [
+17
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 72.38399000000004,
+"x1": 547.34925173248,
+"bottom": 774.203983,
+"page": 17
+},
+"parent_section": null,
+"token_count": 300,
+"content_hash": "9bf83496678982f7a829e3cd",
+"chunk_id": "29e427e4-886",
+"metadata": {}
+},
+{
+"content": "2.3.1 Foreign currency earnings Foreign currency mobilization is one crucial components of the overall resource mobilization strategy the CBE has devised. Accordingly, the total foreign currency inflow (excluding purchase and intervention fund from NBE) during the year under review had reached USD 4.8 billion. Foreign Currency Receipts (In Millions of USD) Particulars 2012/13 2011/12 Change (percent) 1.Exports 1,071.0 1,274.0 -16.0 2.Remittances 3,740.9 3,627.4 3.0 FCY Purchases 318.1 462.9 -31.3 Service Receipts 1,323.2 1,364.5 -3.02 Private Transfers 1,600.1 1,183.4 35.2 Official Transfers 499.5 616.6 -19.0 Total Inflows 4,811.9 4,901.4 -1.8 18",
+"chunk_type": "paragraph",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 329.816747,
+"x1": 547.22586190224,
+"bottom": 774.203983,
+"page": 18
+},
+"parent_section": null,
+"token_count": 163,
+"content_hash": "b8e269c58a14e72f8a8f2b7d",
+"chunk_id": "0aeb16a5-022",
+"metadata": {}
+},
+{
+"content": "On the other hand, the total foreign currency earned from private transfer had substantially surpassed the previous year same period (by 35.2 percent) the major reason being the expansion of branch network of the bank and parallel launching of Western union, Money Gram, and Xpress Money transfer services to more branches of the bank during the review period. 2.4. Human Resources The human resource development strategy, which has been developed by Frankfurt School of Finance and Management, is continued to be implemented during the year under review. Accordingly, five work plans have been drawn to implement recommended strategic actions including; technical assistance to implement the strategy, succession planning system; engagement and retention; performance management system and training and system development. While some of the components of the strategic actions have been carried out, others are underway and will continue to be implemented in the 2013/14 fiscal year. In addition, the CBE has continued its efforts towards strengthening its human capacity by providing various on-the \u2013job and off-the-job training, recruiting additional new and trained employees as well as retaining existing staff through devising different incentives and benefit packages. Accordingly, a total of 13,912 employees were provided technical and developmental training programs by both in house and external trainers and formal and informal. Similarly, the bank continued to give special emphasis on recruiting qualified professionals. In the reporting period, net recruitment of 2,235 permanent employees was made raising employee strength to 15,007 by the end of the Fiscal year. 2.5. Business Development The 2012/13 FY saw the opening of additional 148 branches, bringing CBE\u2019s branch network to 695. Many of its existing branches also expanded their services by opening additional windows. Consequently, the customer base grew significantly, reaching 6.2 million (in terms of number of accounts) at the end of June 2013.",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.50398500000006,
+"x1": 547.36128382688,
+"bottom": 774.203983,
+"page": 19
+},
+"parent_section": null,
+"token_count": 500,
+"content_hash": "5aa6a80d6479e6e3bc37b195",
+"chunk_id": "661a7975-397",
+"metadata": {}
+},
+{
+"content": "In addition, 300 ATMs and 231 point of sale (POS) machines were deployed across major towns and business locations. Moreover, the number of card holders had reached 300,470 including the additional 239,416 VISA and ATM cards delivered in the reporting year as of the same period. 19",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.50398500000006,
+"x1": 547.36128382688,
+"bottom": 774.203983,
+"page": 19
+},
+"parent_section": null,
+"token_count": 70,
+"content_hash": "fe0947894e7d8ba2b3afc6d0",
+"chunk_id": "22061d4e-821",
+"metadata": {}
+},
+{
+"content": "Apart from increased accessibility, impressive progress was also registered during the fiscal year with respect to the IT projects such as card banking and integrated core banking solutions, and the installation of infrastructures. The T-24 CORE banking solution which went live in May 2012 is rolled out to 305 branches (200 in the reporting year) and 4 head office organs as of June 30, 2013. Mobile alerts, mobile and internet banking modules have been finalized and started operation; procurement of 400 routers for roll-out of additional branches had been finalized; GX report module finalized and implemented; T-24 system management and mobile and internet banking are transferred to IS and E-payment sub processes. In addition to its existing products, CBE will enhance financial inclusion by introducing interest free banking services and additional youth and women savings schemes in 2013/14 fiscal year. Moreover, it will continue to expand its outreach in terms of branch opening and deployment of ATM and POS machines. By doing so the CBE will expand its customer base, which is critical in maintaining its market share and improving service excellence. 20",
+"chunk_type": "paragraph",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 45.360001,
+"top": 51.50398500000006,
+"x1": 547.33822441632,
+"bottom": 774.203983,
+"page": 20
+},
+"parent_section": null,
+"token_count": 292,
+"content_hash": "80f44a4bae27c0ad56c47c4a",
+"chunk_id": "b226ea11-860",
+"metadata": {}
+}
+]

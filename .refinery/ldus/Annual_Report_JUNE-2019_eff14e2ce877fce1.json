@@ -1,0 +1,933 @@
+[
+{
+"content": " | Annual\nReport\n2016/17 |  | \n |  |  | \n |  |  | ",
+"chunk_type": "table",
+"page_refs": [
+1
+],
+"bounding_box": {
+"x0": -4.252,
+"top": 0.0004999999999881766,
+"x1": 595.2754,
+"bottom": 650.2805,
+"page": 1
+},
+"parent_section": null,
+"token_count": 12,
+"content_hash": "cbd5d3b5cc986fe85f032823",
+"chunk_id": "204b8bb1-cfd",
+"metadata": {}
+},
+{
+"content": " | ",
+"chunk_type": "table",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 338.427,
+"top": 61.37749999999994,
+"x1": 595.2750000000001,
+"bottom": 229.58799999999997,
+"page": 4
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "ffb0ec688f87d8329ee86097",
+"chunk_id": "bb557896-967",
+"metadata": {}
+},
+{
+"content": " | ",
+"chunk_type": "table",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 267.874,
+"top": 138.8745,
+"x1": 595.2750000000001,
+"bottom": 368.844,
+"page": 6
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "bc2a910c942bfa5d5268d0bf",
+"chunk_id": "1edc508c-835",
+"metadata": {}
+},
+{
+"content": "Item | Non-Life | Life",
+"chunk_type": "table",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": 69.62215,
+"top": 606.1051,
+"x1": 393.62210000000005,
+"bottom": 623.422,
+"page": 9
+},
+"parent_section": null,
+"token_count": 5,
+"content_hash": "64254cd5754f079b772ee0e2",
+"chunk_id": "4ceeadf6-948",
+"metadata": {}
+},
+{
+"content": "\n\n\n\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u1320\u1208\u134b \u1218\u12f5\u1295 \u12a9\u1263\u1295\u12eb \u12a0.\u121b.\nEthiopian Reinsurance Company S.C.\nAfrica Avenue | Kirkos Subcity | Woreda 9\nTel. +251 11 557 5757 | Fax. 251 11 557 5758\nP.O.Box 12687, Addis Ababa, Ethiopia\ninfo@ethiopianre.com | ethiopianre.com\n29",
+"chunk_type": "table",
+"page_refs": [
+32
+],
+"bounding_box": {
+"x0": 0.35205714285714285,
+"top": 0.00032500000000368345,
+"x1": 595.2752,
+"bottom": 841.261,
+"page": 32
+},
+"parent_section": null,
+"token_count": 57,
+"content_hash": "7a66c7e7b3880e11d360923c",
+"chunk_id": "3898cc60-d7e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 Rising with Africa",
+"chunk_type": "paragraph",
+"page_refs": [
+1
+],
+"bounding_box": {
+"x0": 67.176,
+"top": 370.555519,
+"x1": 547.3409422,
+"bottom": 794.193725,
+"page": 1
+},
+"parent_section": null,
+"token_count": 10,
+"content_hash": "41449976994b18778ba43042",
+"chunk_id": "d7620516-2d5",
+"metadata": {}
+},
+{
+"content": "WHO WE ARE MISSION, VISION AND CORE VALUES OUR MISSION OUR CORE VALUES Provide dependable reinsurance services In harmony with our corporate mission and both locally and internationally through nur- vision, Management and staff of Ethiopian Re turing adequate risk capacity and using high- adhere to the following core values: ly trained professionals and modern Informa- \u25a0 Operational Excellence; tion and Communication Technology system. \u25a0 Technology savvy staff and business process; The Company endeavours to foster market \u25a0 Honesty and integrity; stability, high professionalism and advancing \u25a0 Continuous learning and innovation; the business of insurance paying special at- \u25a0 Openness and transparency tention to discharging its corporate social re- \u25a0 High professsionalism; sponsibility in the process. \u25a0 Building strong partnership with customers; OUR VISION \u25a0 National Icon To become one of the leading reinsurance \u2018\u2018 companies in Africa by 2027 OUR MOTTO: RISING WITH AFRICA! Africa Rising is a term coined to describe the national business observers have also named rapid economic growth in Sub-Saharan Africa Africa as the future economic growth engine since 2000 and the belief in the inevitability of the world. of further, rapid development of the conti- There are positive longer-term trends across nent. The continent is almost predestined to Africa all buoyed by what appeared to be enjoy a long period of mid-to-high econom- high economic growth rates sweeping the ic growth, rising incomes and an emerging continent. Ethiopian Re, as the youngest middle class. In March 2013, Africa was the reinsurance company stands to benefit im- world\u2019s fastest-growing continent at a rate of mensely from the unprecedented business 5.6% a year, and GDP is expected to rise by opportunities brought about by bourgeoning an average of over 6% a year between 2013 economic performance of Africa, and hence and 2023. Growth has been extant through- the motto \u201cRising with Africa\u201d.",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 77.67879130000006,
+"x1": 536.7256999,
+"bottom": 797.3018999999999,
+"page": 2
+},
+"parent_section": null,
+"token_count": 488,
+"content_hash": "a2328bb18bc9cf6d80273b32",
+"chunk_id": "cab6da9a-2e5",
+"metadata": {}
+},
+{
+"content": "Basing itself in out the continent, with over one-third of East Africa, the Company is absolutely com- Sub-Saharan African countries posting 6% mitted to provide apposite reinsurance cover or higher growth rates, and the rest growing for the ever rising and dynamic demand for between 4% and 6% per year. Several inter- protection.",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 77.67879130000006,
+"x1": 536.7256999,
+"bottom": 797.3018999999999,
+"page": 2
+},
+"parent_section": null,
+"token_count": 82,
+"content_hash": "c00e6fb3e7b72080b85282ad",
+"chunk_id": "8d9655e6-ca5",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 Contents 1 2 MESSAGE FROM BOARD OF THE CHAIRMAN DIRECTORS 2 3 SENIOR MESSAGE FROM MANAGEMENT THE CEO 5 10INDEPENDENT AUDITORS REPORT DIRECTORS TO SHAREHOLDERS \u2013 AUDIT REPORT SERVICES CORPORATION 14 20 FINANCIAL NOTES TO THE STATEMENTS ACCOUNTS",
+"chunk_type": "paragraph",
+"page_refs": [
+3
+],
+"bounding_box": {
+"x0": 82.5197,
+"top": 115.12934289999998,
+"x1": 529.2760533,
+"bottom": 781.2052856,
+"page": 3
+},
+"parent_section": null,
+"token_count": 66,
+"content_hash": "d7ce9b7b590d909cd72b6b12",
+"chunk_id": "c61cbcf1-bc0",
+"metadata": {}
+},
+{
+"content": "II MESSAGE FROM THE CHAIRMAN Dear Valued Shareholders: One full year has passed since the Ethiopian Reinsur- ance Share Company has started operation, which, indeed was marked by several challenges that un- derpinned the extraordinary commitment required to Although the Company registered underwriting overcome such challenges. We are in the risk assum- loss in its first year of operation, the Board and ing business and we understand that expecting profit the Management had extensively deliberated on in the first year of operation would naturally seem how to do things better through designing five unfeasible. years strategic plan underpinning the oppor- tunities and challenges in a broader context of Despite a tough year, the Board of Directors and the the workings of the reinsurance industry and the Management of the Company worked tirelessly and economic outlook by clearly identifying initia- in unison to lay down the founding blocks of the new tives that, I am sure, will herald the Company\u2019s Company which in fact is believed to have profound success into the future. implications in positively swaying the relative position of the Company in the regional as well as continental Managing risk and volatility remains a central reinsurance arena. focus in the process of creating value for our shareholders and other stakeholders. We con- During the year, the Board of Directors completed tinuously work to evolve the Company\u2019s risk key assignments aimed at consolidating the initial management framework and analysis to better ground work, including, inter alia, drawing vision 2027 manage the risks assumed by the Company.",
+"chunk_type": "paragraph",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 55.0,
+"top": 89.89369999999997,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 4
+},
+"parent_section": null,
+"token_count": 407,
+"content_hash": "1b8acee7fec090f70b88ad93",
+"chunk_id": "49f840dc-915",
+"metadata": {}
+},
+{
+"content": "The of Ethiopian Re by putting quantifiable and pragmatic Board also continues to spend time refining the objectives based on which the Five Year Strategic Plan governance process in response to the need to was formulated, approved the delegation of authority institute good governance as well as ensuring manual, developed codes of conduct and governance compliance with the law and regulatory require- manual and other Manuals prepared by Consultants, ments. reviewed the performance report of the Company on quarterly basis, and attended induction training pro- I look forward to serving my second year as gram designed to bolster governance skills of mem- Ethiopian Re\u2019s Chairman and on behalf of the bers of the Board of Directors. entire Board, I would like to seize this oppor- tunity to thank our shareholders, the National As the maiden journey in uncharted waters was Bank of Ethiopia and other stakeholders for their characterized by enormous challenges, it would have confidence in the Board, which helps fuel the easily allowed short-term objectives to distract long- momentum towards an ever brighter future for term vision. In a vibrant demonstration of unparalleled Ethiopia\u2019s first reinsurance Company. determination to shape the Company\u2019s future, the Board of directors had conducted 47 regular meetings Thank you for your continued support. during the year. The Board has also organized differ- ent Committees as per the NBE\u2019s Directive consisting of: the Human Resources Affairs Committee, Risk and Compliance Committee and Audit Committee. The Committees have subsequently crafted their charters and work plans for the year, which were approved by the full Board of Directors. Hailemichael Kumsa Chairman, Board of Directors 1 2",
+"chunk_type": "paragraph",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 55.0,
+"top": 89.89369999999997,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 4
+},
+"parent_section": null,
+"token_count": 437,
+"content_hash": "355b14aeb23f5dad7b3632a1",
+"chunk_id": "e62acb6c-4a5",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 III BOARD OF DIRECTORS Hailemichael Kumsa Tewodros Tilahun Chairman V/Chairman Dereje Zebene Hailu Mekonnen Frehiwot Alemayehu Shiferaw Ruffie Director Director Director Director Getachew Yisma Habtamu Debela Mulugeta Alemayehu Fikru Tsegaye Director Director Director Board Secretary IV SENIOR MANAGEMENT Yewondwessen Eteffa Chief Executive Officer Shiferaw Bentie Mesfin Wolle Azeb Wegayehu Fikru Tsegaye Manager, Manager, IT Services Manager, Finance and Manager, Business Operations Department Administration Department Development and Corporate Communications 1 2",
+"chunk_type": "paragraph",
+"page_refs": [
+5
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 537.8985660999999,
+"bottom": 812.4936,
+"page": 5
+},
+"parent_section": null,
+"token_count": 147,
+"content_hash": "89b9091153b368f10a5c84c4",
+"chunk_id": "d3a624ba-4f0",
+"metadata": {}
+},
+{
+"content": "V MESSAGE FROM THE CEO Dear Shareholders! Laying the foundation: Seeding growth for the long term! On behalf of the Management and employees of Ethiopian Reinsurance Company S.C, I am proud to present the first annual performance report of the Company for the year 2016/17. It is particularly a delightful experience to have had the chance of playing a part in the first ever Company licensed to carry on reinsurance busi- ness in Ethiopia. This annual report is prepared to inform stakeholders how the Company has managed and deployed organizational resources to deliver and fulfill its objectives during its first year of operation. Amidst all the challenges facing the Company as a new player, it was vital to strive to come up with a value proposition that differentiate our Company from others operating in the market which in general revolves around providing our customers the reinsurance products and services meeting their expecta- tions. It is my deepest conviction that Management has worked selflessly to lay down the building blocks of the Company during its first year of operation. The office lay-out works and recruitment of managerial and other employees, crafting the first five years Strategic Plan of the Company, arranging optimal retro programs, designing and implementing the corporate brand name and logo and works done to acquire the IT software, constitute the major achievements, so to speak. Management has taken into account the works described above in its financial forecasts for the coming fi- nancial year. Accordingly, we forecast earnings of the company to increase year on year and the operating profit to rise steadily. The financial year ended, was an extremely important year in the sense that defining the business models for accepting compulsory cessions was finalized and agreed with cedant companies. The compulsory policy cession constitutes the Company\u2019s mainstay of business that needed to be clearly defined for the business model to work smoothly and efficiently.",
+"chunk_type": "paragraph",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 63.0,
+"top": 89.18049999999994,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 6
+},
+"parent_section": null,
+"token_count": 496,
+"content_hash": "cb1bb0f95a4cf49333fb8e12",
+"chunk_id": "0abd024f-311",
+"metadata": {}
+},
+{
+"content": "The dynamic and increasingly globalized reinsurance industry that Ethiopian Re operates in is being driv- en by a number of complex factors. Consequently, planning beyond the immediate horizon and identi- fying the key trends with the potential to meet our client needs and transform our business model is an important part of our long-term strategy. Through our strategic planning process, we have identified the trends that have the potential to signifi- cantly reshape our business, and where we believe investment in human resources development and building institutional capacity are considered the most crucial component of the overall business strategy. 3 4",
+"chunk_type": "paragraph",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 63.0,
+"top": 89.18049999999994,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 6
+},
+"parent_section": null,
+"token_count": 166,
+"content_hash": "29da2048174967c9014c35cd",
+"chunk_id": "b958a775-5a0",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 As we evaluate opportunities and take actions dedicate themselves to their work, and our com- in line with the lenses of our strategy, we remain munities where we live and work, we believe we focused on the following priorities that have will continue to succeed in the future. consistently guided who we are as a company. Overall, 2016/17 was a solid year for Ethiopian Re, in which the Company managed to record As the first reinsurance Company in the country, encouraging results albeit it apparently failed Ethiopian Re endeavors to enhance underwrit- to avoid incurring loss contrary to established ing capacity through providing decent capacity expectations. Taking into account ongoing mac- thereby enabling local insurers to accept larg- ro-economic headwinds and the overall perfor- er and complex risks in addition to extending mance of the Ethiopian insurance industry, there technical support aimed at boosting national risk is a strong reason to be optimistic that signifi- management skills. It also strives to simplify trea- cant improvements in results will be achieved in ty negotiations, speedy settlement of claims and the years ahead. minimizing the outflow of hard earned foreign currency in the form of reinsurance premiums. In closing, I would like to extend my apprecia- tion and gratitude to everyone involved in mak- Ethiopian Re would stay focused on defining ing our business a success:the Board of Direc- the strategic direction of the Company, the time tors, our employees, clients, business partners, horizon for achieving a rating by international and shareholders as a whole. rating companies, ensuring sustainable growth We thank you for your continued support and through laying down efficient business process guidance and look forward to reinforcing our and acquisition of state of the art information relationship in future. I trust you will find the technology, nurturing healthy and stable domes- information contained in the report useful and tic insurance market, including working aggres- informative.",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 537.4490999999999,
+"bottom": 812.4936,
+"page": 7
+},
+"parent_section": null,
+"token_count": 512,
+"content_hash": "5f7da8cca49e7c014c7b5f71",
+"chunk_id": "da5ca330-9aa",
+"metadata": {}
+},
+{
+"content": "sively to identify and tackle hurdles constricting the development of the life insurance business as well as crafting strategic direction that is meant to ameliorate the financial impact that the phasing out of compulsory policy cession is expected to bring about. These priorities continue to be those by which we measure our success as an organization. By balancing the needs of all our stakeholders \u2013 our Yewondwossen Eteffa clients who entrust us with their business, our Chief Executive Officer shareholders who invest in us, our people who Ethiopian Reinsurance Share Company 3 4",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 537.4490999999999,
+"bottom": 812.4936,
+"page": 7
+},
+"parent_section": null,
+"token_count": 146,
+"content_hash": "48fcb4ec6e4a05e16c52f2f1",
+"chunk_id": "113e9bc1-c8c",
+"metadata": {}
+},
+{
+"content": "VI DIRECTORS REPORT ETHIOPIAN REINSURANCE SC derwriting skill. It also strives to simplify treaty nego- REPORT OF THE BOARD OF DIRECTORS tiations, settlement of claims and payment of ceded FOR THE YEAR ENDED 3O JUNE 2017 premium within the shortest time. The Directors present their report together with BOARD OF DIRECTORS the audited financial statements for the year ended 30 June 2017 in accordance with Article The roles and functions of the Board of Directors 418 and 419 of the Commercial Code of Ethiopia and the CEO of the Company are distinct and their and article 9 and 10 of the Company\u2019s Articles of respective responsibilities have been clearly defined Association and Directives of the National Bank of in the Constitution of the Company. The Board Ethiopia. comprises of nine directors appointed to serve in their individual capacity and as representatives of BACKGROUND INFORMATION companies. The Board, together with the executive management, defines the Company\u2019s strategies, Ethiopian Reinsurance S.C (Ethiopian Re) is the first objectives and exercises effective control over stra- reinsurance Company incorporated under the provi- tegic, financial, operational and compliance issues. sions of Article 5(8) of the Insurance Business Procla- The directors bring a wealth of experience and mation No.746/2012, license number RB/01/2016 knowledge to the Board\u2019s deliberations. Except for issued by the National Bank of Ethiopia. It started direction and guidance on general policy, the Board operation on 1 July 2016 transacting both life and delegates authority of its day-to-day business to the non-life businesses. executive Management through the CEO. Ethiopian Re\u2019s shareholding structure is made up of Board Meetings: The Board holds meetings on a concoction of partnerships between public and a regular basis while special meetings are called private financial institutions as well as individuals. whenever it is deemed necessary.",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 62.0,
+"top": 89.18049999999994,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 8
+},
+"parent_section": null,
+"token_count": 481,
+"content_hash": "826a2b21931a2999cc57f316",
+"chunk_id": "99a51c0b-270",
+"metadata": {}
+},
+{
+"content": "The Board held The Company has diverse shareholders currently fortyseven regular meetings during the year under comprising seven banks, seventeen insurance com- review. panies, eighty individual shareholders coming from different walks of life and one labor union. The sub- Committees of the Board: The Board has set up scribed share capital of the Company is Birr 997.3 three principal committees which act under well-de- million. The Company\u2019s Board of Directors compris- fined terms of reference set by the Board. This is es of nine members representing individuals and intended to facilitate efficient decision making of institutions who were appointed by the Founders of the Board in discharging its duties of office. the Company. The Board is responsible toprovide strategic leadership and direct the overall affairs of TRADING ENVIRONMENT the Company. Relying on its relatively strong capital base, plus THE GLOBAL REINSURANCE SECTOR sound retrocession protection provided by world Reinsurance demand is still subdued, whereas the renowned reinsurance companies, Ethiopian Re reinsurance capacity continues to increase. As a aims to provide a comprehensive range of rein- long-term trend primary insurers tend to retain surance covers to domestic insurers, in addition to more risks using improved risk management tech- accepting international business on selective basis. niques. Furthermore, competitive markets as well as The Company strives to mobilize financial resources low investment returns force primary insurers to be which would be invested to generate additional increasingly price sensitive, whereas their and the income, needless to mention the role it plays in reinsurers\u2019 capital position has improved due to the reducing hard earned foreign currency outflow relative benign catastrophe activity in the last sever- through cross border reinsurance transactions. al years.",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 62.0,
+"top": 89.18049999999994,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 8
+},
+"parent_section": null,
+"token_count": 467,
+"content_hash": "0eef4b0c7974b94f6074b1d0",
+"chunk_id": "eef17480-8fc",
+"metadata": {}
+},
+{
+"content": "(The Global Reinsurance Sector, Financial Moreover, as the first reinsurance Company in the Stability Report/FSR/, June 2017) country, Ethiopian Re endeavors to enhance un- derwriting capacity and solvency of direct insurers Thus, overall, the general business environment through providing cover against large and complex remains largely unchanged. The rates continued to risks and availing technical support to bolster un- soften in 2016, despite the downward trend. Along 5 6",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 62.0,
+"top": 89.18049999999994,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 8
+},
+"parent_section": null,
+"token_count": 119,
+"content_hash": "b9f744cdd2d5f9f3b992048e",
+"chunk_id": "2e257eac-797",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 with rate reductions also the terms and conditions Reinsurance premium growth in the emerging mar- for reinsurance placements improved further, e.g. kets will be 8% or higher, with a particularly strong expanded hours clause, broadened terrorism cover- contribution from China, where the government has age and improved reinstatement provisions. a target to increase the insurance penetration rate. The Global Reinsurance Report 2017 prepared by THE ETHIOPIAN INSURANCE Fitch Ratings, the key drivers behind the negative INDUSTRY Ethiopia\u2019s insurance industry is relatively unde- sector outlook, as well as the conditions that could veloped which is exemplified by the sector\u2019s low lead the agency to revise its rating outlook to insurance penetration (percentage of insurance pre- negative from stable include four key issues that are mium to GDP), which stood at low insurance density expected to pose a challenge to reinsurers during (average per capita spending on insurance) which 2017. These include profit deterioration as a key was Birr 62.4, as at 2015/16. Identical conventional rating sensitivity, stabilizing prices giving false hope, products, low level of public awareness, price based slowing alternative capital capacity and stalled competition, urban centered service, lack of innova- reinsurer consolidation, but may heat up again. As a tion and scarce man power are said to be the major result, profit will decline in underwriting and invest- culprits for the dismal performance of the industry. ments and in turn could push to negative rating Currently, the number of insurance companies actions According to SWISS Re sigma, Global insurance stood at 17 (1 public and 16 private) with their review 2016 and outlook 2017/18, non-life re/in- branches rising to 492 following the opening of new surance premium growth will be modest, but will branches. About 53.5 percent of insurance branches continue to improve by 2018.",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 559.2830999999999,
+"bottom": 812.4936,
+"page": 9
+},
+"parent_section": null,
+"token_count": 486,
+"content_hash": "1cce8c928cc676a26c57b708",
+"chunk_id": "ab139ee0-f10",
+"metadata": {}
+},
+{
+"content": "Global reinsurance were situated in Addis Ababa and 83.6 percent of premium growth will be slightly less, and profits the total branches were private. At the same time, slightly higher than the levels for primary non-life in- the total capital of insurance companies grew 25.3 surers, but follow the same pattern. Global primary % to Birr 3.6 billion of which the share of private non-life premium growth is forecast to be slightly insurance companies stood at 76.7 %. weaker at 2.2% in 2017 compared with 2.4% the The industry data as at 30th June 2017 indicates, previous year, and then improve to 3.0% in 2018. gross written premiums of the insurance industry Premium growth in emerging markets will improve reached Birr 7.4 billion. General insurance domi- steadily from 5.3% in 2016 to 5.7% in 2017 and nates the sector (95.2%), with motor vehicle insur- 6.7% in 2018. Pricing in commercial lines continues ance continued to claim significant share \u2013 consti- to deteriorate, but at a slower pace. For non-life tuting 56% of total insurance premiums and 80.4% primary insurers, assuming average natural catastro- loss ratio at industry level. On the other hand, long phe losses and shrinking reserve releases, sector term insurance constituted merely 4.8% of total return on equity (RoE) is likely to decline from 8% in premiums written with a 48% loss ratio (30thJune, 2015 to 6% in 2016-18. 2017). Global life reinsurance premium growth is expected The industry\u2019s net earned premium and net claims to be about 1.5% in 2017 and around 1% in the fol- incurred for the period ended June 2017 reached lowing two years, primarily due to the close-to-zero Birr 5.6 billion and Birr 3.3 billion respectively, which growth in the advanced economies where the bulk exhibited a loss ratio of 63.9%. of cessions originate.",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 559.2830999999999,
+"bottom": 812.4936,
+"page": 9
+},
+"parent_section": null,
+"token_count": 447,
+"content_hash": "40c1c1fd6fad4c49151237f0",
+"chunk_id": "7feb0b99-972",
+"metadata": {}
+},
+{
+"content": "Summary of Financial Information of Insurers as at June 30, 2017 Table1: performance of the insurance industry (in \u2018000 Birr) Item Non-Life Life Total Gross Premium 7,133,478 360,093 7,493,571 Net Premium 5,288,202 322,141 5,610,343 Ret Ratio in (%) 74 89 74.9 Net Earned Premium 4,917,095 322,141 5,239,236 Net Claim Incurred 3,192,800 153,171 3,345,971 Loss Ratio in (%) 65 48 63.9 Total Asset 11,924,861 1,641,435 13,566,296 Total Capital 3,991,772 338,792 4,330,564 Profit After Tax 1,085,728 - 1,085,728 SOURCE: NBE JUNE 30, 2017 5 6",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 559.2830999999999,
+"bottom": 812.4936,
+"page": 9
+},
+"parent_section": null,
+"token_count": 134,
+"content_hash": "146b96bebcb2163c20eff022",
+"chunk_id": "43951147-e68",
+"metadata": {}
+},
+{
+"content": "THE CASE WITH 5% COMPULSORY The Company together with the Association POLICY CESSION of Ethiopian Insurers has been lobbying to In accordance with the stipulation of Directive introduce certain amendments to the relevant No. SIB/44/2016, Sub Article 5.2, Ethiopian provisions of Directive No. SIB/44/2016 with Re is entitled to take a five percent compulsory the object of ensuring consistent application of policy cession on every policy issued by insur- the original intent, i.e. exhausting local capacity ance companies carrying on business in Ethio- before ceding business abroad. In this regard pia. The purpose of the mandatory cession is to several discussions have been held with the Na- augment the income from core operation in the tional Bank of Ethiopia on the provisions of the early years of establishment where competing Directives that require changes and preliminary for business would prove difficult. In deed the consensus was reached in the final version. It is income from compulsory policy cession account- expected that the Bank will issued the Directive ed for almost two third of the total income of the early next year. Company during its first year of operation. Given compulsory cession is going to expire in four TIMELY FILING OF QUARTERLY years\u2019 time, it is incumbent upon the Company\u2019s REPORTS AND SETTLING leadership to find ways to compensate the huge OF BALANCES If experience of the first year of operation is loss in income hovering over the horizon. any guide, the task of collecting and consoli- To this end the Company is tinkering over in- dating data that would be used as an input for creasing its participation in the treaty of direct the preparation of periodic reports has proved insurers by way of voluntary cession starting a time consuming and laborious process. The from the third year of operation.",
+"chunk_type": "paragraph",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 56.1653,
+"top": 119.04790000000003,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 10
+},
+"parent_section": null,
+"token_count": 454,
+"content_hash": "d15188dcbdccac4925d216a3",
+"chunk_id": "60588680-fe4",
+"metadata": {}
+},
+{
+"content": "In addition, it delay in submitting quarterly statements has is intended to bolster income generated from rendered timely confirmation of the accounts overseas business by aggressively promoting trying thereby deferring settlement of balances the Company in regional and even continental due from ceding companies. Since the Com- markets. In this regard Management duly recog- pany entirely relies on remittances from ceding nized the need to get graded by international companies to finance its operations and also grading agencies; a requisite in most markets to to generate additional income by investing the qualify for competing for business. By working balance, timely acquisition of quarterly accounts to increase the chance of attracting more volun- and confirmation of balances due as well as tary business from domestic insurers and ventur- eventual collection of premiums plays a central ing on taking overseas business selectively, it is role in the business process. hoped to ameliorate the huge impact of expiry Whilst it is understandable that the delay ob- of compulsory policy cession requirement on the served largely emanated from the state of infor- overall income of the Company at the end of the mation technology prevalent in the insurance remaining four years. industry, the need to streamline the compilation and consolidation of data in a timely manner MANNER OF ACCEPTING AND CEDING FACULTATIVE BUSINESS should be a matter of serious concern. More- The manner of transacting reinsurance business over, the terms of the reinsurance treaties clearly Directive No. SIB/44/2016 grants Ethiopian Rein- set out the timeframe for submission of quarterly surance Share Company the right of first refusal accounts as a condition precedent, which in on all facultative businesses transacted by direct effect means that complying with the require- insurers before they are being offered to over- ment of the clause is not an option. Needless seas companies.",
+"chunk_type": "paragraph",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 56.1653,
+"top": 119.04790000000003,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 10
+},
+"parent_section": null,
+"token_count": 488,
+"content_hash": "bcf3117ca4830966d87c7f9c",
+"chunk_id": "38f54bd1-f67",
+"metadata": {}
+},
+{
+"content": "Nevertheless, this particular to mention the Company\u2019s repeated failure to provision of the Directive has been inconsistently submit its quarterly accounts to the regulatory implemented in the first year of operation which authority within the time prescribed by law due resulted in forfeiture of the income generated to failure to obtain relevant data from ceding from this source. In addition to indirectly influ- companies. The Company should therefore work encing the rate of premium being applied for a with the regulatory authority and players in the particular cover, strict enforcement of the provi- insurance industry to establish proper reporting sion would have contributed a lot in enhancing mechanisms in the years to come. income spawned from domestic sources. 7 8",
+"chunk_type": "paragraph",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 56.1653,
+"top": 119.04790000000003,
+"x1": 672.8798,
+"bottom": 812.4936,
+"page": 10
+},
+"parent_section": null,
+"token_count": 194,
+"content_hash": "35503b99956ad50d6520b37f",
+"chunk_id": "ccdfbde9-500",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 RESULTS GENERAL 1% Although Ethiopian Re started operation only on 1 July 2016, recruitment of staff, acquisition of 37% Facultative office furniture and creating conducive working Treaty Cession environment were not finalized until the end of October 2017. Consequently, actual operation 62% did commence four months after the financial Policy year actually began. Cession On the other hand, while the manner of trans- acting treaty cession is straightforward, building consensus over the modality of compulsory policy cession took longer time than expected. Eventually consensus was reached on the terms 0% and conditions for ceding compulsory policy Foreign cession with the Association of Ethiopian Insur- Business ers and a formal agreement was signed on 29 November 2016. Fig: portfolio mix by treaty type RETROCESSION PROGRAM: Retro program arrangement for the year From the total premium for the period under 2016/17 has been negotiated and concluded, review, Birr 502 million or 96.66% has been with the object of putting adequate protection generated from general reinsurance class of in place when the Company started opera- business whereas the remaining Birr 17.4 mil- tion. Although the retro program is believed to lion or 3.34% generated from life reinsurance. have provided sufficient protection for the risks assumed by the Company, the restriction im- posed on acceptance of foreign business partly 3% 97% prevented the possibility of considering business Life offers coming from foreign reinsurers. Insurance General Insurance The Company is currently working on a business plan as part of its expressed desire to participate on foreign business which eventually will be sub- mitted to the reinsurer leading the retrocession program in order to get the green light to write foreign business on selective basis. GROSS WRITTEN PREMIUM The Company has generated a gross premium income of Birr 519.8 million during its first year of operation.",
+"chunk_type": "paragraph",
+"page_refs": [
+11
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 566.5702475,
+"bottom": 812.4936,
+"page": 11
+},
+"parent_section": null,
+"token_count": 490,
+"content_hash": "c316a17e719759408cfe5246",
+"chunk_id": "ead5a599-811",
+"metadata": {}
+},
+{
+"content": "From the total premium for the period, Birr 194 million or 37% has been gen- erated by way of Compulsory Treaty Cession whereas Birr 321.8 million or 62% was generated from Compulsory Policy Cession. Moreover, Birr Fig: portfolio mix by class of reinsurance 3.97 million was written under facultative volun- tary cession from local market. No business was written under foreign business. 7 8",
+"chunk_type": "paragraph",
+"page_refs": [
+11
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 566.5702475,
+"bottom": 812.4936,
+"page": 11
+},
+"parent_section": null,
+"token_count": 97,
+"content_hash": "8e4fbb3399e8be8e0c3e45ce",
+"chunk_id": "e5486929-c9a",
+"metadata": {}
+},
+{
+"content": "CLAIMS PAID PROFIT AND LOSS The Company has incurred Birr 60.9 million loss TOTAL GROSS CLAIMS PAID during the year. (GENERAL INSURANCE) During the reporting period, the Company has set- tled a gross claim of Birr 82.2 million. Out of which NON-FINANCIAL PERFORMANCE Birr 16.2 million and Birr 66 million is paid for treaty and policy cession, respectively. INFORMATION TECHNOLOGY (IT) In an effort to modernize its business processes the OUTSTANDING CLAIMS Company is in the final process of acquiring reinsur- At the end of the financial year under discussion, ance software. the total outstanding claims balance stood at Birr 71.9 million. Out of which treaty cession and policy cession share Birr 20 million and Birr 51.9 million, STRATEGIC PLAN respectively. Ethiopian Re has developed the first strategic plan covering the years 2016/17-2021/22 which was subsequently reviewed and approved by the Board TOTAL CLAIMS INCURRED (LONG TERM INSURANCE) of Directors and Senior Management and eventual- During the period under consideration, the Com- ly filed with the National Bank of Ethiopia. pany\u2019s claims incurred (life class of business) has reached Birr 3.7 million AUDITORS The Audit Services Corporation is responsible for COMMISSION EXPENSE auditing the Company\u2019s books of account in accor- During the period under discussion, the total ced- dance with the resolution of the Founder\u2019s Meeting ing commission paid to insurers amounted to Birr that sanctioned the Corporation as external audi- 122.6 million. Likewise, the Company has paid Birr tors responsible to carry out the audit for the year 45.4 million as profit commission. ended 30 June 2017. GENERAL AND ADMINISTRATIVE EXPENSES VOTE OF THANKS During the year, Birr 12.8 million has been expend- The Board of Directors, the Executive Management ed for general and administrative expenses. and employees would like to express their deepest gratitude to customers of the Company for their unreserved support and willingness to continue to INVESTMENT AND OTHER INCOME do business with the Company.",
+"chunk_type": "paragraph",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 56.0,
+"top": 117.28970000000004,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 12
+},
+"parent_section": null,
+"token_count": 508,
+"content_hash": "d92eb5b4e6f10e0caa5cff9d",
+"chunk_id": "b4962705-a68",
+"metadata": {}
+},
+{
+"content": "The Company has earned Birr 34.4 million from investment and other income during the year under consideration. ____________________________ ____________________________ Hailemichael Kumsa Yewendwossen Eteffa Kumsa Chairman, Board of directors, Ethiopian Re CEO, Ethiopian Re 9 10",
+"chunk_type": "paragraph",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 56.0,
+"top": 117.28970000000004,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 12
+},
+"parent_section": null,
+"token_count": 69,
+"content_hash": "30a8cf85e23ba0d19e8913ab",
+"chunk_id": "b4917408-b88",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 VII INDEPENDENT AUDITORS REPORT TO SHAREHOLDERS 9 10",
+"chunk_type": "paragraph",
+"page_refs": [
+13
+],
+"bounding_box": {
+"x0": -78.1318,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 13
+},
+"parent_section": null,
+"token_count": 18,
+"content_hash": "a5f38a290c63b752191688ea",
+"chunk_id": "452d4204-97d",
+"metadata": {}
+},
+{
+"content": "11 12",
+"chunk_type": "paragraph",
+"page_refs": [
+14
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 14
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "9ab4081b4479bbe119b887f5",
+"chunk_id": "4a3d5060-eed",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 11 12",
+"chunk_type": "paragraph",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 15
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "1e16b1da18c6b110411ea116",
+"chunk_id": "61b13605-c7f",
+"metadata": {}
+},
+{
+"content": "13 14",
+"chunk_type": "paragraph",
+"page_refs": [
+16
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 16
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "65b9831557f1cfaebdafb2e0",
+"chunk_id": "024e43e9-b5e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 VIII FINANCIAL STATEMENTS 13 14",
+"chunk_type": "paragraph",
+"page_refs": [
+17
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 17
+},
+"parent_section": null,
+"token_count": 13,
+"content_hash": "9f7e5efa921648c6b2e9aea2",
+"chunk_id": "29644910-158",
+"metadata": {}
+},
+{
+"content": "15 16",
+"chunk_type": "paragraph",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 18
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "b65247a4c7ecadf3ba040de8",
+"chunk_id": "a0d6149a-46a",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 15 16",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 19
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "f5fee4c6ece75dfe9e36887b",
+"chunk_id": "0d295920-bbd",
+"metadata": {}
+},
+{
+"content": "17 18",
+"chunk_type": "paragraph",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 20
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "7408d3da6403cac60da9c9b4",
+"chunk_id": "7fbf809b-bd7",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 17 18",
+"chunk_type": "paragraph",
+"page_refs": [
+21
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 21
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "afdedf560b7c8a3df653a0e3",
+"chunk_id": "6ab71238-af2",
+"metadata": {}
+},
+{
+"content": "19 20",
+"chunk_type": "paragraph",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 22
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "5610d772894902b5b21390ed",
+"chunk_id": "241b7eb5-ac8",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 IX NOTES TO THE ACCOUNTS 19 20",
+"chunk_type": "paragraph",
+"page_refs": [
+23
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 23
+},
+"parent_section": null,
+"token_count": 13,
+"content_hash": "0223ff840c180ea95fc747e7",
+"chunk_id": "1dd463fb-f55",
+"metadata": {}
+},
+{
+"content": "21 22",
+"chunk_type": "paragraph",
+"page_refs": [
+24
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 24
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "f9c106ce6d0ba071dce48529",
+"chunk_id": "32eabee5-e26",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 21 22",
+"chunk_type": "paragraph",
+"page_refs": [
+25
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 25
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "c37bd1ce295c0f73a28dbd37",
+"chunk_id": "7d8e7b4b-e1e",
+"metadata": {}
+},
+{
+"content": "23 24",
+"chunk_type": "paragraph",
+"page_refs": [
+26
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 26
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "cf9e7cf43088aa64b746eb93",
+"chunk_id": "c82d01dd-0b6",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 23 24",
+"chunk_type": "paragraph",
+"page_refs": [
+27
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 27
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "68f55b1826119706d07e6585",
+"chunk_id": "70263be0-634",
+"metadata": {}
+},
+{
+"content": "25 26",
+"chunk_type": "paragraph",
+"page_refs": [
+28
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 28
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "7b50f7087ffadb3b1cb4bab5",
+"chunk_id": "73833330-36e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 25 26",
+"chunk_type": "paragraph",
+"page_refs": [
+29
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 29
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "d06616e1c516aaffef5a8662",
+"chunk_id": "cfb76796-196",
+"metadata": {}
+},
+{
+"content": "27 28",
+"chunk_type": "paragraph",
+"page_refs": [
+30
+],
+"bounding_box": {
+"x0": 514.7758,
+"top": 804.4936,
+"x1": 675.2478,
+"bottom": 812.4936,
+"page": 30
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "7cd1bee98c3db64e2eaefcac",
+"chunk_id": "7c1253e6-395",
+"metadata": {}
+},
+{
+"content": "Annual Report 2016/17 27 28",
+"chunk_type": "paragraph",
+"page_refs": [
+31
+],
+"bounding_box": {
+"x0": -80.4997,
+"top": 29.730699999999956,
+"x1": 532.3528,
+"bottom": 812.4936,
+"page": 31
+},
+"parent_section": null,
+"token_count": 6,
+"content_hash": "2ab642adfa33d38bddb0a624",
+"chunk_id": "a8c8fce2-2ec",
+"metadata": {}
+},
+{
+"content": "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u1320\u1208\u134b \u1218\u12f5\u1295 \u12a9\u1263\u1295\u12eb \u12a0.\u121b. Ethiopian Reinsurance Company S.C. Africa Avenue | Kirkos Subcity | Woreda 9 Tel. +251 11 557 5757 | Fax. 251 11 557 5758 P.O.Box 12687, Addis Ababa, Ethiopia info@ethiopianre.com | ethiopianre.com 29 PB",
+"chunk_type": "paragraph",
+"page_refs": [
+32
+],
+"bounding_box": {
+"x0": 195.7181,
+"top": 700.8487,
+"x1": 675.6238,
+"bottom": 812.4936,
+"page": 32
+},
+"parent_section": null,
+"token_count": 57,
+"content_hash": "649a3a24e5bd58fcd3f876af",
+"chunk_id": "733da7b5-755",
+"metadata": {}
+}
+]

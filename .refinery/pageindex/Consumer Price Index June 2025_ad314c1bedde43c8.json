@@ -1,0 +1,26 @@
+{
+  "doc_id": "Consumer Price Index June 2025_ad314c1bedde43c8",
+  "root": {
+    "title": "Document",
+    "page_start": 1,
+    "page_end": 13,
+    "child_sections": [
+      {
+        "title": "Document",
+        "page_start": 1,
+        "page_end": 13,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "Issue No. 24/2017 June EFY2017 Page 1\n1. Summary\nThe Consumer Price Index (CPI), a key economic statistics, is surveyed, analyzed, and made available\nto data users on a monthly basis.",
+        "data_types_present": [
+          "tables",
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "Issue No. 24/2017 June EFY2017 Page 1\n1. Summary\nThe Consumer Price Index (CPI), a key economic statistics, is surveyed, analyzed, and made available\nto data users on a monthly basis.",
+    "data_types_present": []
+  },
+  "total_pages": 13
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "CBE ANNUAL REPORT 2023-24_a1e5b6b1464a879c",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\CBE ANNUAL REPORT 2023-24.pdf",
+    "page_count": 161,
+    "filename": "CBE ANNUAL REPORT 2023-24.pdf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "fta_performance_survey_final_report_2022_74bd531bd690ac50",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "technical",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\technical\\fta_performance_survey_final_report_2022.pdf",
+    "page_count": 155,
+    "filename": "fta_performance_survey_final_report_2022.pdf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "doc_id": "Company_Profile_2024_25_f3995267ea91a6ac",
+  "origin_type": "native_digital",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "technical",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\Company_Profile_2024_25.pdf",
+    "page_count": 24,
+    "filename": "Company_Profile_2024_25.pdf"
+  }
+}

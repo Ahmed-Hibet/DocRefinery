@@ -1,6 +1,7 @@
 # Core Pydantic schemas for the Refinery pipeline
 
 from src.models.schemas import (
+    AuditResult,
     BoundingBox,
     ChunkType,
     DataTypesPresent,
@@ -17,11 +18,13 @@ from src.models.schemas import (
     PageIndexSection,
     ProvenanceChain,
     ProvenanceCitation,
+    QueryAnswer,
     TableCell,
     TextBlock,
 )
 
 __all__ = [
+    "AuditResult",
     "BoundingBox",
     "ChunkType",
     "DataTypesPresent",
@@ -38,6 +41,7 @@ __all__ = [
     "PageIndexSection",
     "ProvenanceChain",
     "ProvenanceCitation",
+    "QueryAnswer",
     "TableCell",
     "TextBlock",
 ]

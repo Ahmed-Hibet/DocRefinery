@@ -1,0 +1,14 @@
+{
+  "doc_id": "Annual_Report_JUNE-2019_eff14e2ce877fce1",
+  "origin_type": "mixed",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "financial",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\Annual_Report_JUNE-2019.pdf",
+    "page_count": 32,
+    "filename": "Annual_Report_JUNE-2019.pdf"
+  }
+}

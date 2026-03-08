@@ -1,0 +1,1805 @@
+[
+{
+"content": "Create Interoperability Across All Channels 1\nlaoG\nand Players\n\n2\nlaoG\nDevelop Payment Scheme\n\n3\nProvide Shared Platform and Infrastructure\nlaoG\nServices\n\n4\nlaoG\nBuild Internal Dynamic Capability\n\n5 Ensure Service Excellence: Secure, Reliable,\nlaoG\nSeamless Services",
+"chunk_type": "table",
+"page_refs": [
+13
+],
+"bounding_box": {
+"x0": 297.6378833333333,
+"top": 370.37,
+"x1": 595.2758833333332,
+"bottom": 660.0559999999999,
+"page": 13
+},
+"parent_section": null,
+"token_count": 66,
+"content_hash": "c738c815aa70b2e2cb9068b5",
+"chunk_id": "abc767c0-fb2",
+"metadata": {}
+},
+{
+"content": " | \n | ",
+"chunk_type": "table",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 426.586,
+"top": 410.052,
+"x1": 491.3106666666667,
+"bottom": 527.2836428571428,
+"page": 15
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "1aedcb151602c2603528d8cb",
+"chunk_id": "0bfdc0a3-99c",
+"metadata": {}
+},
+{
+"content": " | ",
+"chunk_type": "table",
+"page_refs": [
+29
+],
+"bounding_box": {
+"x0": 231.274,
+"top": 62.73700000000008,
+"x1": 622.2049999999999,
+"bottom": 80.72900000000004,
+"page": 29
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "b5c16164c652a5444606f997",
+"chunk_id": "9dbad5bd-858",
+"metadata": {}
+},
+{
+"content": " | ",
+"chunk_type": "table",
+"page_refs": [
+32
+],
+"bounding_box": {
+"x0": 0.06966666666666667,
+"top": 63.77999999999997,
+"x1": 26.929,
+"bottom": 81.77199999999993,
+"page": 32
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "49791c47ed7a896c2d58aa08",
+"chunk_id": "2e7be4ec-0a6",
+"metadata": {}
+},
+{
+"content": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"chunk_type": "section_header",
+"page_refs": [
+1
+],
+"bounding_box": {
+"x0": 53.0703,
+"top": 235.2462792,
+"x1": 417.26801079999996,
+"bottom": 781.5113183999999,
+"page": 1
+},
+"parent_section": null,
+"token_count": 10,
+"content_hash": "e4c24e63bc39b9a6f52bbe59",
+"chunk_id": "85000c70-d5d",
+"metadata": {}
+},
+{
+"content": "Shared Infrastructure for all Financial Service Providers Card Switch Reconciliation solution Digital Instant Payment Switch Channel monitoring Payment Gateway Shared SOC Shared wallet Card Perso & PIN Production",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 45.3418,
+"top": 551.7584755,
+"x1": 549.9862770000001,
+"bottom": 779.906347,
+"page": 2
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 53,
+"content_hash": "3c8232a29fa898e9b6da698b",
+"chunk_id": "9bda0840-a3d",
+"metadata": {}
+},
+{
+"content": "ANNUAL REPORT 2 0 2 2 2 3 FOR THE FINANCIAL YEAR ENDED 30 JUNE 2023",
+"chunk_type": "paragraph",
+"page_refs": [
+3
+],
+"bounding_box": {
+"x0": 79.5204,
+"top": 160.8635791999999,
+"x1": 562.9318054,
+"bottom": 806.7242183999999,
+"page": 3
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 16,
+"content_hash": "afe57ddfa69dbbac79ba83f5",
+"chunk_id": "c18e7ee2-85e",
+"metadata": {}
+},
+{
+"content": "CONTENTS Performance Highlights Board Chairperson\u2019s Message Chief Executive Officer\u2019s Message Our Corporate Philosophy - kk/AA/2/0002908/2005 Report of the Board of Directors 08 1. Digital Payments Landscape 1 +251115571204 9714 2. Operational Performance 4 info@ethswith.com 2.1. Interoperable Transactions 4 2.2. Card and PIN (Personal Identification Number) Personalization 6 1. 6. 2.3. Dispute Management 6 2.4. Clearing and Settlement 6 2.5. Development and Establishment of a Domestic Payment Scheme 7 2. 7. 2.6. Provide secure, reliable, and seamless services 7 2.7. Project Implementation Status 7 3. 8. 3. Financial Performance 8 4. 9. 3.1. Assets 8 3.2. Capital 8 5. 10. 3.3. Revenues and Expenses 8 4. Strategy and Other Development 11 4.1. Strategy Development and Revision 11 4.2. Status of Strategy Implementation 12 4.3. Other Development 13 Auditor\u2019s Report 25 www.ethswitch.com",
+"chunk_type": "paragraph",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 45.96119999999996,
+"x1": 1144.78282,
+"bottom": 783.2303289,
+"page": 4
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 223,
+"content_hash": "8b1a975c00f15991f58494f0",
+"chunk_id": "d32fa990-be1",
+"metadata": {}
+},
+{
+"content": "- kk/AA/2/0002908/2005 08 +251115571204 9714 info@ethswith.com 1. 6. 2. 7. 3. 8. 4. 9. 5. 10. www.ethswitch.com",
+"chunk_type": "list",
+"page_refs": [
+5
+],
+"bounding_box": {
+"x0": 37.4968,
+"top": 296.61417499999993,
+"x1": 549.50722,
+"bottom": 783.2303289,
+"page": 5
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 27,
+"content_hash": "2ab13d1cf71ded4ed4bd0c3f",
+"chunk_id": "e3b0ef41-e11",
+"metadata": {}
+},
+{
+"content": "snoitcasnarT elbareporetnI ecnamrofreP laicnaniF 321 71,433,041 970,434 14,140,881 380,795 185,322,065 ATM POS P2P Card Printing Total Total Number of Staffs YF 3202 I 2202 PERFORMANCE HIGHLIGHTS sredloherahS ataD lanoitaN 28 12 01 01 Banks MFIs PSO PII Total transactions across the industry 38,403,675 7,858 12,016 Total Number of Total Number of Total Number of 356,384,957 6,601,796 298,826,380 Payment Card Issued ATMs POS Terminals 1,785,869,074 Birr 941,552,000 Birr Total Asset Paid-up Capital 606, 536,792 Birr 534,534,327 Birr Operational Income Profits before Tax rebmuN latoT",
+"chunk_type": "paragraph",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 35.92819999999995,
+"x1": 603.2932999999999,
+"bottom": 797.5307,
+"page": 6
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 146,
+"content_hash": "ef1ed59b4ec0bfad62d24c8d",
+"chunk_id": "cfe6b937-5ea",
+"metadata": {}
+},
+{
+"content": "YF 3202 I 2202 BOARD DIRECTORS H.E Ato Solomon Desta Chairperson Ato Melaku Kebede Vice Chairperson Ato Asfaw Alemu Ato Daniel Tekeste Ato Dereje Zebene Board Director Board Director Board Director Ato Girum Tsegaye Ato Teferi Mekonnen Ato Yehuala Gessesse Board Director Board Director Board Director Annual Report 2022I2023 I EthSwitch I",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": -53.9823,
+"top": 35.92819999999995,
+"x1": 544.4782,
+"bottom": 808.9342,
+"page": 7
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 84,
+"content_hash": "42f6c1c6f1c3dbb84502cf42",
+"chunk_id": "d5182118-107",
+"metadata": {}
+},
+{
+"content": "BOARD CHAIRPERSON\u2019S MESSAGE The financial year 2022/2023 was marred by challenges both nationally and globally. Despite the many factors that adversely affected the global and local economic environment, EthSwitch has achieved significant milestones. During the concluded financial period, EthSwitch successfully implemented its strategic plan, achieving notable advancements in policy, income generation, project implemnetation, and operational efficiency. Ethswitch has earned a profit before tax of Birr 534,534,327; accordingly, the pre-tax profit has increased by 172%, a record-high figure compared to the previous years. This achievement is realized by the unwavering commitment to enhance operational efficiency, revenue growth, and cost optimization. Besides, this achievement is attributed to the overall effort of the board of directors, management, and staff. Moreover, Ethswitch is playing a significant role in the realization of National Digital Payment Stratgy, a strategy to promote e-commerce and digital services at the national level, and the National Financial Inclusion Strategy II, which aims to create universal access to affordable financial services and products by 2025. These national strategies are strongly aligned with the strategic aspirations and goals of Ethswitch. EthSwitch has succeeded in various service areas, including Person-to-Person (P2P) services, ATM and POS transaction interoperability, and card and PIN Esteemed Shareholders, personalization services. These accomplishments reveal the company\u2019s contributions to the modernization of the On behalf of the Board of Directors and myself, I am national payment system and the expansion of financial pleased to present EthSwitch\u2019s Annual Report for the inclusion nationwide. Financial Year 2022/2023. Annual Report 2022I2023 I EthSwitch II",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 35.936199999999985,
+"x1": 559.2766000000001,
+"bottom": 808.3673,
+"page": 8
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 458,
+"content_hash": "0e384e5e779ac475f9a3464a",
+"chunk_id": "1dacb660-17d",
+"metadata": {}
+},
+{
+"content": "Regarding the implementation of the Real-Time Payment In the upcoming fiscal year 2023/24, we will focus on Platforms, the National Payment Gateway received a delivering excellent service, maintaining infrastructure, pilot authorization from the National Bank of deploying new platforms, and advancing initiatives such Ethiopia, and the pilot phase has commenced. The as the Real-Time Payment (RTP) project and Cross- Instant Payment System and Shared Wallet system Border Payments. We are also preparing for the next are on the final stage of UAT process. The Shared phase of our strategy. Reconciliation project, a multi-tenant platform that creates operational excellence in the day-to-day Lastly, I extend my most profound appreciation to the reconciliation process, has launched and moved to a Board, management, and the entire EthSwitch staff production environment for Ethswitch\u2019s use and one for their dedication, commitment, and hard work. I am member bank. grateful to our member banks, MFIs, PIIs, and PSOs for their ongoing support in modernizing Ethiopia\u2019s national Internationally, EthSwitch is live with MasterCard ATM payments. I would also like to convey special thanks to acquiring and progressing, and in testing phase of POS the National Bank of Ethiopia, the Bill and Melinda Gates acquiring with a member bank. The Discover project Foundation, and the Africa Development Bank for their analysis is completed, and development is expected to guidance and support. finish in December 2023. Upgrades to comply with PCI- PIN requirements for international card issuing are also Together, we have achieved remarkable milestones, underway. and I am confident that EthSwitch will continue to lead Ethiopia\u2019s digital payment sector. Thank you. H.E. Ato Solomon Desta Board Chairperson Annual Report 2022I2023 I EthSwitch III",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 195.5012999999999,
+"x1": 559.2777,
+"bottom": 808.3673,
+"page": 9
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 459,
+"content_hash": "ce0a9d1739a140a5f01a820f",
+"chunk_id": "7f247ddf-4c3",
+"metadata": {}
+},
+{
+"content": "EXECUTIVE MANAGEMENT Yilebes Addis Chief Executive Officer Yosef Melka Nebiyu Mengistu Assefa Yeshanew Chief Corporate Services Chief Operations Officer Chief Information Officer Officer Solomon Mohammed Beza Mamo Abeneazer Wondwossen Director, IT Infrastructure Director, Payment Applications Director, Program Management Department Department Office Yared Seyoum Yoseph Endale Director, Strategy & Change Director, Marketing Department Management Department Annual Report 2022I2023 I EthSwitch IV",
+"chunk_type": "paragraph",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 41.59749999999997,
+"x1": 547.765,
+"bottom": 808.3673,
+"page": 10
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 124,
+"content_hash": "83536aa9c4203aac0367d63b",
+"chunk_id": "1ad768e1-b7e",
+"metadata": {}
+},
+{
+"content": "CHIEF EXECUTIVE OFFICER\u2019S MESSAGE Esteemed Shareholders, I am delighted to report to you the achievements of EthSwitch during the fiscal year 2022/23. We have made significant progress in operational activities, technology, revenue generation, project execution, and international engagements, making it a truly remarkable year for EthSwitch. As the National Switch, EthSwitch plays a crucial role in simplifying payments, and I am pleased to highlight the key accomplishments of the past fiscal year: 1. Interoperable ATM Transactions: We conducted an impressive 71,433,041 successful interoperable ATM transactions, providing convenient and seamless payment options to our customers across Ethiopia. 2. Person-to-Person (P2P) Interoperable Service: Our P2P interoperable service achieved immense success, totaling 14,140,881 transactions. This service has empowered individuals to transfer funds easily and securely, contributing to financial inclusion. 3. Interoperable POS Purchases: We have achived 970,434 successful transactions for interoperable POS purchases, enabling individuals and businesses to efficiently complete their transactions. 4. Real-Time Payment (RTP) Project: We made significant progress in the Real-Time Payment project, including successfully deploying the shared reconciliation system for EthSwitch. This project has enhanced the speed and efficiency of payment processing, benefiting our customers and stakeholders. 5. Strategic Plan: successfully conducted mid-term review and revision of our strategic plan, and excellent progress has been made in implementing the third-year strategic plan. This strategic focus has guided our initiatives and paved the way for our success. Annual Report 2022I2023 I EthSwitch V",
+"chunk_type": "paragraph",
+"page_refs": [
+11
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 40.18020000000001,
+"x1": 559.2776999999999,
+"bottom": 808.3673,
+"page": 11
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 436,
+"content_hash": "de1fd040067da536e2e152e1",
+"chunk_id": "03cdc794-47c",
+"metadata": {}
+},
+{
+"content": "6. Strengthened Internal Control: We have strength- These achievements are a demonstration to the hard ened internal control measures by developing and work, dedication, commitment, and support of all implementing various policies, procedures, and our stakeholders. I would like to express my sincere guidelines. These measures ensure the integrity and gratitude to the National Bank of Ethiopia, the Board of security of our operations. Directors, Member Banks, MFIs, PIIs, PSOs, EthSwitch\u2019s 7. System Performance: Our continuous efforts to management and employees, development partners, improve and upgrade our system\u2019s performance participating merchants, and our valued customers for have yielded positive results, enhancing the reliability their unwavering support. and efficiency of our services. 8. PCI-DSS Recertification: We finalized the Looking ahead, we remain committed to our mission third-year PCI-DSS (Payment Card Industry of making payments simple, and affordable, as well we Data Security Standard) recertification, demonstrating will continue to strive for excellence in the coming years. our commitment to maintaining the highest standards Together, we can achieve even greater success and drive of data security and protecting our stakeholders\u2019 the digital payment landscape forward. interests. Thank you for your continued trust and investment Furthermore, I am delighted to report substantial in EthSwitch. Your support is invaluable, and we are improvements compared to the previous fiscal year: enthusiastic about the opportunities that lie ahead. \u2022 Interoperable transactions increased by an impressive 130%, reflecting the growing adoption of digital payments in Ethiopia. Thank you. \u2022 Our total assets increased by a remarkable 64%, showcasing our steady growth and financial strength. \u2022 Net profit before tax surged by an outstanding 172%, a testament to our successful revenue generation Yilebes Addis and sound financial management. Chief Executive Officer Annual Report 2022I2023 I EthSwitch VI",
+"chunk_type": "list",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 136.13189999999997,
+"x1": 559.2766,
+"bottom": 809.0758999999999,
+"page": 12
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 507,
+"content_hash": "06de5493bc3a8332a505990a",
+"chunk_id": "b24e67c9-fb8",
+"metadata": {}
+},
+{
+"content": "OUR CORPORATE PHILOSOPHY Strategic Aspirations To scale up digital payment transactions in Ethiopia by being the best-in-class switch that enables all value chain participants. Strategic Goals-Vision 2025 Create Interoperability Across All Channels and Players Annual Report 2022I2023 I EthSwitch VII 1 laoG 2 laoG 3 laoG 4 laoG 5 laoG EthSwitch is the National Switch Owned by all commercial banks, the National Bank of Ethiopia, MFIs (Microfinance Institutions), PIIs (Payment Instrument Issuers), and PSOs (Payment System Operators). EthSwitch is mandated to Create Interoperability between financial institutions, Implement a Domestic Payment Scheme, provide National Payment Gateway, serve as Central Interconnectivity for clearing & settlement, and provide Shared Platform /Infrastructure services. Mission Making Payments Simple and Affordable. Vision Develop Payment Scheme To be the Best-in-Class Payment Network in Africa by 2035. Provide Shared Platform and Infrastructure Services Core Values Build Internal Dynamic Capability Integrity Security Innovative Ensure Service Excellence: Secure, Reliable, Seamless Services Customer Focused Enabling Employee Focused",
+"chunk_type": "paragraph",
+"page_refs": [
+13
+],
+"bounding_box": {
+"x0": 35.9999,
+"top": 47.26679999999999,
+"x1": 559.27775,
+"bottom": 809.0758999999999,
+"page": 13
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 293,
+"content_hash": "a6d345d98aed2f4585f9ebe3",
+"chunk_id": "17733361-c84",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 BOARD OF DIRECTORS\u2019 REPORT Ethiopia\u2019s digital payment landscape is rapidly evolving, driven by improved telecom infrastructure, government support, competition, economic growth, and urbanization. This transformation brings tangible changes, including increased ATMs and POS terminals, development in mobile banking and Internet banking, and EthSwitch\u2019s role in facilitating interoperable payments. These changes have positive impacts, enhancing convenience, efficiency, security, and financial inclusion. The government\u2019s commitment to the National Digital Payments Strategy (NDPS) further promotes this development. However, challenges such as financial literacy, security, and regulatory frameworks must be addressed. EthSwitch\u2019s role as the national payment switch operator is crucial in advancing digital Figure 1.1: Growth of Industry-Wide ATM & POS Terminals Deployment, 2018/19-2022/23 1 aipoihtE fo knaB lanoitaN :ecruoS The Board of Directors of EthSwitch is honored to present the EthSwitch Annual Report and Audited Financial Statements for the Financial Year ended June 30, 2023, to the 10th Annual General Meeting of its Shareholders. During the reporting period, EthSwitch continued to deliver superior operational and financial performances and remarkable project implementation despite the challenging year due to domestic and global issues. 1. Digital Payments Landscape payments. The government and private sector must collaborate, prioritize security, and invest further to unlock the full potential of digital payments in Ethiopia. With continued support, Ethiopia can become a prominent player in Africa\u2019s digital payments market. According to data obtained from the National Bank of Ethiopia (NBE), in 2022/23, there was a total of 7,858 Automated Teller Machines (ATMs) deployed all over the country, while there were 12,016 Point of Sales (POS) terminals active and deployed on merchant premises.",
+"chunk_type": "paragraph",
+"page_refs": [
+14
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2799499999999,
+"bottom": 813.4039,
+"page": 14
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 480,
+"content_hash": "3ca3bf8e5cfc5c35beeead23",
+"chunk_id": "8d194460-137",
+"metadata": {
+"cross_references": [
+"1.1"
+]
+}
+},
+{
+"content": "The total number of ATM transactions has reached 356,384,957 in the banking sector, with the corresponding value of Birr 478,319,000,000. POS transactions have also reached 6,601,796, amounting to a corresponding purchase value of Birr 40,840,440,000. 12,016 11,760 9,983 9,208 8,936 7,858 6,902 6,343 4,896 5,059 Number of ATM Number of POS 2018I19 2019I20 2020I21 2021I22 2022I23",
+"chunk_type": "paragraph",
+"page_refs": [
+14
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2799499999999,
+"bottom": 813.4039,
+"page": 14
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 95,
+"content_hash": "bd17fc233177d73b6d3b1c23",
+"chunk_id": "2f6cd8e0-361",
+"metadata": {
+"cross_references": [
+"1.1"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 Figure 1.2: Growth of Industry-Wide ATM & POS Transaction Volume, 2018/19-2022/23 2 aipoihtE fo knaB lanoitaN :ecruoS 2018I19 2019I20 2020I21 2021I22 2022I23 958,970,59 419,353 213,925,99 457,952,2 489,306,522 000,259,2 921,860,171 552,933,2 759,483,653 697,106,6 Number of ATM Transaction Number of POS Transaction Figure 1.3: Growth of Industry-Wide ATM & POS Transaction Value, 2018/19-2022/23 According to NBE, there has been a significant wallets are the third channel that has shown development in the industry-wide usage of tremendous growth, with a transaction volume of mobile banking, internet banking, and mobile wallets 298,826,380 and a value of Birr 380,346,800,000. in recent years. Taking 2022/23 as an Compared to transaction volumes of the previous year, example, a total of 474,917,286 transactions have mobile banking, internet banking, and mobile money been concluded on mobile banking with a value (wallet) have shown an enormous increase, showing of Birr 3,442,576,990,000. On Internet banking, that the digital payment system is growing from year 5,804,292 transactions have also been recorded, to year. having a value of Birr 358,141,178,647. Mobile aipoihtE fo knaB lanoitaN :ecruoS Value of ATM Transaction, in Birr Value of POS Transaction, in Birr 2018I19 2019I20 2020I21 2021I22 2022I23 213,374,712,48 677,654,923 202,712,124,78 303,761,843,5 352,167,880,632 000,000,734,7 000,000,245,791 000,903,812,6 000,000,913,874 000,044,048,04",
+"chunk_type": "paragraph",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2788,
+"bottom": 813.4496,
+"page": 15
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 372,
+"content_hash": "f364dc58da4659676ff1e35a",
+"chunk_id": "5ddff80f-f75",
+"metadata": {
+"cross_references": [
+"1.2",
+"1.3"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 Figure 1.4: Growth of Industry-Wide Mobile Banking, Internet Banking & Wallet Usage in transaction volume, 2018/19-2022/23 Figure 1.5: Growth of Internet Banking, Mobile Banking & Wallet Usage in Transaction Value in Birr, 2018/19-2022/23 3 aipoihtE fo knaB lanoitaN :ecruoS aipoihtE fo knaB lanoitaN :ecruoS Mobile Banking Internet Banking Mobile Wallet 2018I19 2019I20 2020I21 2021I22 2022I23 434,625,4 496,745 750,995,3 562,326,11 482,525 215,142,4 000,165,93 000,114,2 000,742,7 698,210,88 830,490,1 268,205,84 682,719,474 292,408,5 083,628,892 Mobile Banking Internet Banking Mobile Wallet 2018I19 2019I20 2020I21 2021I22 2022I23 429,292,618,61 563,868,551,5 0 593,749,383,86 163,333,645,22 989,043,269,2 000,000,281,623 000,000,195,62 989,043,269,2 000,033,275,361,1 000,071,565,921 000,016,953,42 000,099,675,244,3 746,871,141,853 000,008,643,083",
+"chunk_type": "paragraph",
+"page_refs": [
+16
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2790499999992,
+"bottom": 813.4039,
+"page": 16
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 219,
+"content_hash": "3ee4fa52c7b7ad6e69e61879",
+"chunk_id": "92a62e69-9b1",
+"metadata": {
+"cross_references": [
+"1.4",
+"1.5"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 2. Operational Performance To attain maximum performance on operation, Key Account Managers have built and reinforced the EthSwitch will continuously work on increasing relationship between EthSwitch and member banks by transaction volumes, improving the success rate of diligently tracking and following up on each member transactions, and minimizing transaction failures due to bank\u2019s issues/requests, providing timely and suitable any technical circumstances. solutions. To achieve service excellence in all products and This has been instrumental in bolstering the overall services, EthSwitch has built a customer-centric operational performance of EthSwitch in the fiscal year, communication center which is playing a crucial role as can be observed from the performance of the main in creating the direct link between EthSwitch and its lines of operation. customers (Banks, MFIs) and third-party players like Digital Financial Services Providers (DFSPs) by assigning \u201cKey Account managers.\u201d 2.1. Interoperable Transactions During the fiscal year 2022/23, EthSwitch has processed Compared with the 2021/22 previews year a total of 185,322,065 interoperable transactions. performance, the total number of transactions processed increased by 130%. 2020/21 2021/22 2022/23 Total Interoperable Transaction Figure 2.1: Seasonal Comparison of Successfully Processed Transactions 4 082,203,83 263,106,08 560,223,581 Cash Withdrawal 430,661,42 311,498,93 140,334,17 Balance Inquiry 607,003,3 479,622,4 035,924,5 POS Purchase 605,901 713,163 434,079 P2P 188,92 435,360,2 18a8,041,41",
+"chunk_type": "paragraph",
+"page_refs": [
+17
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2798499999999,
+"bottom": 813.4496,
+"page": 17
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 401,
+"content_hash": "d6124665dd7f2f8b09e0bd97",
+"chunk_id": "5abb863b-a04",
+"metadata": {
+"cross_references": [
+"2.1"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 2.1.1. Interoperable ATM Transactions Out of the total interoperable transactions, 71,433,041 EthSwitch is actively working to improve the transactions have been successful cash withdrawal success rate of member banks by appointing transactions, achieving 115% of its annual target, with dedicated account managers to monitor their a value of Birr 89,762,128,279. The volume of ATM transaction performance and provide daily reports interoperable transactions has increased by 79% from on declines. EthSwitch is also expanding its the previous year. The average transaction success interoperability network by integrating new participants rate for ATMs over the year stands at 93%, achieving and completing testing activities with Tsedey, Goh 99% of the annual target of 93.5%. This represents a Betoch, Sidama, Gada, Shabelle Banks, Rays MFI, significant improvement compared to the same period and \u201cOne\u201d MFI as an issuer and acquirer. EthSwitch\u2019s in the previous year, where the success rate was 89%. focus on expanding its network and providing innovative payment solutions demonstrates its commitment to its customers. 2.1.2. Interoperable POS Transactions 2.1.3. Interoperable P2P Transactions During the fiscal year, EthSwitch recorded 970,434 EthSwitch offers a versatile P2P fund transfer interoperable POS transactions, surpassing its service, supporting various transfer use cases. With 30 annual target by 138%. These transactions were participants, including banks and microfinance valued at Birr 2,642,979,031, showing a significant institutions, the service has processed 14,140,881 increase of 169% from the previous year. transactions, achieving 98% of its annual target. The volume of transactions has increased by 584% The average transaction success rate for POS was compared to the previous year. 89%, exceeding the annual target of 85% and an improvement from the previous year\u2019s rate of 84%.",
+"chunk_type": "paragraph",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.27995,
+"bottom": 813.4039,
+"page": 18
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 475,
+"content_hash": "13986857417e05de42a77a57",
+"chunk_id": "65fd7c24-74b",
+"metadata": {}
+},
+{
+"content": "EthSwitch\u2019s commitment to expanding payment EthSwitch completed POS phase I and phase II services and integrating new players highlights its interoperability tests, onboarded new banks and POS dedication to innovative solutions. Integration with operators, and is currently working on expanding the Kacha and integrations with Flocash and POS interoperability environment. These efforts aim to Ethiopia Movable Collateral Registry (EMCR) further enhance the customer experience and drive the growth expand its services. EthSwitch\u2019s focus on growth of the national payment ecosystem. drives the national payment ecosystem. 2.2. Card and PIN (Personal Identification Number) Personalization EthSwitch achieved a remarkable milestone by introduce dual interface card printing. EthSwitch\u2019s delivering 380,795 personalized cards to nine member service expansion now includes twelve hosted banks, banks, meeting its annual target and showing a 26% demonstrating its commitment to establishing a increase from last year\u2019s performance. reliable and efficient payment infrastructure. EthSwitch\u2019s dedication to high-quality personalized cards and EthSwitch is committed to continuous improve- ongoing improvement establishes its position as a ment and plans to expand services by developing leading payment solutions provider in the region. contactless and prepaid cards. Efforts are underway to double card personalization machine capacity and 5",
+"chunk_type": "paragraph",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.27995,
+"bottom": 813.4039,
+"page": 18
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 359,
+"content_hash": "6fa098353d23a490314c3fc4",
+"chunk_id": "0a9aa21a-dcd",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 2019I20 2020I21 2021I22 2022I23 Figure 2.4: Yearly Card and PIN Printing & Personalization Performance 2.3. Dispute Management Throughout the year, EthSwitch processed 340,718 handling, ensuring a seamless dispute resolution process. dispute transactions through the system, of 2.4. Clearing and Settlement which 338,356 disputes were resolved within the eight-day dispute resolution time frame without EthSwitch successfully cleared and settled the need for re-presentment. The remaining 2,362 Interoperable ATM and P2P transactions on a T+1 disputed transactions were resolved during the (Transaction will be settled in the next business day) second stage of the dispute resolution process, the basis. POS transaction settlement was coordinated re-presentment stage, and were resolved within the with member banks, ensuring timely file submissions. thirteen-day timeframe. The disputed transactions EthSwitch implemented a procedure for interoperable accounted for 0.47% of the total number of POS clearing file exchange, and managing transaction transactions, indicating a high level of reliability and values and fees appropriately. Daily settlements efficiency in EthSwitch\u2019s payment infrastructure. adhered to NBE and EthSwitch system rules, with automated processing on the RTGS (Real-Time Gross EthSwitch\u2019s new Dispute Management System, which Settlement) system. has been successfully deployed and implemented, has played a significant role in streamlining the dispute Clearing and settlement reports were regularly resolution process. The system has automatic provided to ensure smooth reconciliation. EthSwitch chargeback rules that enable the smooth handling of addressed outstanding issues promptly, minimizing disputes, minimize the resolution process, and unsettled transactions despite the increased volume. increase service excellence and efficiency.",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2809,
+"bottom": 813.4496,
+"page": 19
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 464,
+"content_hash": "f83ef16314b842491c8b611a",
+"chunk_id": "e99146c9-355",
+"metadata": {
+"cross_references": [
+"2.4"
+]
+}
+},
+{
+"content": "EthSwitch Additionally, EthSwitch remained responsive continues to hold regular monthly meetings to member banks\u2019 clearing, settlement, and with all member banks\u2019 clearing and settlement reconciliation incidents, emphasizing its dedication to representatives to review the monthly dispute setting up reliable and efficient payment infrastructure. management progress and plan towards reconciliation incidents, emphasizing its dedication to minimizing technical challenges related to dispute setting up reliable and efficient payment infrastructure. 6 680,652 393,282 092,103 597,083",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2809,
+"bottom": 813.4496,
+"page": 19
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 145,
+"content_hash": "8b4e57ae133570ed6c12ffb2",
+"chunk_id": "e9969a49-672",
+"metadata": {
+"cross_references": [
+"2.4"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 2.5. Development and \u2022 IT diagnostic assessment, IT strategic plan Establishment of a Domestic development, and completion of yearly PCI-DSS compliance recertification. Payment Scheme \u2022 In-house security operation center (SOC) implementation, deployment of anti-malware EthSwitch has made significant progress in solutions, and improvements in IT infrastructure. standardizing its contact payment card scheme, \u2022 Availability of EthSwitch payment infrastructure EthioPay. During the year ended a draft standard and hosting services, including online messaging, document was prepared and presented to the dispute management, clearing & settlement, and Ethiopian Standard Authority (ESA) workforce team. card personalization. The final draft zero document has been submitted \u2022 Improved incident response capability and 24/7 to the ESA technical committee for approval. The technical and operational support for member contact scheme is also being reviewed by the banks. Ethiopian National Standard Council. \u2022 Milestones achieved in international card acquiring and issuing activities, including Mastercard ATM Additionally, EthSwitch has initiated the EthioPay acquisition and system integration. contactless payment card scheme and QR code \u2022 Certification for fulfilling Visa RoC requirements scheme, with terms of reference (ToR) documents and development of specifications for the Discover prepared for their standardization process. project. \u2022 Overall, EthSwitch remains dedicated to providing This focus on standardization highlights EthSwitch\u2019s secure and reliable payment solutions, ensuring commitment to providing reliable and efficient customer satisfaction. payment infrastructure. The standardized schemes will enhance the customer experience and contribute 2.7. Project Implementation to the growth of the National payment Status ecosystem.",
+"chunk_type": "paragraph",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2799500000001,
+"bottom": 813.4039,
+"page": 20
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 459,
+"content_hash": "f66bea7b96f9dcb118f4e39c",
+"chunk_id": "5ddae777-add",
+"metadata": {}
+},
+{
+"content": "EthSwitch remains dedicated to delivering innovative payment solutions and will EthSwitch is actively implementing real-time continue to work on standardizing and introducing new interoperable payment systems projects, including payment schemes. instant payment systems, national payment 2.6. Provide secure, reliable, gateway, shared wallets, and digital channels. During the year ended, progress has been made in system and seamless services integration and simulation tests for instant payment systems. The national payment gateway has achieved EthSwitch\u2019s Service Excellence/platform enhancement major technology readiness milestones, received pilot achievements include: authorization from the National Bank of Ethiopia, \u2022 Implementation of a comprehensive security and conducted successful pre-production framework complying with PCI-DSS (Payment transactions, marking the first historic online Card Industry Data Security Standard) standards, payment using the payment gateway. The shared ensuring data protection and continuous security wallet system has also reached significant updates. milestones and is undergoing a version upgrade \u2022 Integration of CBS card files for multiple banks, for pilot completion. Furthermore, the shared instant card issuing, and implementation of reconciliation system was successfully reloadable and disposable prepaid cards. deployed for EthSwitch\u2019s use, and projects \u2022 Development of various systems and platforms for with Awash Bank and Cooperative Bank of enhanced operational efficiency and user-friendly Oromia have been implemented on the shared experience. reconciliation platform. \u2022 Upgrading the DC and DR infrastructure, acquiring Microsoft Windows Server 2022 licenses, and de- ploying a monitoring system. 7",
+"chunk_type": "paragraph",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2799500000001,
+"bottom": 813.4039,
+"page": 20
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 440,
+"content_hash": "109583fed3638add2fbeeed8",
+"chunk_id": "4b62997a-684",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 3. Financial Performance 3.1. Assets During the period under consideration, EthSwitch\u2019s assets constituted Birr 176,815,304 or 10%, while total assets rose to Birr 1,785,869,074 from the current assets accounted for 90% or Birr previous year of Birr 1,088,752,804, registering a 1,609,053,770. The asset increases were financed growth of 64%. Out of the total assets, non-current mainly by share sales and revenue generated during the period. 2018I19 2019I20 2020I21 2021I22 2022I23 Figure 3.1: Comparison of Total Assets in Birr, 2018/19 \u2013 2022/23 3.2. Capital 3.3. Revenues and Expenses EthSwitch was established in 2011 with a During the fiscal year under review, EthSwitch paid-up capital of Birr 80,496,000.00. At the second generated revenue from the operational performance extraordinary general shareholders meeting held on of Birr 606,536,792, indicating a growth of Birr the 20th of September 2014, a decision was made to 341,117,715 (129%), compared to the same period increase the company\u2019s capital to Birr 300,000,000.00 of last year. An additional income of Birr 162,336,016 to enable EthSwitch to invest in infrastructure and other has been generated from other sources, which is capabilities. Furthermore, on the fourth extraordinary an increase of 151%, compared with the same general shareholders meeting on December 25, 2019, performance of the previous year. The financial the Shareholders of EthSwitch endorsed the paid-up performance of EthSwitch has shown a robust capital of the company, which was Birr 217,530,000 as of improvement, achieving a total of Birr 768,872,808 in September 2019 and decided to increase the capital with overall revenue, and compared to the previous fiscal additional 600,000,000 Birr by issuing 600,000 new year, a year-on-year increase of Birr 438,890,005 or shares with a par value of Birr 1,000. The subscribed 133% in overall revenues. capital, as per the decision of the fourth extraordinary general meeting, is fully paid up.",
+"chunk_type": "paragraph",
+"page_refs": [
+21
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2798499999999,
+"bottom": 813.4496,
+"page": 21
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 494,
+"content_hash": "71d5567afe91112d5aa2fb70",
+"chunk_id": "fe4038e4-ecb",
+"metadata": {
+"cross_references": [
+"3.1"
+]
+}
+},
+{
+"content": "Following this, during the The overall operational and administrative expense of sixth extraordinary meeting, held on March 16, 2023, the the company is registered to be 234,338,481, and a shareholders decided to increase the capital by additional 76% increase from the previous fiscal year\u2019s of Birr Birr 2.2 Billion through the issuance of 2,200,000 new 133,144,849. shares with a par value of Birr 1,000 each. EthSwitch\u2019s paid-up capital, which was Birr 616,826,000 as of June 30, 2022, has increased to Birr 941,552,000 at the end of the reporting fiscal year. 8 102,283,122 344,739,272 334,723,106 408,257,880,1 470,968,587,1",
+"chunk_type": "paragraph",
+"page_refs": [
+21
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2798499999999,
+"bottom": 813.4496,
+"page": 21
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 157,
+"content_hash": "b3bd749b15e7c7aa228ccc99",
+"chunk_id": "0c582311-c7a",
+"metadata": {
+"cross_references": [
+"3.1"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 During the period ended, EthSwitch has registered a The profit performance of EthSwitch has shown a recorded high profit before tax of Birr 534,534,327. remarkable growth rate of 172% increase as compared with the previous fiscal year. 9 770,914,562 297,635,606 466,193,66 274,216,98 238,078,55 003,769,411 527,365,46 610,633,261 353,288,01 907,857,92 359,738,691 723,435,435 2021/22 2022/23 Operating Operating Personnel Other Income General Admin Profit Revenue Expense Expense Expenses Figure 3.2: Key Financial Performance Figures in Birr In terms of revenue streams, EthSwitch\u2019s primary The second biggest operational revenue was income during the period under review came from generated from the P2P service fee, amount to of Birr ATM interoperable transaction fees. A total of Birr 110,946,351, an increase of 727% from the previous 474,437,598 in revenue was generated from ATM fiscal year. The third and the fourth revenues were interoperable transactions, a 99% increase from the generated from variables fee and POS previous fiscal year. purchase fees, amounting Birr 11,452,871 and 5,120,647, respectively. POS purchase fee has registered a very high increase from the previous year, which is a 196% increase. Table 3.1: Composition of Revenues from Operation, in Birr Percentage Share REVENUE STREAMS 2021/22 2022/23 Growth 2021/22 2022/23 ATM Interoperable Transaction Fee 238,569,572 474,437,598 99% 90% 78% Card Issuance Fee 2,844,400 3,807,950 34% 1% 1% PIN Issuance Fee 556,064 771,376 39% 0.2% 0.1% POS Purchase fee 1,732,325 5,120,647 196% 1% 1% Variables fee 8,302,467 11,452,871 38% 3% 2% P2P 13,414,250 110,946,351 727% 5% 18% Total 265,419,077 606,536,792 129% 100% 100%",
+"chunk_type": "paragraph",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2789,
+"bottom": 813.4039,
+"page": 22
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 430,
+"content_hash": "e0eb81a470d7600d6d471ab0",
+"chunk_id": "eab00611-394",
+"metadata": {
+"cross_references": [
+"3.2",
+"3.1"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 Interoperable ATM Transaction fees constitute about relatively low, accounting for just 1% of the total. This 78% of the total operational income of the budget year, year\u2019s contribution of Interoperable ATM Transaction making it the most important stream. P2P service has fees for the total operational income has decreased in registered highly encouraging income over the year, comparison to the previous year, dropping from 90%. with an 18% contribution to the overall revenue. POS In contrast, the contribution of P2P service fees has purchase fees have also seen a substantial increase increased from the previous year of 5%. This is an from the previous year, surging by 196%. Although expected trend that will continue in the future due to this increase is significant, the contribution of POS rapidly expanding mobile banking (P2P), mobile money purchase fees to the overall revenue remains (wallet), and Internet banking services. 78% ATM Interoperable Transaction Fee 18% P2P 2% Variables fee 1% POS Purchase fee 0.1% PIN Issuance Fee Card Issuance Fee 1% Figure 3.3: Percentage Composition of Revenue Streams in FY 2022/23 10",
+"chunk_type": "paragraph",
+"page_refs": [
+23
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2788,
+"bottom": 813.4496,
+"page": 23
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 290,
+"content_hash": "7a988aacd2c1319ecb99404a",
+"chunk_id": "7c5beebe-53d",
+"metadata": {
+"cross_references": [
+"3.3"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 4. Strategy and Other Development 4.1. Strategy Development and Revision In FY 2020/21, EthSwitch S.C. began implementing its fiscal year. Accordingly, EthSwitch has established five first five-year strategic plan. Subsequent strategic plan strategic goals to effectively address the gaps that re- review and revision were conducted in the 2022/23 quire attention during the strategic period spanning from 2020/21 to 2024/25. Create Interoperability across All Channels and Players: EthSwitch will provide interoperability across all digital retail channels and technologies within the strategic period. Through the achievements of these goals, EthSwitch the Best-in-Class Payment Network in Africa by has reset its mission and vision, which are: 2035,\u201d respectively. \u201cMaking Payments Simple & Affordable\u201d and \u201cTo Be 11 1 laoG Ensure Service Excellence: Secure, Reliable, and Seamless Services: EthSwitch will provide a high-quality, reliable, and seamless service with low failure rates across all digital transaction channels. This will require EthSwitch to implement a clear set of SLAs for each service and commit to continuous innovation and development. As a measurable output, EthSwitch can measure its SLA attainment levels and compare them to leading regional switches. 5 laoG Develop a Payment Scheme: EthSwitch will develop the domestic card scheme, EthioPay, with its own scheme rules to be used for domestic payments across all channels. 2 laoG Provide Shared Platform and Infrastructure Services: EthSwitch will provide shared platform and infrastructure services to the financial institutions in the country. Through a collective investment by EthSwitch, these financial institutions will receive these services in a cost-effective and technically efficient way. 3 laoG Build Internal Dynamic Capability: EthSwitch will build its institutional capacity in terms of human resources, technologies, processes, and knowledge to be able to provide a unified e-payment platform for all financial institutions in Ethiopia while managing risks.",
+"chunk_type": "paragraph",
+"page_refs": [
+24
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.27785,
+"bottom": 813.4039,
+"page": 24
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 509,
+"content_hash": "da53f5c32d888183f5bb8dd0",
+"chunk_id": "3e27afb7-760",
+"metadata": {}
+},
+{
+"content": "As a measurable outcome/result, the institutionalization of enterprise risk management framework, deployment of relevant state-of-the-art technologies and systems, deployment of high-caliber personnel, as well as the establishment of conducive working facilities are some of them. 4 laoG",
+"chunk_type": "paragraph",
+"page_refs": [
+24
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.27785,
+"bottom": 813.4039,
+"page": 24
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 71,
+"content_hash": "23f6ae697184cdda42704766",
+"chunk_id": "1d9cfa0d-2b0",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 4.2. Status of Strategy Implementation EthSwitch\u2019s five year strategy, which has been excellence on current goods and services, revised in 2022/23, is being implemented in three maintaining/replacing existing infrastructure, and phases (Housekeeping, Expansion, and Blue Sky) deploying new platforms. Rollout of the RTP effective from the financial year 2020/21. The fiscal project, which is essential to achieving the strategic year 2022/23 is the third year in the execution of the aim of \u201cCreating interoperability across All Channels company\u2019s five-year strategy. This phase referred to and Players,\u201d was given due consideration. RTP is a as the \u201cexpansion phase\u201d, will extend from the second multi-year project that enables complete channel year of strategy implementation. It will also serve as a interoperability and allows end users to make any preparation year for the subsequent \u201cBlue-Sky phase,\u201d payment digitally in a simple, fast, low-cost, which will commence following the conclusion of the irrevocable, secure, and interoperable manner; it \u201cexpansion phase.\u201d Emphasis for fiscal year 2022/2023 is, therefore, crucial to the modernization of national was on completing the tasks carried over from the payments in general and EthSwitch S.C. in particular. first \u201cexpansion phase,\u201d including delivering service Products 5 Year Time Blue Sky Other low All Priority clients 4 Year Regional to regional Expansion Online & Value Domestic payments with added services internationally issued card Local processor for international 1 Year card schemes Housekeeping ATM, Mobile PoS MVPs Domestic to domestic Clients Banks, MFI, Mobile Payment Other FSPs, eCommerce Regional Players Providers, Aggregators & PSS and third Parties Figure 4.1: Strategy Prioritization The Five-Year Strategy of EthSwitch S.C. set priorities \u2022 In 2022/23, the emphasis was on building on into three phases: past experiences, pursuing ongoing projects, 1. House-Keeping, finalizing initiatives under the expansion phase, 2.",
+"chunk_type": "paragraph",
+"page_refs": [
+25
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2788,
+"bottom": 813.4496,
+"page": 25
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 501,
+"content_hash": "eb7646e8a99b1453d1787c23",
+"chunk_id": "64e67f6b-e43",
+"metadata": {
+"cross_references": [
+"4.1"
+]
+}
+},
+{
+"content": "Expansion, and; reviewing the strategy, and starting the groundwork 3. Blue-Sky. for Regional-to-Regional collaboration. The five-year strategy implementation is currently being \u2022 In 2023/24, the emphasis will be on continuing implemented (effective FY 2020/21). the tasks transferred from the previous years, including delivering service excellence on current \u2022 The focus in FY 2020/21 was on Phase 1, goods and services, maintaining/replacing existing House-Keeping. Most Key initiatives of this phase infrastructure, and deploying new platforms. are completed. Rollout of the RTP project: Pursuing efforts to \u2022 The focus in 2021/22 was building on develop a national payment scheme, initiatives experiences of the previous year, completing in International card acquiring and International/ already started projects, entering to expansion regional engagement activities are also other phase, and further expanding ETS products and focus areas in the fiscal year. services. 12",
+"chunk_type": "paragraph",
+"page_refs": [
+25
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2788,
+"bottom": 813.4496,
+"page": 25
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 244,
+"content_hash": "3c94cc4ca95b1b710ecfbf8d",
+"chunk_id": "d8511ff0-7e3",
+"metadata": {
+"cross_references": [
+"4.1"
+]
+}
+},
+{
+"content": "Annual Report 2022 I 2023 4.3. Other Development 4.3.1. Human Resource 4.3.3. Social Responsibilities (CSR) EthSwitch had a total of 123 employees by the end In parallel to developing a secure, reliable, seamless of June 2023, and 57 new employees joined during digital financial services ecosystem, EthSwitch has the reporting period. The company\u2019s success during engaged in corporate social responsibility initiatives. the period was mainly attributed to the hard work and During the reporting period, EthSwitch has donated commitment of its staff, who continue to focus and more than Birr 7.5 million as corporate social respon- engage in executing EthSwitch\u2019s revised strategy. As a sibility. national switch, EthSwitch continues to play a vital role in developing skilled workforce in the digital payment ecosystem and provides various local and international training and developments for its leadership team and other staff. 4.3.2. Own Buildings EthSwitch strives to own its Headquarters at the heart of the financial district in Addis Ababa. In line with this, various discussions have been held with the Addis Ababa City Administration to acquire land. Accordingly, during the reporting period, EthSwitch has prepared a proposal and designed its HQ building. 13",
+"chunk_type": "paragraph",
+"page_refs": [
+26
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2788999999998,
+"bottom": 813.4039,
+"page": 26
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 317,
+"content_hash": "b8a2c83ef7d23bd44a47e687",
+"chunk_id": "b561167e-5bf",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 PHOTO GALLERY The 9th Ordinary Meeting of Shareholders The 5th Extraordinary Meeting of Shareholders The 6th Extraordinary Shareholders Meeting 14",
+"chunk_type": "paragraph",
+"page_refs": [
+27
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 27
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 43,
+"content_hash": "45369ad5afb397ce3b45179b",
+"chunk_id": "40436449-217",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 First Half of the year All Staff meeting 2022/23 15",
+"chunk_type": "paragraph",
+"page_refs": [
+28
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2597000000001,
+"bottom": 813.4039,
+"page": 28
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 19,
+"content_hash": "de933e79c1c2d51140e3d6f7",
+"chunk_id": "adfce571-46f",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Annual Meeting 2022/23 \u201cBreakthrough to excellence & let\u2019s go beyond the limits\u201d 16",
+"chunk_type": "paragraph",
+"page_refs": [
+29
+],
+"bounding_box": {
+"x0": 36.5,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 29
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 27,
+"content_hash": "966a3577aa32956cb36186a4",
+"chunk_id": "fa70cb53-f7c",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Partnerships EthSwitch Partners with Mastercard to Drive Payment Sector\u2019s Digital Transformation EthSwitch-Arifpay 17",
+"chunk_type": "paragraph",
+"page_refs": [
+30
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2896999999999,
+"bottom": 813.4039,
+"page": 30
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 35,
+"content_hash": "ef8cace913536be08de272f7",
+"chunk_id": "00102c25-79b",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Exposure Visit to BankServ Africa 18",
+"chunk_type": "paragraph",
+"page_refs": [
+31
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 31
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 15,
+"content_hash": "a1c833ff2ca928f065207e94",
+"chunk_id": "185e8d9b-402",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Workshops Workshop on a real-time e-payment platform EthSwitch Onboarding Workshop 19",
+"chunk_type": "paragraph",
+"page_refs": [
+32
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.4397,
+"bottom": 813.4039,
+"page": 32
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 27,
+"content_hash": "3da75a95d27c4000f67e27bb",
+"chunk_id": "71b28785-db9",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Shared SOC for Financial Institutions Mid-term strategy review 20",
+"chunk_type": "paragraph",
+"page_refs": [
+33
+],
+"bounding_box": {
+"x0": 53.4833,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 33
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 22,
+"content_hash": "473ca0c4bb3af842aaf9925f",
+"chunk_id": "0b059732-b98",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 EthSwitch-Mastercard Partnership Workshop for Multiple Initiatives ADFI Visit to EthSwitch 21",
+"chunk_type": "paragraph",
+"page_refs": [
+34
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2747,
+"bottom": 813.4039,
+"page": 34
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 29,
+"content_hash": "811fd62027c0c536dbf0319f",
+"chunk_id": "5674ab48-df0",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Sponsorships The 6th Annual East African Finance Summit 22",
+"chunk_type": "paragraph",
+"page_refs": [
+35
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 35
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 21,
+"content_hash": "feeaeb44c1b05bbbac141444",
+"chunk_id": "ccb12f9e-4fe",
+"metadata": {}
+},
+{
+"content": "CENTRAL BANK MEMBER / PARTICIPANT INTERNATIONAL PARTNERS DEVELOPMENTAL PARTNERS",
+"chunk_type": "paragraph",
+"page_refs": [
+36
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 43.751499999999965,
+"x1": 337.9698,
+"bottom": 760.3625999999999,
+"page": 36
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 19,
+"content_hash": "57db9e64ee9df551e011cb48",
+"chunk_id": "a46eab93-b05",
+"metadata": {}
+},
+{
+"content": "AUDITORS\u2019 REPORT 2 0 2 2 2 3 REPORTS AND FINANCIAL FOR THE FINANCIAL YEAR STATEMENTS ENDED 30 JUNE 2023",
+"chunk_type": "paragraph",
+"page_refs": [
+37
+],
+"bounding_box": {
+"x0": 644.3309,
+"top": 160.8635791999999,
+"x1": 1145.4394592,
+"bottom": 789.0416784,
+"page": 37
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 25,
+"content_hash": "a0c06a9bee3bf6305ed1d349",
+"chunk_id": "3fe43d7a-46f",
+"metadata": {}
+},
+{
+"content": "AUDITORS\u2019 REPORT 2 0 2 2 2 3 REPORTS AND FINANCIAL FOR THE FINANCIAL YEAR STATEMENTS ENDED 30 JUNE 2023",
+"chunk_type": "paragraph",
+"page_refs": [
+38
+],
+"bounding_box": {
+"x0": 49.0553,
+"top": 160.8635791999999,
+"x1": 550.1638592,
+"bottom": 789.0416784,
+"page": 38
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 25,
+"content_hash": "2b0aef7f83b88117cb9ff91c",
+"chunk_id": "36c078e5-179",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Tafesse, Shisema and Ayalew Certified Audit Partnership Chartered Certified Accountants (UK) and authorized Auditors (Ethiopia) Member Firm of HlB International THE GLOBAL ADVISORY AND ACCOUNTING NETWORK Tel.251-011-8961752/0116180638 Mob.0911229425 / 0930034356 / 0930034357 Fax: 251-011 662 12 70/60 E-mail: tafessef@gmail.com / tafessef@hotmail.com P.O.Box 110690 Addis Ababa-Ethiopia INDEPENDENT AUDITOR\u2019S REPORT ON THE ACCOUNTS OF ETHSWITCH SHARE COMPANY Opinion We have audited the financial statements of Eth Switch Share Company, which comprise the statement of financial position as at 30 June 2023, the Statement of profit or loss and other comprehensive income, the statement of changes in equity and statement of cash flow for the year then ended, and notes to the financial statements, including a summary of significant accounting policies and other explanatory information. In our opinion, the accompanying financial statements present fairly, in all material respects the financial position of Eth Switch Share Company as at 30 June 2023, and the results of its operations and its cash flows for the year then ended in accordance with International Financial Reporting Standards (IFRSs) issued by the International Accounting Standard Board. Basis for Opinion We conducted our audit in accordance with International Standards on Auditing (ISAs). Our responsibilities under those standards are further described in the Auditor\u2019s Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the company in accordance with the International Ethics Standards Board for Accountants Code of Ethics for Professional Accountants (IESBA Code) together with the ethical requirements that are relevant to our audit of the financial statements in Ethiopia, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.",
+"chunk_type": "paragraph",
+"page_refs": [
+39
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2863999999995,
+"bottom": 813.4496,
+"page": 39
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 507,
+"content_hash": "d8a6bd6c48da98eca028fc2a",
+"chunk_id": "4ae0f5ca-cb7",
+"metadata": {}
+},
+{
+"content": "Responsibilities of Directors for the Financial Statements The Directors of the company are responsible for the preparation and fair presentation of the financial statements in accordance with International Financial Reporting Standards, and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error. In preparing the financial statements, Directors are responsible for assessing the Company\u2019s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Directors either intends to liquidate the company or to cease operations, or have no realistic alternative but to do so. The Directors are responsible for overseeing the Company\u2019s financial reporting process. 26",
+"chunk_type": "paragraph",
+"page_refs": [
+39
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2863999999995,
+"bottom": 813.4496,
+"page": 39
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 223,
+"content_hash": "84ef6aae6c8b596123146f11",
+"chunk_id": "e8a3bc28-701",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Auditor\u2019s Responsibilities for the Audit of the Financial Statements Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor\u2019s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements. Report on Other Legal and Regulatory Requirements We have no comment to make on the report of your director\u2019s report so far as it relates to these financial statements and pursuant to article 349 (1&2) of the commercial code of Ethiopia of 2021 ( Proclamation No. 1243/2021, we recommend approval of the mentioned financial statements. In addition, we have no objection on the amount of dividend proposed by the directors and hence in accordance with article 349 (3) of the commercial code of Ethiopia of 2021 recommended approval of the proposed dividend distribution. Tafesse, Shisema and Ayalew (TMS Plus) Certified Audit Partnership Chartered Certified Accountants (UK) Addis Ababa Authorized Auditors (ETH) 07 September 2023 27",
+"chunk_type": "paragraph",
+"page_refs": [
+40
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 559.2832499999993,
+"bottom": 813.4039,
+"page": 40
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 368,
+"content_hash": "0f83683d2dfb8e80c28e3f4a",
+"chunk_id": "28eba12c-ebe",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 28",
+"chunk_type": "paragraph",
+"page_refs": [
+41
+],
+"bounding_box": {
+"x0": 55.5093,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 41
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "4aa61c01b7ad3f05898317f0",
+"chunk_id": "59736d97-5c2",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 29",
+"chunk_type": "paragraph",
+"page_refs": [
+42
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.8747,
+"bottom": 813.4039,
+"page": 42
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "608b21e1c38c9ebe663549ce",
+"chunk_id": "14bf2d7f-4b1",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 30",
+"chunk_type": "paragraph",
+"page_refs": [
+43
+],
+"bounding_box": {
+"x0": 55.4693,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 43
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "a1a93c335d71a807b120ee65",
+"chunk_id": "788dc5e6-be9",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 31",
+"chunk_type": "paragraph",
+"page_refs": [
+44
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2497000000001,
+"bottom": 813.4039,
+"page": 44
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "6e892ddd9297d61eec64aa7e",
+"chunk_id": "8888d485-fe0",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 32",
+"chunk_type": "paragraph",
+"page_refs": [
+45
+],
+"bounding_box": {
+"x0": 55.7642,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 45
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "8eb0c4fc7629fdd630c13e3b",
+"chunk_id": "25cbbc0a-c5c",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 33",
+"chunk_type": "paragraph",
+"page_refs": [
+46
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6596,
+"bottom": 813.4039,
+"page": 46
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "c3394066b31382f2163d4e87",
+"chunk_id": "bf2d65f8-87e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 34",
+"chunk_type": "paragraph",
+"page_refs": [
+47
+],
+"bounding_box": {
+"x0": 55.7593,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 47
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "ddcc7a0fa857cf4db8f3f26d",
+"chunk_id": "fd042802-a5e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 35",
+"chunk_type": "paragraph",
+"page_refs": [
+48
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6696999999999,
+"bottom": 813.4039,
+"page": 48
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "c0636a5ed064e34929798b8e",
+"chunk_id": "ba53ea8e-a27",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 36",
+"chunk_type": "paragraph",
+"page_refs": [
+49
+],
+"bounding_box": {
+"x0": 55.5143,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 49
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "2c2978d92138c79e0313de82",
+"chunk_id": "3e168ddc-742",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 37",
+"chunk_type": "paragraph",
+"page_refs": [
+50
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6997,
+"bottom": 813.4039,
+"page": 50
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "c6bc0e7473465e81b7747d2b",
+"chunk_id": "99c0f695-e4f",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 38",
+"chunk_type": "paragraph",
+"page_refs": [
+51
+],
+"bounding_box": {
+"x0": 55.5343,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 51
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "db32e7a4a2449b457c2412ba",
+"chunk_id": "cd227900-588",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 39",
+"chunk_type": "paragraph",
+"page_refs": [
+52
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.8497,
+"bottom": 813.4039,
+"page": 52
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "7da7a7f5a5f03bca1041806b",
+"chunk_id": "6c9c5732-938",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 40",
+"chunk_type": "paragraph",
+"page_refs": [
+53
+],
+"bounding_box": {
+"x0": 55.4393,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 53
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "a271272284934d6bf77f1dd3",
+"chunk_id": "f506354b-ea8",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 41",
+"chunk_type": "paragraph",
+"page_refs": [
+54
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2797,
+"bottom": 813.4039,
+"page": 54
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "0198721a4ae6f1b96ac48a3c",
+"chunk_id": "e1382a5e-6bb",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 42",
+"chunk_type": "paragraph",
+"page_refs": [
+55
+],
+"bounding_box": {
+"x0": 55.7342,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 55
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "96c656c570a227417407a06b",
+"chunk_id": "028d8fba-30e",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 43",
+"chunk_type": "paragraph",
+"page_refs": [
+56
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6897,
+"bottom": 813.4039,
+"page": 56
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "f946e900d942c95357fff2b3",
+"chunk_id": "971ca0a7-0ad",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 44",
+"chunk_type": "paragraph",
+"page_refs": [
+57
+],
+"bounding_box": {
+"x0": 55.7293,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 57
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "ee11c4384667b57218951247",
+"chunk_id": "d175f33d-cc1",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 45",
+"chunk_type": "paragraph",
+"page_refs": [
+58
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6997,
+"bottom": 813.4039,
+"page": 58
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "c4c36ce8c85e6b258f5580bb",
+"chunk_id": "386e0840-b2d",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 46",
+"chunk_type": "paragraph",
+"page_refs": [
+59
+],
+"bounding_box": {
+"x0": 55.4843,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 59
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "6a9d968c0f520adbb4158c58",
+"chunk_id": "3cabf3e5-a42",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 Variables fee 47",
+"chunk_type": "paragraph",
+"page_refs": [
+60
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.7246,
+"bottom": 813.4039,
+"page": 60
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 10,
+"content_hash": "3521c7e083fa7aba08fc00cf",
+"chunk_id": "7dc8bcb6-d44",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 48",
+"chunk_type": "paragraph",
+"page_refs": [
+61
+],
+"bounding_box": {
+"x0": 55.5043,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 61
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "5031f1a6569e9f0b5b60a707",
+"chunk_id": "8ebd340b-9f2",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 49",
+"chunk_type": "paragraph",
+"page_refs": [
+62
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.8797000000001,
+"bottom": 813.4039,
+"page": 62
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "23f33f9a2f027e96f5aafff6",
+"chunk_id": "d341d999-589",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 50",
+"chunk_type": "paragraph",
+"page_refs": [
+63
+],
+"bounding_box": {
+"x0": 55.4593,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 63
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "186d79f0e22c538762792bcc",
+"chunk_id": "53b57dc2-5bd",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 51",
+"chunk_type": "paragraph",
+"page_refs": [
+64
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.2597000000001,
+"bottom": 813.4039,
+"page": 64
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "55dff486b98f1a8bd7ef66fd",
+"chunk_id": "ef3338ed-a7f",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 52",
+"chunk_type": "paragraph",
+"page_refs": [
+65
+],
+"bounding_box": {
+"x0": 55.7542,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 65
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "cd328b56278800c9c0881234",
+"chunk_id": "ce1633e5-493",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 53",
+"chunk_type": "paragraph",
+"page_refs": [
+66
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6696999999999,
+"bottom": 813.4039,
+"page": 66
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "4155fefcc97e71cc69ea6f7f",
+"chunk_id": "b959adfe-ba2",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 54",
+"chunk_type": "paragraph",
+"page_refs": [
+67
+],
+"bounding_box": {
+"x0": 55.7493,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 67
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "9f6b2f6af01c8760bde18c8d",
+"chunk_id": "097396d3-796",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 55",
+"chunk_type": "paragraph",
+"page_refs": [
+68
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.6796999999999,
+"bottom": 813.4039,
+"page": 68
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "58a54df2ffb4bf2f39c62ba4",
+"chunk_id": "ae448526-b0d",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 56",
+"chunk_type": "paragraph",
+"page_refs": [
+69
+],
+"bounding_box": {
+"x0": 55.5043,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 69
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "a824b6cdefa755dbd5d629ff",
+"chunk_id": "352e9692-bd0",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 57",
+"chunk_type": "paragraph",
+"page_refs": [
+70
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.7397,
+"bottom": 813.4039,
+"page": 70
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "00ab4a3dc1dc73347e335579",
+"chunk_id": "2f378b36-829",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 58",
+"chunk_type": "paragraph",
+"page_refs": [
+71
+],
+"bounding_box": {
+"x0": 55.5243,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 71
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "01941d4e96c438f3bf121bea",
+"chunk_id": "32d80507-6b5",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 59",
+"chunk_type": "paragraph",
+"page_refs": [
+72
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.8597,
+"bottom": 813.4039,
+"page": 72
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "a7840f1c93f60de4c8d822a9",
+"chunk_id": "ee762232-2a3",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 60",
+"chunk_type": "paragraph",
+"page_refs": [
+73
+],
+"bounding_box": {
+"x0": 55.1943,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 73
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "616006bbf8bc2e82b9de1fb0",
+"chunk_id": "d0b0d55c-899",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 61",
+"chunk_type": "paragraph",
+"page_refs": [
+74
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.5247,
+"bottom": 813.4039,
+"page": 74
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "6cbd2bce4718b92fe281532a",
+"chunk_id": "887a3049-4a6",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 62",
+"chunk_type": "paragraph",
+"page_refs": [
+75
+],
+"bounding_box": {
+"x0": 55.4893,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 75
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "9e705c61b7776c831942a2dc",
+"chunk_id": "6aa09928-ba8",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 63",
+"chunk_type": "paragraph",
+"page_refs": [
+76
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.8997,
+"bottom": 813.4039,
+"page": 76
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "69f4a8291dacb26416bcc90a",
+"chunk_id": "ba230ccf-c64",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 64",
+"chunk_type": "paragraph",
+"page_refs": [
+77
+],
+"bounding_box": {
+"x0": 55.4843,
+"top": 34.32989999999995,
+"x1": 552.1497999999999,
+"bottom": 813.4496,
+"page": 77
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "92ec37540f3f48ae10bb0909",
+"chunk_id": "84144b4f-4c4",
+"metadata": {}
+},
+{
+"content": "Annual Report 2022 I 2023 65",
+"chunk_type": "paragraph",
+"page_refs": [
+78
+],
+"bounding_box": {
+"x0": 36.0,
+"top": 34.32989999999995,
+"x1": 535.9446999999999,
+"bottom": 813.4039,
+"page": 78
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 7,
+"content_hash": "b31b7eebf77ceb9fd9630b67",
+"chunk_id": "bbffe64b-5a2",
+"metadata": {}
+},
+{
+"content": "FROM MY MOBILE Mobile Mobile Banking Wallet Mobile Mobile Banking Wallet Tel. +251115571204 P.O.Box9714 +251 115 571 115 info@ethswitch.com JosephTito St.,Nega City Mall4th Floor Kazanchis,AddisAbaba www.ethswitch.com",
+"chunk_type": "paragraph",
+"page_refs": [
+79
+],
+"bounding_box": {
+"x0": 27.7733,
+"top": 51.51593679999996,
+"x1": 1135.2073654000003,
+"bottom": 806.538068,
+"page": 79
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 54,
+"content_hash": "67d1459ee21a74418a64a5eb",
+"chunk_id": "1a06ccf4-ad6",
+"metadata": {}
+},
+{
+"content": "FROM MY MOBILE Mobile Mobile Banking Wallet Mobile Mobile Banking Wallet Tel. +251115571204 P.O.Box9714 +251 115 571 115 info@ethswitch.com JosephTito St.,Nega City Mall4th Floor Kazanchis,AddisAbaba www.ethswitch.com",
+"chunk_type": "paragraph",
+"page_refs": [
+80
+],
+"bounding_box": {
+"x0": -567.5023,
+"top": 51.51593679999996,
+"x1": 539.9318654,
+"bottom": 806.538068,
+"page": 80
+},
+"parent_section": "ANNUAL 2 0 2 2 2 3 FOR THE FINANCIAL YEAR",
+"token_count": 54,
+"content_hash": "fd51a0f3652210a34517f2ee",
+"chunk_id": "0cf314c2-ecc",
+"metadata": {}
+}
+]

@@ -1,0 +1,762 @@
+[
+{
+"content": "iii ii | ",
+"chunk_type": "table",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 0.0,
+"top": 557.289,
+"x1": 103.34380952380947,
+"bottom": 576.3835,
+"page": 2
+},
+"parent_section": null,
+"token_count": 2,
+"content_hash": "1704fe3ba9706dd3766c6190",
+"chunk_id": "d8f3f974-377",
+"metadata": {}
+},
+{
+"content": " |  | ",
+"chunk_type": "table",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 11.797,
+"top": 40.58459999999998,
+"x1": 583.479,
+"bottom": 253.84499999999997,
+"page": 4
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "0b5f69992dabe4b9a62ee5cf",
+"chunk_id": "22ba7c39-dd3",
+"metadata": {}
+},
+{
+"content": "Training & Strategic\nPartnerships\nEthio-Re,s Environmental,\nSocial and Governance\n(ESG) Principles",
+"chunk_type": "table",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 61.234799999999986,
+"top": 416.31299999999993,
+"x1": 193.29342857142856,
+"bottom": 488.87699999999995,
+"page": 4
+},
+"parent_section": null,
+"token_count": 24,
+"content_hash": "11194442eeb03309f37f2a80",
+"chunk_id": "c270178a-281",
+"metadata": {}
+},
+{
+"content": "\n",
+"chunk_type": "table",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": 383.077,
+"top": 216.63299999999992,
+"x1": 519.6579999999999,
+"bottom": 225.69549999999995,
+"page": 7
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "41fb5f0eab45164ec0f026a4",
+"chunk_id": "ebf55c1e-377",
+"metadata": {}
+},
+{
+"content": "Class of Business | Treaty Capacity(USD) | Facultative Capacity(USD)\nFire and Engineering | 43,000,000 | 24,000,000\nMarine Hull and Cargo | 13,000,000 | 6,000,000\nCasualty | 850,000 | 1,750,000\nPolitical Violence and Terrorism | 5,000,000 | 5,000,000\nBond | 6,000,000 | 6,000,000\nAviation small Aircraft | 1,500,000 | 1,500,000",
+"chunk_type": "table",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 64.05715909090911,
+"top": 333.882,
+"x1": 531.5135,
+"bottom": 539.54715,
+"page": 10
+},
+"parent_section": null,
+"token_count": 81,
+"content_hash": "ea6e62da34d9d09626ce9b60",
+"chunk_id": "a769b488-0a4",
+"metadata": {}
+},
+{
+"content": " | \n | ",
+"chunk_type": "table",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 226.369,
+"top": 315.066,
+"x1": 293.012,
+"bottom": 332.02099999999996,
+"page": 12
+},
+"parent_section": null,
+"token_count": 1,
+"content_hash": "5ab8c5ed84d09a003fb18cd2",
+"chunk_id": "536350e4-b05",
+"metadata": {}
+},
+{
+"content": "2023/24 | 2,212 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 1,710 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2023/24 | 2010 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 1975 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2023/24 | 1964 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 1617 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2023/24 | 424.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 229.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2023/24 | 317.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 269.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2023/24 | 93.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n2022/23 | 67.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ",
+"chunk_type": "table",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 108.08161914893616,
+"top": 115.38804545454542,
+"x1": 522.764,
+"bottom": 266.5756666666666,
+"page": 19
+},
+"parent_section": null,
+"token_count": 386,
+"content_hash": "b669117b3990ba7d9afdac6a",
+"chunk_id": "4961c5cc-7f1",
+"metadata": {}
+},
+{
+"content": " |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | \n |  | 1552 |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  | ",
+"chunk_type": "table",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 172.202,
+"top": 396.52799999999996,
+"x1": 477.198,
+"bottom": 508.594475,
+"page": 19
+},
+"parent_section": null,
+"token_count": 68,
+"content_hash": "8ceb7d4e715442f6af2edcb9",
+"chunk_id": "fd32920e-d38",
+"metadata": {}
+},
+{
+"content": "Abera Demissie\nHr and Corporate Service\nCell phone:+251-965567836/911176731\nFax:+251-115-575758\nP.o. Box:12687\nhr_admin@ethiopianre.com | BAezkeabn Wnao Mgaeykeuhrue\nMExaencaugteivre, P urchasin Fgiannadn cPreo &pe inrtvy eAsdtmmienn Stervices\nCCeellll pphhoonnee ::++225511996251516673833323/911241600\nFFaaxx::++225511111155557755775588\nPP..oo.. BBooxx::1122668877\npropertyadmin@ethiopianre.com\nSahilemariam Dejene, FCCA\nDirector internal Audit\nCell phone :+251911629827\nFax:+251115575758\nP.o. Box:12687\naudit@ethiopianre.com | Tekalign Paulos, ACCA\nA/Execut ive Officer(E O ) Finan ce & Investment\nCell phone:+251911225709\nFax:+251115575758\nP.o. Box:12687\nInvestimentmanager @ethiopianre.com\nMr. Yidne kachew Simeneh\nCompany Secretary\nCell phone :+251953845720\nFax:+251115575758\n:+251-115 575757\np.o. Box:12687\nbodsecretary@ethiopianre.com | Abiy Assefa\nManager Enginnering\nCell phone:-251930295207\nFax:+251115575758\nP.o. Box:12687\nengineeringmanager@ethiopianre.com\nSolomon Ababu\nDirector long term Reinsurance\nCell phone :+251911173558\nFax:+25115575758\nP.o. Box:12687\nlife@ethiopianre.com | \n | Corporate e-mail info@ethiopianre.com",
+"chunk_type": "table",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 215.1001666666667,
+"top": 76.74833333333329,
+"x1": 551.4838571428571,
+"bottom": 533.1733333333333,
+"page": 22
+},
+"parent_section": null,
+"token_count": 284,
+"content_hash": "26e87d0bf55c62484f1da15c",
+"chunk_id": "501a577a-81a",
+"metadata": {}
+},
+{
+"content": "Netsane t Tadesse\nActing Exe cutive O fficer (A/EO)Operations\nCell phone :+251965567835/911304222\nFax:+251115575758\n:+251-115 575757\np.o. Box:12687\nunderwriting@ethiopianre.com\nAlpha Girma\nConstruction Project Manager\nCell phone:+251-911305848\nFax:+251115575758\nP.o. Box:12687\nconstructionpm@ethiore.com\nYosep h Merawi Sebsibe\nActing EO ,IT\nCell phone:-+251 970164746\nFax:+251 115575758\nP.o. Box:12687\nitmanager@ethiopianre.com",
+"chunk_type": "table",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 43.478166666666674,
+"top": 228.22749999999994,
+"x1": 209.13916666666668,
+"bottom": 456.347,
+"page": 22
+},
+"parent_section": null,
+"token_count": 106,
+"content_hash": "27312ef61c1ecb987d9be6a9",
+"chunk_id": "28a83a8b-0a0",
+"metadata": {}
+},
+{
+"content": "Company Profile Rising with Africa 2024/25",
+"chunk_type": "paragraph",
+"page_refs": [
+1
+],
+"bounding_box": {
+"x0": 54.7354,
+"top": 56.34316000000001,
+"x1": 552.3910000000001,
+"bottom": 560.039,
+"page": 1
+},
+"parent_section": null,
+"token_count": 10,
+"content_hash": "8abc684b3461de32123f877c",
+"chunk_id": "213f5814-267",
+"metadata": {}
+},
+{
+"content": "iii N o ti c e i s h er e b y gi v e n t o t h e S h ar e h ol d er s t o a t t e n d t h e 7 t h A n n u al Or di n ar y G e n er al M e e ti n g of E t hi o pi a n R ei n s ur a n c e S. C. t h a t will b e h el d i n a c c or d a n c e wi t h Ar ti cl e s 3 6 6, 3 6 7, 3 7 0, 3 7 1 a n d 3 7 2 of t h e C o m m er ci al C o d e of E t hi o pi a, Pr o cl a m a ti o n N u m b er 1 2 4 3 / 2 0 2 1 a n d Ar ti cl e s 9 a n d 1 0 of t h e C o m p a n y \u2019 s Ar ti cl e s of A s s o ci a ti o n a s w ell a s t h e r el e v a n t Dir e c ti v e s of t h e N a ti o n al B a n k of E t hi o pi a. E t hi o pi a n R ei n s ur a n c e S. C. h a s a s u b s cri b e d c a pi t al of Birr 2. 5 Billi o n a n d p ai d u p c a pi t al of Birr 1. 4 Billi o n; R e gi s tr a ti o n N u m b er of t h e C o m p a n y i s M T / A A / 3 / 0 0 3 5 4 5 4 / 2 0 0 8; I t s H e a d q u ar t er s i s l o c a t e d a t B a hir u A br a h a m C o m m er ci al T o w er, A d di s A b a b a, Kir k o s S u b ci t y, W or e d a 9; T h e G e n er al m e e ti n g s will b e h el d o n T u e s d a y, D e c e m b er 2 0, 2 0 2 2, a t A d di s A b a b a Hil t o n s t ar ti n g fr o m 2: 3 0 p. m. t o d eli b er a t e o n t h e f oll o wi n g a g e n d a: t h A g e n d a f o r t h e 7 A n n u a l O r d i n a r y G e n e r a l M e e t i n g : 1. A p p oi n t m e n t of V o t e T ell er s; 2. A p pr o v al of t h e M e e ti n g A g e n d a; 3. A p pr o v al of S h ar e Tr a n sf er s a n d N e w S h ar e h ol d er s w h o a c q uir e d s h ar e s i n 2 0 2 1 / 2 2; 4. C o n si d er a ti o n a n d a p pr o v al of t h e 2 0 2 1 / 2 2 A n n u al R e p or t of t h e B o ar d of Dir e c t or s; 5. C o n si d er a ti o n a n d a p pr o v al of t h e 2 0 2 1 / 2 2 A n n u al R e p or t of E x t er n al A u di t or s; 6. 7. A p pr o v al of A u di t or s \u2019 f e e f or 2 0 2 2 / 2 3; 8. A p pr o v al of A n n u al C o m p e n s a ti o n a n d a m o n t hl y all o w a n c e of t h e B o ar d of Dir e c t or s; a n d 9. A p pr o v al of t h e mi n u t e s of t h e m e e ti n g. N. B.",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 28.642639999999997,
+"top": -4.683403100000078,
+"x1": 524.907,
+"bottom": 573.904741,
+"page": 2
+},
+"parent_section": null,
+"token_count": 507,
+"content_hash": "c01aeeb5e13ea6c601b8f662",
+"chunk_id": "62f10c8e-124",
+"metadata": {}
+},
+{
+"content": "S h ar e h ol d er s w h o ar e n o t a bl e t o a t t e n d i n p er s o n a t t h e m e e ti n g m a y a p p e ar i n p er s o n t o si g n a n d r e s p e c ti v e g o v er n m e n t a u t h ori t y. OUR MOTTO \u201cRISING WITH AFRICA!\u201d Africa Rising is a term coined to describe the rapid economic growth in Sub-Saharan Africa since 2000 and the belief in the inevitability of further, the rapid development of the continent. The continent is almost predestined to enjoy a long period of mid-to-high economic growth, rising incomes, and an emerging middle class. Several international business observers have also named Africa as the future economic growth engine of the world. There are positive longer-term trends across Africa all buoyed by what appeared to be high economic growth rates sweeping the continent. Ethiopian Re, as the youngest reinsurance company stands to benefit immensely from the unprecedented business opportunities brought about by the bourgeoning economic performance of Africa, and hence the motto \u201cRising with Africa\u201d. Basing itself in East Africa, the Company is committed to providing apposite reinsurance cover for the ever-rising and dynamic demand for protection. ii",
+"chunk_type": "paragraph",
+"page_refs": [
+2
+],
+"bounding_box": {
+"x0": 28.642639999999997,
+"top": -4.683403100000078,
+"x1": 524.907,
+"bottom": 573.904741,
+"page": 2
+},
+"parent_section": null,
+"token_count": 299,
+"content_hash": "91220ee5e59b1259ef9d3faa",
+"chunk_id": "db105a53-516",
+"metadata": {}
+},
+{
+"content": "ADDIS ABABA, ETHIOPIA Ethio-Re: Family",
+"chunk_type": "paragraph",
+"page_refs": [
+3
+],
+"bounding_box": {
+"x0": 218.46,
+"top": 202.11199999999997,
+"x1": 550.906,
+"bottom": 581.5675,
+"page": 3
+},
+"parent_section": null,
+"token_count": 9,
+"content_hash": "cd535c41c8eae46c7bee10af",
+"chunk_id": "cfe3a98b-8d9",
+"metadata": {}
+},
+{
+"content": "24//2255 CONTENTS 1. Establishment 6. Underwriting Capacity 13. Code of Conduct Ethio - Re 2. Mission, Vision and 7. Products and Core values Reinsurance solution 13. Employees: Working at Ethio Re 3. Our Credit Rating 8. Our Strategic and Geographical scope 14. Our retrocessionairs Training & Strategic 4. Partnerships 14. Memberships and 9. State of the art 5. Ethio-Re,s Environmental, technology associations Social and Governanc e (ESG) Principles 10. Corporate Governance 15. Financial highlights 5. Shareholdings and 11. Board of Directors 17. Ethiopia Country ownership structure 12. Executive 6. Capital structure 18. Contact us Management ii",
+"chunk_type": "paragraph",
+"page_refs": [
+4
+],
+"bounding_box": {
+"x0": 36.8018,
+"top": 23.359615200000007,
+"x1": 553.4789999999999,
+"bottom": 573.9214999999999,
+"page": 4
+},
+"parent_section": null,
+"token_count": 163,
+"content_hash": "aa540008fd19c8dac420f702",
+"chunk_id": "9620322c-4e2",
+"metadata": {}
+},
+{
+"content": "24//2254 Ethio-Re\u2019s Properties Some of the Historical Sites of Ethiopia Ethio-Re\u2019s Land at Piassa, Addis Ababa Establishment Ethio-Re Building at Lideta, Addis Ababa Ethio Re is the first rei nsurance Company incor- porated under the provisions ofE asrtticalbe l5i(s8h) omf tehnet not to mention the role it plays in reducing hard Insurance Business Proclamation No.746/2012. It earned foreign currency by reducing commenced operation on 1st July 2016, carrying cross border reinsurance transactions. Ethio Re is the rst reinsurance Company incorporated under the provisions of article on both life and non-life businesses. Ethio Re's 5(8) of the Insurance Business Proclamation No.746/2012. It commenced operation head office is located in Addis oAnb 1ast bJualy, E20th16io, cpairary, ing oMn boorteh olifvee arn, da nso nt-hlifee busin esrseeisn.s Eutrhaion cRee\u2019s C hoeamd poancey isi n with a newly acquired transitionloacal thede iand Aqdduias rAtbearbsa , Ethitohpeia . Tchoeu Cnomtrpy,a nyE hthasi oal soR ae p laenn tod oepaevno brrsa ncthoe s einnhanc e other countries as and when necessary. building and land secured for our future perma- underwriting capacity and solvency of direct nent headquarters - tangible Reevlyidineg nocne a reolaf tivoeulyr strongin insuitirael crasp ittahl broasueg, phlu s psoruonvdi dreitnrogc estseiocnh pnroicteaclt ionsupp ort growing capacity and long-term a c o o rd m ed m b i y t m wo e rl n d t r e t n o o wneda nredin sucroervees,r E tahigo aRien vsetn tiunredsi vtoid ouearl an cdo mapcrechuemnsiuvlea ted range of inward reinsurance cover to domestic insurers, in addition to accepting the market. The Company has also a plan to catastrophic losses. It also works to simplify treaty international business on selective basis. The Company mobilizes nancial resources open branches in other countrwiehsic ha sw oaunldd t hwenh eben invesnteedg too tgiaentieorantse, insecotmtlee,m neotn tto omfe nctliaonim thse aronled i t ppalayyms ien nt necessary.",
+"chunk_type": "paragraph",
+"page_refs": [
+5
+],
+"bounding_box": {
+"x0": 42.515109999999936,
+"top": 23.329999999999927,
+"x1": 562.361,
+"bottom": 598.4128584,
+"page": 5
+},
+"parent_section": null,
+"token_count": 493,
+"content_hash": "0ae0301fa383f42b822c75b8",
+"chunk_id": "922d48a7-8a4",
+"metadata": {}
+},
+{
+"content": "reducing hard earned foreiognf ccuerrdenecdy pouret mowiu bmy rse diunc inlogc carol scs ubrorredenrc yre iwnsiuthrainnc eth e transactions. shortest time. Ethio Re is an organization born out Relying on a relatively strong initial capital base, Moreover, as the rst reinsuroafn caen C oamgpea onyld in athsep ciorauntitoryn, E ttohi ofo Rrem en dae satvroorsn tgo natio nal plus sound retrocession protection afforded by enhance underwriting capaRceityin asnudr asonlcveen cCyo omf dpiraencty i.n Tsuhreer cso thnrcoeugpht ppraovpideirn gfo r the world renowned reinsureres, Ethteioch nRieca lv seunpptuorrte asn dto c over against individual and accumulated catast rophic losses. formation of Ethio Re was written in 2012 by a offer comprehensive range of inItw aalsrod w roeriknss tuor saimncpleif y treaty negotiations, settlement of claims and payment of team of experts who took the initiative under the cover to domestic insurers, ceidne d apdredmiituimons in tlooc al currency within the shortest time. Ethio Re is an organization born out of ana uagsep ioclde sas poifra tthioen Etot hfoiromp aia sntr oInngs unarationncael RCeionrsuproanrcaetio n accepting international business on selective Company. The concept pa(pEeIrC f)o.r Tthhee fo remsattaiobnl iosfh Emtheion Rt eo wf aEst whriiott eRn ein 2012 by wa as basis. The Company mobilizes resources team of experts who took the initiative under the auspices of the Ethiopian made possible through Directive No SRB/1/2014 which would then be invested to Ignseunraenrcaet Ceo irnpocroamtioen ,( EIC). The establishment of Ethio Re nally was made issued by the National Bank of Ethiopia. possible through Directive No SRIB/1/2014 issued by the National Bank of Ethiopia. 1 1",
+"chunk_type": "paragraph",
+"page_refs": [
+5
+],
+"bounding_box": {
+"x0": 42.515109999999936,
+"top": 23.329999999999927,
+"x1": 562.361,
+"bottom": 598.4128584,
+"page": 5
+},
+"parent_section": null,
+"token_count": 433,
+"content_hash": "ae3ea27fa7d17023ea08025a",
+"chunk_id": "156927c5-8a6",
+"metadata": {}
+},
+{
+"content": "24//2254 WHO WE ARE MISSION, VISION AND CORE VALUES Mission Provide dependable reinsurance services both locally and internationally through nurturing adequate risk capacity and using highly trained professionals and modern Information and Communication Technology systems. The Company endeavours to foster market stability, high professionalism, and advancing the business of insurance paying special attention to discharging its corporate social responsibility in the process. Vision \u201cTo be the reinsurer of choice in Ethiopia and our chosen market\u201d Core Values To apprehend our corporate mission and vision, the Management and staff of Ethiopian Re stand for the mnemonic \u201cETHIOPIAN\u201d: Innovation Ally and close Technology and Professionalism partnerships reliant learning with customers Excellence Honesty Openness and Innovation National Icon in service transparency and learning 2",
+"chunk_type": "paragraph",
+"page_refs": [
+6
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 22.985000000000014,
+"x1": 540.7910520000001,
+"bottom": 573.9214999999999,
+"page": 6
+},
+"parent_section": null,
+"token_count": 221,
+"content_hash": "b7047a545a2effd046a40c5b",
+"chunk_id": "cc839d91-778",
+"metadata": {}
+},
+{
+"content": "Our Credit Rating Global Credit Rating (GCR) Ethio-Re\u2019s initial international and national scale strength ratings of and AA (ET), respectively with a stable outlook. Ethio-Re assures that the rating was one of the \u201cBig Five Pillars\u201d of the newly designed strategic plan \u201cVision 2030\u201d, and as per its time scale.we have got rating from AM Best rating agency of 3 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd \ufffd\ufffd\ufffd\ufffd\ufffd \ufffd \ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd #\ufffd\"\ufffd\ufffd!\ufffd \ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd'\ufffd\ufffd&\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffd\ufffd$ 24/25 BEST'S CREDIT RATINGS CERTIFICATION August 29, 2024 It is hereby certified that A.M. Best Rating Services, Inc. has assigned the following Best's Credit Ratings to: Company: Ethiopian Reinsurance S.C. AM Best Number: 071489 Financial Strength Rating (Rating Category): B (Fair) Outlook: Stable Effective Date: August 22, 2024 Initial Rating Date: August 22, 2024 Issuer Credit Long-Term Rating (Rating Category): bb (Fair) Outlook: Stable Effective Date: August 22, 2024 Initial Rating Date: August 22, 2024 Since 1899, AM Best's mission has been to provide accurate, timely and comprehensive information to anyone interested in the creditworthiness of insurance companies and insurance-linked securities. Our vision is to be the world's most recognized, accepted and respected full service credit rating agency, news publisher and data analytics provider specializing in the insurance industry. A Best's Financial Strength Rating is an independent opinion of an insurer's financial strength and ability to meet its ongoing insurance policy and contract obligations; a Best's Issuer Credit Rating is an independent opinion of an entity's ability to meet its ongoing financial obligations and can be issued on either a long- or short-term basis. Best's Credit Ratings are subject to change.",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": 41.6797,
+"top": 23.434676999999965,
+"x1": 554.961392,
+"bottom": 573.9214999999999,
+"page": 7
+},
+"parent_section": null,
+"token_count": 449,
+"content_hash": "7ef23f1353aa0cf6f3afc63d",
+"chunk_id": "a0dad110-14b",
+"metadata": {}
+},
+{
+"content": "To confirm the latest rating or to learn more about Best's Credit Ratings, visit www.ambest.com, and also refer to the Guides to Best's Credit Ratings For information regarding regulatory authorities with which AM Best is registered, visit www.ambest.com/nrsro/regulatoryinformation.html. In certification thereof, I have affixed the corporate emblem and my signature. Financial Strength B (Fair) get and Long Term bb (Fair) with Stable outlook.",
+"chunk_type": "paragraph",
+"page_refs": [
+7
+],
+"bounding_box": {
+"x0": 41.6797,
+"top": 23.434676999999965,
+"x1": 554.961392,
+"bottom": 573.9214999999999,
+"page": 7
+},
+"parent_section": null,
+"token_count": 111,
+"content_hash": "0c74dff3584bec1a049d4613",
+"chunk_id": "e955f13d-48a",
+"metadata": {}
+},
+{
+"content": "24//2254 Training & Market Development At Ethiopian Reinsurance S.C. (Ethio-Re), we believe that a strong insurance market begins with knowledge. We have delivered over 18 specialized training programs in last financial year 2024/25 and continue to host monthly at least one capacity-building sessions for market participants. Our commitment: to empower the industry through continuous learning and professional development. Strategic Partnerships Ethio-Re works hand-in-hand with key stakeholders to shape a resilient and forward-looking insurance ecosystem. We maintain strong partnerships with: \u2022 Local and international reinsurance companies \u2022 Regulatory authorities \u2022 Market-leading insurance firms Together, we drive innovation, compliance, and sustainable growth across the sector. 4",
+"chunk_type": "paragraph",
+"page_refs": [
+8
+],
+"bounding_box": {
+"x0": 42.51281290000003,
+"top": 23.079999999999927,
+"x1": 563.7490000000001,
+"bottom": 573.9214999999999,
+"page": 8
+},
+"parent_section": null,
+"token_count": 197,
+"content_hash": "b1c6e73d7060416d17e0a1ef",
+"chunk_id": "e22e9712-c3e",
+"metadata": {}
+},
+{
+"content": "24//2254 Ethio-Re\u2019s Environmental, social, and governance (ESG) principles: Ethio-Re has joined the Nairobi Declaration on Sustainable Insurance and become the signatory member effective 2024. Accordingly, the company is striving to integrating sustainable insurance principles into its business operations. The company has a plan and ambition to become an African ESG champion and industry leader and not only by taking meaningful ESG action in its own businesses, but also want to become a forefront runner and advocate for sustainable practices, influencing the sector at large. Hence, Ethio-Re has a robust commitment to environmental, social, and governance (ESG) principles at the Ethiopian, continental and regional level, have a willingness to allocate its own resources to sustainable projects, and become active participant in the Nairobi Declaration on Sustainable Insurance. Ethio-Re discharging its Corporate Social Responsibility Ethio-Re discharging its Corporate Social Responsibility Ethiopian National Association of the Deaf (ENAD) School feeding program for the CO-Action school for the deaf Children Shareholdings and ownership struct ure Support for Feeding Program for The Needy Ethiopian National Association of the Deaf (ENAD) Tesfa- Birhan- Kirkos sub city School feeding program for the CO-Action school for the Ethio Re\u2019s shareholding structure is a concoction of pardetanf Cehildrresn hips between public and private investors. The Company has diverse shareShhoaldreehrosl,d iwnghsi cahn dc uowrrneenrtslyh ipc ostmrupcrtiusree of seven banks, seventeen insurance companies, one hundred two E tihniod Rei\u2019vs sihdaruehaolldsin gc sotrumctuirne igs a cfornocomctio nd oif fpfaertnreersnhipts wbetawlekens p uobflic lainfde pl us one trade union. private investors. The Company has diverse shareholders, which currently comprise of seven banks, seventeen insurance companies, eighty individuals coming from The subscribed share capital doife retnht ewa lkCs oof mlife ppluas nonye tirasd eB uniriorn . 2.5 Billion.",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": 52.87409999999994,
+"top": 23.409028499999977,
+"x1": 553.326,
+"bottom": 583.8891494,
+"page": 9
+},
+"parent_section": null,
+"token_count": 505,
+"content_hash": "c8b980183aa4ed245d632b9b",
+"chunk_id": "049e56e4-a56",
+"metadata": {}
+},
+{
+"content": "The Company\u2019s Board comprises of nine members representing indivTihde usuabslc ribaedn sdha rei cnapsittailt ouf tthieo Cnomapla nys ihs Bairrr e99h7.3o Mldillioenr. sTh e wComhpoan y\u2019sp ossess invaluable experience Board comprises of nine members representing individual and institutional amassed through working in inshsaruehroaldnersc weh,o proessiensss inuvarlauanblec eexp earinendce aomtahsseed rth firoungah wnocrkiinagl i ninst itutions. The Board is responsible insurance, reinsurance and other nancial institutions. The Board is responsible to manage the affairs of the Cotom mapnaagne yth eb aya irlsa oyf itnheg Co dmpoanwy nby slatyirnag tdeowgn isctr adtegiirce dciretcitoionns san ad nd implementation of same to the expectations of the shareholdeimrpsle maenntdatio on otfh saemre stot athke eexpheoctaltdionesr osf .the shareholders and other stakeholders. 2.07% Individuals 30.87% Banks 0.01% Labor Union 67.05% Insurance Companies 5 4",
+"chunk_type": "paragraph",
+"page_refs": [
+9
+],
+"bounding_box": {
+"x0": 52.87409999999994,
+"top": 23.409028499999977,
+"x1": 553.326,
+"bottom": 583.8891494,
+"page": 9
+},
+"parent_section": null,
+"token_count": 238,
+"content_hash": "3e6654b5eb1bb6ecfe47754f",
+"chunk_id": "fd45064a-6a7",
+"metadata": {}
+},
+{
+"content": "24//2254 Capital structure The legal minimum paid up capital to establish a reinsurance company in Ethiopia is Birr 500,000,000 (Birr Five Hundred Million) equivalent to USD$ 10 million. The subscribed capital of Ethiopian Re is Birr 2.5 Billion equivalent to USD 50 million which by any standard is huge for a company just started operation. UNDERWRITING CAPACITY As a foremost reinsurer in the domestic reinsurance market, Ethio-Re provides reinsurance to the direct long term and general insurance companies in the Ethiopian market. However, grounded on its business strategy, Ethio- Re spreads its wings to transpire as an active reinsurance solutions partner for the African and selected Asian markets. Hence, as depicted in the table below, Ethio-Re provides the following capacities for Treaty and Facultative businesses on risks emanating from the targeted local and international markets based on merits of the business from its clientele. Class of Business Treaty Capacity(USD) Facultative Capacity(USD) Fire and Engineering 43,000,000 24,000,000 Marine Hull and Cargo 13,000,000 6,000,000 Casualty 850,000 1,750,000 Political Violence and Terrorism 5,000,000 5,000,000 Bond 6,000,000 6,000,000 Aviation small Aircraft 1,500,000 1,500,000 6",
+"chunk_type": "paragraph",
+"page_refs": [
+10
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 23.230000000000018,
+"x1": 553.0405,
+"bottom": 573.9214999999999,
+"page": 10
+},
+"parent_section": null,
+"token_count": 312,
+"content_hash": "7701a9339720c9cab80f8fe9",
+"chunk_id": "0eabf069-8d3",
+"metadata": {}
+},
+{
+"content": "24//2254 Products and Reinsurance Solution Acting Executive Officer Director-Long-Term Reinsurance Manager- Retakaful (A/EO)Operations (Solomon Ababu, FLMI) (Iman Ibrahim, CTP) (Netsanet Tadesse, CERT, CII) Ethio Re provides all life and non-life reinsurance covers except energy, oil and gas. Fire and engineering; Accident and motor; Marine and aviation; Life and health; Non demand bonds; Liability; Agriculture and Political Violence and Terrorism (PVT); Re-Takaful; and Others 7",
+"chunk_type": "paragraph",
+"page_refs": [
+11
+],
+"bounding_box": {
+"x0": 41.2656,
+"top": 22.56600000000003,
+"x1": 554.123,
+"bottom": 573.9214999999999,
+"page": 11
+},
+"parent_section": null,
+"token_count": 120,
+"content_hash": "325e3119cd3fd24d3ea73cb9",
+"chunk_id": "dcd130b4-aec",
+"metadata": {}
+},
+{
+"content": "24//2254 Geographical scope Ethio Re would strive to secure business from domestic and international markets. In the short term however it primarily focuses on building strong market base in Ethiopia and Sub Shaharan Africa although Ethiopia will remain the major source of the Company\u2019s business in the foreseeable future. However, the Company has a well thought plan to expand its reach to international markets with special focus on accepting business from African, Middle East and Asian markets on selective basis. Predominantly OUR THREE PHASED STRATEGIC HORIZON INCLUDES \u2022 Win in the Ethiopian market; \u2022 Consolidate locally and win in East Africa; and Fikru Tsegaye \u2022 Compete in Africa (ARA, FLMI, ACS, CTP, CII, ExD-IB & F) Executive officer, Strategy and Business Development 8",
+"chunk_type": "paragraph",
+"page_refs": [
+12
+],
+"bounding_box": {
+"x0": 42.519499999999965,
+"top": 22.962999999999965,
+"x1": 552.798,
+"bottom": 573.9214999999999,
+"page": 12
+},
+"parent_section": null,
+"token_count": 196,
+"content_hash": "9814a18f697ba4633fcd79ab",
+"chunk_id": "7ae408f1-1f1",
+"metadata": {}
+},
+{
+"content": "24//2254 State of the art technology As part of its strategic direction, Ethiopian efficiency, data accuracy, and decision-making Reinsurance S.C. has placed strong emphasis capabilities\u2014laying a solid foundation for on leveraging technology to strengthen its scalable growth and improved client service. competitive position and enhance service delivery. In July 2024, the Company achieved a major milestone by going live with an integrated reinsurance management and general ledger software system. This system, implemented in partnership with SAP East Africa Limited and msg Global Solutions, is expected to significantly improve operational 9",
+"chunk_type": "paragraph",
+"page_refs": [
+13
+],
+"bounding_box": {
+"x0": 56.6924,
+"top": 23.444316999999955,
+"x1": 554.065,
+"bottom": 573.9214999999999,
+"page": 13
+},
+"parent_section": null,
+"token_count": 161,
+"content_hash": "5eb811ae98c052fc1bdc3a76",
+"chunk_id": "1031b30e-482",
+"metadata": {}
+},
+{
+"content": "24//2254 Corporate Governance The Company has the following governance structure: Corporate governance stands for a form of responsible company management and General Meeting of Shareholders; control geared to long-term creation of value. Board of Directors; Ethio-Re strictly complies the corporate governance Directive set by National bank Chief Executive of Ethiopia (NBE) , Insurance Corporate Company Secretary Governance Directive No. SIB/48/2019 and Senior Management ;and Company Corporate Governance Guideline ExternalAuditors prepared and approved by Board of Directors of Ethio Re. 10",
+"chunk_type": "paragraph",
+"page_refs": [
+14
+],
+"bounding_box": {
+"x0": 42.51949999999988,
+"top": 23.344495199999983,
+"x1": 551.39,
+"bottom": 573.9214999999999,
+"page": 14
+},
+"parent_section": null,
+"token_count": 148,
+"content_hash": "1390e92978c07b488cdc83ce",
+"chunk_id": "d568e7db-017",
+"metadata": {}
+},
+{
+"content": "24//2245 Board of Directors Members of the Board of Directors of Ethio Re Mrs. Meseret Bezabih Representing Self Chairperson Mr. Hailemariam Assefa Mr. kelebessa Kera Mr. Kassahun Begashaw Mr. Jibat Alemneh Representing Self Representing Self Representing Africa Insurance SC Representing Self Director Director Director Director Mr. Eyuel Ewnetu Mrs. Zufan Abebe Mr. Yonas Lidetu Representing Self Representing NIB Insurance Representing CBE Director Director Director 11",
+"chunk_type": "paragraph",
+"page_refs": [
+15
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 23.46799999999996,
+"x1": 553.7900000000001,
+"bottom": 573.9214999999999,
+"page": 15
+},
+"parent_section": null,
+"token_count": 118,
+"content_hash": "3c0862fea8fc3c490703322e",
+"chunk_id": "5906b7a3-9fe",
+"metadata": {}
+},
+{
+"content": "24//2254 Executive Management Mr. Netsannet Lemmessa Mr. Fikru Tsegaye Mrs. Netsanet Tadesse Mr. Tekalign Poulos Mr. Yoseph Merawi Stra (A t R e A g , F y L , M B I, u A s C in S, e C s T s P , D C e II, v Ex e D l o -IB p & m F) e nt Act ( in A g /E E ( O C xe e )O r c t u p C t e II i U v ra K e ) t O io f n fi s cer A F / i E n x a e n c c u e ti v & ( e F C In O C v f e f A i c s ) t e m r( e E n O t ) Acting E ( x A e / c E u O ti ) v ,I e T Officer Mr. Ab D e ir r e a c D to e r m , issie Mr. Samu D e ir l e A c d to e r m , e (CIA) Mr. Sahle (A m C a C ria A m ) Dejene Mr. Yidnekachew Simen e h HR & Corporate Services Enterprise Riks & Director Internal Audit Company Secretary Director Compliance Director Director 12",
+"chunk_type": "paragraph",
+"page_refs": [
+16
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 23.567000000000007,
+"x1": 483.954132,
+"bottom": 573.9214999999999,
+"page": 16
+},
+"parent_section": null,
+"token_count": 183,
+"content_hash": "83a559750b788d2f34d87685",
+"chunk_id": "7cac23a6-5e5",
+"metadata": {}
+},
+{
+"content": "24//2254 Employees: Working at Code of Conduct \u2013 Ethio Re Ethio Re How Ethio Re is perceived by the public depends on the manner in which each and every member of our At Ethio Re we believe that highly staff conducts themselves. By aligning our actions to and motivated staff is key to high ethical and legal standards, we create a spirit of the success of our business. And for trust and preserve all the Values Ethio Re committed an emerging reinsurance company to promote. like Ethio-Re, the strategy of the Company can be properly executed Together with Company\u2019s Core Principles, the our with its manpower and accordingly, Code of Conduct these values. The Code of the compan yis in the process of Conducts is a set of binding rules for all our staff developing human resources strategy members, including senior executives and members that could transform the human of the Board of Directors of Ethio Re. resources development aspects. Our corporate and leadership culture strongly geared to performance and business requirements has a major positive impact on the way our staff approach change, performance and training. There are currently 34 people working at Ethio-Re of which 53% are female from 30 June 2024). All of them contribute to our success through their skill, performance and dedication. That is why we are committed to investing in their development and provide all staff with equal opportunities and top- quality working conditions. We strive to recruit the best staff we can and equip them to deal with the global business of opportunities and risks. 13",
+"chunk_type": "paragraph",
+"page_refs": [
+17
+],
+"bounding_box": {
+"x0": 42.519499999999994,
+"top": 23.567000000000007,
+"x1": 553.238,
+"bottom": 573.9214999999999,
+"page": 17
+},
+"parent_section": null,
+"token_count": 394,
+"content_hash": "a7086341c972803bb8832416",
+"chunk_id": "993ca778-d58",
+"metadata": {}
+},
+{
+"content": "24//2254 Our retrocessionairs Memberships and associations Munich Reinsurance Company of Africa Currently, Ethio- Re is a member of the various Limited (MRoA) Munich Re is the leader of our continental and local institutions. In this retro - program. Munich Re offers reinsurance regard, it is an institutional member of African protetcion against life, health, and property Insurance Organization (AIO), Federation of risks. MRoA operates as a subsidiary of Afro-Asian Insurers and Reinsurers (FAIR), M\u00fcnchener R\u00fcckversicherungs- Gesellschaft Organizaton of Eastern and Southern Aktiengesellschaft. The Company is based in Africa Insurance (OESAI) and Association of Johannesburg, South Africa. Ethiopian Insurers (AEI). 14",
+"chunk_type": "paragraph",
+"page_refs": [
+18
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 23.234000000000037,
+"x1": 553.1250000000001,
+"bottom": 573.9214999999999,
+"page": 18
+},
+"parent_section": null,
+"token_count": 181,
+"content_hash": "9a9c40b5065a2032c79aa6d4",
+"chunk_id": "605e550f-ada",
+"metadata": {}
+},
+{
+"content": "/24 ETHIO-RE IN FIGURES (FINANCIAL HIGHLIGHTS IN MILLIONS) 15 Ethiopian Birr in Millions 0 100 200 300 400 500 600 700 800 900 1,000 1,100 1,200 1,300 1,400 1,500 1,600 1,700 1,800 1,900 2,000 PARTICULARS Reinsurance 2023/24 2,212 Revenue 2022/23 1,710 Reinsurance 2023/24 2010 Service Expense 2022/23 1975 Paid up capital 2023/24 1964 2022/23 1617 Profit 2023/24 424.4 before tax 2022/23 229.3 Net investment 2023/24 317.7 income 2022/23 269.2 Operating and 2023/24 93.7 other expenses 2022/23 67.1 0 100 200 300 400 500 600 700 800 900 1,000 1,100 1,200 1,300 1,400 1,500 1,600 1,700 1,800 1,900 2,000 Earnings Per Share (EPS) rriB naipoihtE 24/25 3,000 2,500 2,252 2176 2,129 2,135.06 2,000 2,091 1,500 1552 1,000 500 0 2024 2023 2022 2021 2020 2019",
+"chunk_type": "paragraph",
+"page_refs": [
+19
+],
+"bounding_box": {
+"x0": 32.13296799999999,
+"top": 23.234000000000037,
+"x1": 552.9350000000001,
+"bottom": 573.9214999999999,
+"page": 19
+},
+"parent_section": null,
+"token_count": 188,
+"content_hash": "47e3fadcbfadd71ad1d1efa7",
+"chunk_id": "9546f366-593",
+"metadata": {}
+},
+{
+"content": "Ethio-RE Sponsoring and Hosting the 3rd Insurance and Social Protection Regulators' Retreat for Africa: 2024, Addis Ababa, Ethiopa",
+"chunk_type": "paragraph",
+"page_refs": [
+20
+],
+"bounding_box": {
+"x0": 29.8691,
+"top": 27.463999999999942,
+"x1": 563.8541,
+"bottom": 58.568899999999985,
+"page": 20
+},
+"parent_section": null,
+"token_count": 32,
+"content_hash": "c2cf228356bc618d8d7b07d2",
+"chunk_id": "b3646016-b21",
+"metadata": {}
+},
+{
+"content": "Company Profile 202243//2254/24 Ethiopia Country Profile * Federal * D O e ff m icia o l N c a r m a e t : i F c e d R er e al p De u m b oc l r i a c tic o Re f p E ub t li h c i o o f E p th i io a pia * Capital City: Addis Ababa, seat of the African Union (AU) and * Capital City: Addis AbabUan,i tesde Naattio onsf E ctohnoem iAc Cformicmaisnsio nU fnor iAofrinca ((UANUECA)) a nd United Nations Economic Commission for Africa (*U NLoEcaCtioAn:) Horn of Africa, at the crossroads between Africa, the Middle East and Asia * Location: Horn of Africa* , aArte at:h 1e.1 mcilrlioons ssquraorea kdiloms ebtrees tween Africa, the Middle East and Asia * Area: 1.1 million square* kPiolopumlatieont:r 2ensd most populous country in Africa with a population size of over 100 million * Population: 2nd most p* oLpanugluoagues: W corokinugn Fetdreyra li nlan Agufagreic - aAm whariitc,h E nagl ispho isp wiudellya tion size of over 110 spoken million * Climate: Temperate in the highlands: 20\u00b0C - 30\u00b0C, low in the lowlands: up to 45\u00b0C * Language: Working FedeRraainfla llla rannggesu fraomg 2e00 - m Am mto 2h00a0r micm ,a nEdn higghllyi sh is widely spoken suitable for production. * Climate: Temperate in the highlands: 20\u00b0C - 30\u00b0C, low in the lowlands: up to 45\u00b0C * Currency: Ethiopian Birr (ETB) Rainfall ranges from 200 mm * Gtoeo -2sp0ec0ifi0c i nmformma taionn: d highly suitable for production. Country Code: +251 * Currency: Ethiopian Birr (ETBTi)me Zone: GMT+3 * * Known as \u2018Land of Origins\u2019, Ethiopia is among the world\u2019s best destination for tourism with strong service industry to support the sector. Country Code: +251 * Ethiopia is home to several cultural and historical heritage Time Zone: GMT+3 sites, nine of which are included in the UNESCO list of world heritage. Source: Ethiopian Investment Commission * Known as \u2018Land of Origins\u2019, Ethiopia is among the world\u2019s best destination for tourism with strong service industry 1to2 su pport the sector.",
+"chunk_type": "paragraph",
+"page_refs": [
+21
+],
+"bounding_box": {
+"x0": 42.5270000000001,
+"top": 22.265999999999963,
+"x1": 572.174,
+"bottom": 573.9214999999999,
+"page": 21
+},
+"parent_section": null,
+"token_count": 486,
+"content_hash": "2f783a687e2726d3b81373a1",
+"chunk_id": "3e9cc64c-875",
+"metadata": {}
+},
+{
+"content": "* Ethiopia is home to several cultural and historical heritage sites, nine of which are included in the U NESCO list of world heritage. Source: Ethiopian Investment Commission 17",
+"chunk_type": "paragraph",
+"page_refs": [
+21
+],
+"bounding_box": {
+"x0": 42.5270000000001,
+"top": 22.265999999999963,
+"x1": 572.174,
+"bottom": 573.9214999999999,
+"page": 21
+},
+"parent_section": null,
+"token_count": 44,
+"content_hash": "b1bead3016538eb05b9c1216",
+"chunk_id": "3736feaf-66c",
+"metadata": {}
+},
+{
+"content": "24//2254 Contact us Netsan net Lemmessa Abera Demissie BAezkeabn Wnao Mgaeykeuhrue Chief, Executive Hr and Corporate Service MExaencaugteivre, P urchasin Fgiannadn cPreo &pe inrtvy eAsdtmmienn Stervices Cell phone :+251911200583 Cell phone:+251-965567836/911176731 CCeellll pphhoonnee ::++225511996251516673833323/911241600 Fax:+251-115575758 Fax:+251-115-575758 FFaaxx::++225511111155557755775588 P.o. Box:12687 P.o. Box:12687 PP..oo.. BBooxx::1122668877 ceo@ethiopianre.com hr_admin@ethiopianre.com propertyadmin@ethiopianre.com Fikru Tsegaye Sahilemariam Dejene, FCCA Tekalign Paulos, ACCA Executive Strategy & Business Dev. Director internal Audit A/Execut ive Officer(E O ) Finan ce & Investment Cell phone:+251965567834/913-035168 Cell phone :+251911629827 Cell phone:+251911225709 Fax:+251115575758 Fax:+251115575758 Fax:+251115575758 P.o. Box:12687 P.o. Box:12687 P.o. Box:12687 businessdevelopment@ethiopianre.com audit@ethiopianre.com Investimentmanager @ethiopianre.com Netsane t Tadesse Mr. Yidne kachew Simeneh Abiy Assefa Acting Exe cutive O fficer (A/EO)Operations Company Secretary Manager Enginnering Cell phone :+251965567835/911304222 Cell phone :+251953845720 Cell phone:-251930295207 Fax:+251115575758 Fax:+251115575758 Fax:+251115575758 :+251-115 575757 :+251-115 575757 p.o. Box:12687 p.o. Box:12687 P.o. Box:12687 underwriting@ethiopianre.com bodsecretary@ethiopianre.com engineeringmanager@ethiopianre.com Alpha Girma Solomon Ababu Martha Genene Construction Project Manager Director long term Reinsurance Manager Financial Accounting Cell phone:+251-911305848 Cell phone :+251911173558 Cell phone:+251911879314 Fax:+251115575758 Fax:+25115575758 Fax:+251115575758 :+25115575757/115582789 P.o. Box:12687 P.o. Box:12687 P.o. Box:12687 constructionpm@ethiore.com life@ethiopianre.com Finance@ethiopianre.com Iman Ibrahim Yosep h Merawi Sebsibe Manager Re-Tackaful window Acting EO ,IT Cell phone :+251913054399 Cell phone:-+251 970164746 Fax:+251115575758 Fax:+251 115575758 P.o. Box:12687 P.o.",
+"chunk_type": "paragraph",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 22.899999999999977,
+"x1": 543.0880000000001,
+"bottom": 573.9214999999999,
+"page": 22
+},
+"parent_section": null,
+"token_count": 493,
+"content_hash": "fc19e4a1c2c02d1ade907bb1",
+"chunk_id": "e1d6a9c9-c52",
+"metadata": {}
+},
+{
+"content": "Box:12687 retakaful@ethiopianre.com itmanager@ethiopianre.com Corporate e-mail info@ethiopianre.com Samuel Ademe Hanna Eshetu Director ,Risk & Compliance Manager ,Underwriting and Claims Cell phone:+251911623135/912616149 Cell phone :+251910981464 Fax:+251-115-575758 Fax:+251115575758 P.o. Box:12687 P.o. Box:12687 riskmanager@ethiopianre.com senioruw@ethiopianre.com 18",
+"chunk_type": "paragraph",
+"page_refs": [
+22
+],
+"bounding_box": {
+"x0": 42.5195,
+"top": 22.899999999999977,
+"x1": 543.0880000000001,
+"bottom": 573.9214999999999,
+"page": 22
+},
+"parent_section": null,
+"token_count": 92,
+"content_hash": "c0f51f772026d5d184c29bdd",
+"chunk_id": "10c484ed-fe8",
+"metadata": {}
+},
+{
+"content": "24//2254 Tekaful Insurance Traning Market Support and Capacity Building (Training Organized by Ethio-Re) Ethio-Re and ZEP-RE Training Focuses on Reassurance and Life Insurance Product Development, March 11, 2025",
+"chunk_type": "paragraph",
+"page_refs": [
+23
+],
+"bounding_box": {
+"x0": 53.9951,
+"top": 22.984000000000037,
+"x1": 553.94,
+"bottom": 553.7184,
+"page": 23
+},
+"parent_section": null,
+"token_count": 52,
+"content_hash": "2cb6e69689118a7a94a336f6",
+"chunk_id": "980b50fb-f7c",
+"metadata": {}
+},
+{
+"content": "Ethiopian Reinsurance S.C. Africa Avenue | Kirkos Subcity | Woreda 9 Tel.: +251-11-557 5757 | +251-11-558 2790 | 92 | 93 Fax.: +251-11-557 5758 P.o. Box 12687, Addis Ababa, Ethiopia Email: info@ethiopianre.com Website: www.ethiopianre.com",
+"chunk_type": "paragraph",
+"page_refs": [
+24
+],
+"bounding_box": {
+"x0": 83.3599,
+"top": 468.77,
+"x1": 540.5418999999999,
+"bottom": 549.5213,
+"page": 24
+},
+"parent_section": null,
+"token_count": 59,
+"content_hash": "030cfe8d5cea09c36e57c8e5",
+"chunk_id": "bcc62ee7-450",
+"metadata": {}
+}
+]

@@ -1,0 +1,14 @@
+{
+  "doc_id": "ETS_Annual_Report_2024_2025_775901a5e6f08d42",
+  "origin_type": "native_digital",
+  "layout_complexity": "multi_column",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "general",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\ETS_Annual_Report_2024_2025.pdf",
+    "page_count": 94,
+    "filename": "ETS_Annual_Report_2024_2025.pdf"
+  }
+}

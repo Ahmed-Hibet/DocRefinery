@@ -1,0 +1,37 @@
+{
+  "doc_id": "Annual_Report_JUNE-2021_60bb91f91e528bf4",
+  "root": {
+    "title": "Document",
+    "page_start": 1,
+    "page_end": 110,
+    "child_sections": [
+      {
+        "title": "Document",
+        "page_start": 1,
+        "page_end": 110,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "Annual\nReport\n2020/21\n  |  |  i\n PARTICULARS |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2020/21 | 1,140.3 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2019/20 | 874.8 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2018/19 | 698.7 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  | ...",
+        "data_types_present": [
+          "tables",
+          "text"
+        ]
+      },
+      {
+        "title": "Financial Statements",
+        "page_start": 33,
+        "page_end": 110,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "Financial Statements ETHIO RE Annual Report 2020/21 2 ETHIO RE Annual Report 2020/21 3 ETHIO RE Annual Report 2020/21 4 ETHIO RE Annual Report 2020/21 5 ETHIO RE Annual Report 2020/21 6 ETHIO RE Ethiopian reinsurance share company Annual Report 2020/21 statement of the financial position as at June 30, 2021 7 ETHIO RE Ethiopian reinsurance...",
+        "data_types_present": [
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "Annual\nReport\n2020/21\n  |  |  i\n PARTICULARS |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2020/21 | 1,140.3 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2019/20 | 874.8 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  |  |  |  |  | \n | 2018/19 | 698.7 |  |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |...",
+    "data_types_present": []
+  },
+  "total_pages": 110
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "CBE ANNUAL REPORT 2023-24_a1e5b6b1464a879c",
+  "root": {
+    "title": "Document",
+    "page_start": 3,
+    "page_end": 161,
+    "child_sections": [
+      {
+        "title": "Document",
+        "page_start": 3,
+        "page_end": 161,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "Income Statement Comparison with 2022/23 FY |  |  | \nParticulars | 2022/23 FY (Mn. Birr) | 2023/24 FY (Mn. Birr) | Growth (%)\nTotal income | 118,917 | 137,442 | 15.6\nInterest income | 87,824 | 101,040 | 15.0\nNon-interest income | 31,093 | 36,402 | 17.1\nTotal expense | 96,807 | 110,777 | 14.4\nInterest expense | 45,674 | 44,485 |...",
+        "data_types_present": [
+          "tables",
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "Income Statement Comparison with 2022/23 FY |  |  | \nParticulars | 2022/23 FY (Mn. Birr) | 2023/24 FY (Mn. Birr) | Growth (%)\nTotal income | 118,917 | 137,442 | 15.6\nInterest income | 87,824 | 101,040 | 15.0\nNon-interest income | 31,093 | 36,402 | 17.1\nTotal expense | 96,807 | 110,777 | 14.4\nInterest expense | 45,674 | 44,485 |...",
+    "data_types_present": []
+  },
+  "total_pages": 161
+}

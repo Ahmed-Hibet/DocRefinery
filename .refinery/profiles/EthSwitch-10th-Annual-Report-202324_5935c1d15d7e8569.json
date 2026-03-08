@@ -1,0 +1,14 @@
+{
+  "doc_id": "EthSwitch-10th-Annual-Report-202324_5935c1d15d7e8569",
+  "origin_type": "mixed",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "language_confidence": 0.9,
+  "domain_hint": "general",
+  "estimated_extraction_cost": "needs_layout_model",
+  "metadata": {
+    "source_path": "C:\\Users\\hp envy\\Desktop\\Tenx\\DocRefinery\\data\\documents\\annual_reports\\EthSwitch-10th-Annual-Report-202324.pdf",
+    "page_count": 80,
+    "filename": "EthSwitch-10th-Annual-Report-202324.pdf"
+  }
+}

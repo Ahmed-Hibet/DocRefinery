@@ -1,0 +1,37 @@
+{
+  "doc_id": "ETS_Annual_Report_2024_2025_775901a5e6f08d42",
+  "root": {
+    "title": "Document",
+    "page_start": 2,
+    "page_end": 94,
+    "child_sections": [
+      {
+        "title": "Document",
+        "page_start": 2,
+        "page_end": 91,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "CORPORATE\nPhilosophy\nEthSwitch is the National Switch owned by\nall Banks (Private and Public) operating in\nEthiopia including the National Bank of\nEthiopia, Microfinance Institutions (MFIs),\nPayment Instrument Issuers (PIIs), and\nPayment Services Operators (PSOs). EthSwitch is mandated to Create Interop-\nerability Between Financial...",
+        "data_types_present": [
+          "tables",
+          "text"
+        ]
+      },
+      {
+        "title": "BOARD OF DIRECTORS’ REPORT",
+        "page_start": 17,
+        "page_end": 94,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "BOARD OF DIRECTORS’ REPORT REPORT OF THE BOARD OF DIRECTORS The Board of Directors of EthSwitch is pleased to During the reporting period, EthSwitch continued announce EthSwitch’s Annual Report and Audited to deliver outstanding operational and financial Financial Statements for the Financial Year ended performances as well as remarkable...",
+        "data_types_present": [
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "CORPORATE\nPhilosophy\nEthSwitch is the National Switch owned by\nall Banks (Private and Public) operating in\nEthiopia including the National Bank of\nEthiopia, Microfinance Institutions (MFIs),\nPayment Instrument Issuers (PIIs), and\nPayment Services Operators (PSOs). EthSwitch is mandated to Create Interop-\nerability Between Financial... BOARD OF...",
+    "data_types_present": []
+  },
+  "total_pages": 94
+}
