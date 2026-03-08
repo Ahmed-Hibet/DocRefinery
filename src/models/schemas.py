@@ -155,7 +155,7 @@ class LDU(BaseModel):
 
     content: str
     chunk_type: ChunkType
-    page_refs: list[int] = Field(default_factory=list, ge=1)
+    page_refs: list[int] = Field(default_factory=list, description="Page numbers (1-based); each >= 1")
     bounding_box: BoundingBox | None = None
     parent_section: str | None = None
     token_count: int = Field(default=0, ge=0)

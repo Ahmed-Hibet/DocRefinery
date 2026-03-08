@@ -1,0 +1,25 @@
+{
+  "doc_id": "test",
+  "root": {
+    "title": "Document",
+    "page_start": 1,
+    "page_end": 1,
+    "child_sections": [
+      {
+        "title": "1. Intro",
+        "page_start": 1,
+        "page_end": 1,
+        "child_sections": [],
+        "key_entities": [],
+        "summary": "1. Intro Content here.",
+        "data_types_present": [
+          "text"
+        ]
+      }
+    ],
+    "key_entities": [],
+    "summary": "1. Intro Content here.",
+    "data_types_present": []
+  },
+  "total_pages": 2
+}

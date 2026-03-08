@@ -6,7 +6,7 @@ Document Intelligence Refinery — a production-grade, multi-stage agentic pipel
 
 - **src/** – Source code
   - **models/** – Pydantic schemas: `DocumentProfile`, `ExtractedDocument`, `LDU`, `PageIndex`, `ProvenanceChain`
-  - **agents/** – Triage Agent (`triage.py`), ExtractionRouter (`extractor.py`)
+  - **agents/** – Triage (`triage.py`), ExtractionRouter (`extractor.py`), ChunkingEngine (`chunker.py`), PageIndex builder (`indexer.py`), optional vector store (`vector_store.py`)
   - **strategies/** – Extraction strategies: `FastTextExtractor`, `LayoutExtractor`, `VisionExtractor`
   - **utils/** – PDF analysis (e.g. `pdf_analysis.py` for triage/confidence)
   - **config/** – Configuration
@@ -27,6 +27,9 @@ pip install -e .
 
 # Optional: layout-aware extraction with Docling
 pip install -e ".[docling]"
+
+# Optional: vector store ingestion (ChromaDB) for semantic search over LDUs
+pip install -e ".[chroma]"
 ```
 
 ## Usage
@@ -38,8 +41,9 @@ from pathlib import Path
 from src.pipeline import run_refinery_on_document
 
 profile_dict, strategy, confidence = run_refinery_on_document(Path("data/your_doc.pdf"))
-# Profile is saved to .refinery/profiles/{doc_id}.json
-# Ledger entry appended to .refinery/extraction_ledger.jsonl
+# Profile → .refinery/profiles/{doc_id}.json
+# Ledger → .refinery/extraction_ledger.jsonl
+# LDUs + PageIndex → .refinery/pageindex/{doc_id}.json (Stage 3+4); optional ChromaDB ingestion
 ```
 
 ### Run on all PDFs in `data/` or `data/documents/`
@@ -57,6 +61,22 @@ If you don't have the corpus yet, generate placeholder profiles and ledger entri
 
 ```bash
 python scripts/generate_interim_artifacts.py
+```
+
+### Stage 3 & 4: Chunking and PageIndex (after extraction)
+
+```python
+from src.agents.chunker import run_chunker
+from src.agents.indexer import build_page_index, save_page_index, pageindex_query
+from pathlib import Path
+
+# After you have an ExtractedDocument (e.g. from ExtractionRouter):
+ldus = run_chunker(extracted_doc)
+page_index = build_page_index(profile.doc_id, ldus, total_pages=len(extracted_doc.pages))
+save_page_index(page_index, Path(".refinery/pageindex"))
+
+# Topic-based section lookup (before vector search)
+top_sections = pageindex_query(page_index, "financial revenue", top_k=3)
 ```
 
 ### Triage only
